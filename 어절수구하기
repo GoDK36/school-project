@@ -1,0 +1,7 @@
+result = 0
+for key_dic in dic.keys():
+    for key_num in dic[key_dic]['sense'].keys():
+        sentence = dic[key_dic]['sense'][key_num]['뜻풀이']
+        result += len(sentence.split())
+
+print(result)
