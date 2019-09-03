@@ -1,0 +1,9 @@
+append를 통해 구하는 방법이다.
+
+result = []
+for key_dic in dic.keys():
+    for key_num in dic[key_dic]['sense'].keys():
+        sentence = dic[key_dic]['sense'][key_num]['뜻풀이']
+        result.append(len(sentence.split()))
+
+sum(result)
