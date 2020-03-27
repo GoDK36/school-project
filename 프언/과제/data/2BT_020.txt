@@ -1,0 +1,587 @@
+글쓰기/NNG + 의/JKG 비밀/NNG 누구/NP + 나/JX 남01/NNG + 들/XSN + 이/JKS 재미있다/VA + 게/EC 읽다/VV + 는/ETM 글/NNG + ,/SP 감동02/NNG + 을/JKO 받다01/VV + 을/ETM 수02/NNB 있다01/VA + 는/ETM 글/NNG + 을/JKO 쓰다01/VV + 고/EC 싶다/VX + 어/EC + 하다01/VX + ㅂ니다/EF + ./SF
+이런01/MM 글/NNG + 을/JKO 쓰다01/VV + 려면/EC 첫째/NR + 는/JX 남01/NNG + 의/JKG 글/NNG + 을/JKO 흉내/NNG + 내다02/VV + 지/EC 말다03/VX + 아야/EC 하다01/VX + 고/EC + ,/SP 둘째/NR + 는/JX 겉보기/NNG 좋다01/VA + 은/ETM 것01/NNB + 에/JKB 마음01/NNG 팔다/VV + 지/EC 말다03/VX + 며/EC + ,/SP 셋째/NNG + 는/JX 자기04/NNG + 가/JKS 실제로/MAG 겪다/VV + 은/ETM 것01/NNB + 을/JKO 정직하다01/VA + 게/EC 쓰다01/VV + 고/EC + ,/SP 넷째/NR + 는/JX 가장01/MAG 쓰다01/VV + 고/EC 싶다/VX + 은/ETM 것01/NNB + 을/JKO 쓰다01/VV + 며/EC + ,/SP 다섯째/NR + 는/JX 자기04/NNG + 의/JKG 말01/NNG + 로/JKB 쓰다01/VV + ㄹ/ETM 것01/NNB ─/SW + ─/SW 이05/MM 다섯/MM 가지04/NNB + 만/JX 지키다01/VV + 면/EC 훌륭하다/VA + ㄴ/ETM 글/NNG + 을/JKO 쓰다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 습니다/EF + ./SF
+이것/NP + 을/JKO 한마디/NNG + 로/JKB 말하다/VV + 면/EC 자기04/NNG + 가/JKS 겪다/VV + 은/ETM 사실04/NNG + 을/JKO 자기04/NNG + 의/JKG 말01/NNG + 로/JKB 정직하다01/VA + 게/EC 쓰다01/VV + 는/ETM 것01/NNB + 이다/VCP + 지요/EF + ./SF
+그런데/MAJ + ,/SP 여러분/NP + 들/XSN + 이/JKS 평소/NNG + 에/JKB 집01/NNG + 에서/JKB 자유롭다/VA + 게/EC 쓰다01/VV + 고/EC 있다01/VX + 는/ETM 일기12/NNG + 는/JX + ,/SP 글/NNG + 을/JKO 쓰다01/VV + ㄹ/ETM 때01/NNG + 에/JKB 가지다/VV + 어야/EC 하다01/VX + ㄹ/ETM 여러/MM 가지04/NNB 바람직스럽다@/VA + ㄴ/ETM 태도03/NNG + 를/JKO 모두01/MAG 그대로/MAG 자연스럽다/VA + 게/EC 가지다/VV + 고/EC 쓰다01/VV + 게/EC 되다01/VV + 는/ETM 글/NNG + 이다/VCP + ㅂ니다/EF + ./SF
+일기12/NNG + 는/JX 남01/NNG + 에게/JKB 보이다02/VV + 기/ETN 위하다01/VV + 아서/EC 쓰다01/VV + 는/ETM 글/NNG + 이/JKC 아니다/VCN + 고/EC 다만01/MAJ 쓰다01/VV + 고/EC 싶다/VX + 어서/EC + ,/SP 그리고/MAJ 훗날/NNG 어떤/MM 참고01/NNG + 가/JKC 되다01/VV + 기/ETN + 를/JKO 바라다01/VV + 아서/EC 쓰다01/VV + 는/ETM 것01/NNB + 이다/VCP + 기/ETN 때문/NNB + 이다/VCP + ㅂ니다/EF + ./SF
+그렇다@/VA + 기에/EC 일기12/NNG + 만/JX 꾸준히/MAG 쓰다01/VV + 면/EC + ,/SP 달리01/MAG 또/MAJ 글쓰기/NNG + 를/JKO 안02/MAG 하다01/VV + 더라도/EC 훌륭하다/VA + ㄴ/ETM 글쓰기/NNG 공부01/NNG + ,/SP 인생01/NNG 공부01/NNG + 가/JKC 되다01/VV + ㅂ니다/EF + ./SF
+일기12/NNG + 는/JX 자기04/NNG + 가/JKS 하다01/VV + ㄴ/ETM 일01/NNG + 을/JKO 쓰다01/VV + 는/ETM 경우03/NNG + 가/JKS 많다/VA + 지만/EC 보다01/VV + 고/EC 듣다01/VV + 은/ETM 얘기/NNG + 를/JKO 쓰다01/VV + ㄹ/ETM 수02/NNB + 도/JX 있다01/VA + 고/EC + ,/SP 감상문/NNG + 으로/JKB 쓰다01/VV + 기/ETN + 도/JX 하다01/VX + 고/EC + ,/SP 시13/NNG + 로/JKB + 도/JX 쓰다01/VV + ㅂ니다/EF + ./SF
+또/MAJ 일기12/NNG + 는/JX 길다02/VA + 게/EC + 도/JX 쓰다01/VV + 고/EC + ,/SP 짧다/VA + 게/EC + 도/JX 쓰다01/VV + ㅂ니다/EF + ./SF
+날01/NNG + 마다/JX 쓰다01/VV + 면/EC 좋다01/VA + 지만/EC + ,/SP 이따금/MAG 쓰다01/VV + 고/EC 싶다/VX + 을/ETM 때01/NNG 쓰다01/VV + 어도/EC 되다01/VV + ㅂ니다/EF + ./SF
+이렇다/VA + 게/EC 일기12/NNG + 는/JX 그01/MM 내용02/NNG + 과/JC 형식01/NNG + 을/JKO 마음대로/MAG 하다01/VV + 아서/EC 쓰다01/VV + 는/ETM 글/NNG + 이다/VCP + ㅂ니다/EF + ./SF
+여기01/NP 모으다/VV + ㄴ/ETM 여러/MM 어린이01/NNG + 들/XSN + 의/JKG 일기12/NNG + 는/JX 이러하다/VA + ㄴ/ETM 일기12/NNG + 글/NNG + 의/JKG 특징/NNG + 을/JKO 잘02/MAG 보이다02/VV + 어/EC 주다01/VX + ㅂ니다/EF + ./SF
+부디01/MAG 이05/MM 책01/NNG + 을/JKO 읽다/VV + 는/ETM 여러분/NP + 들/XSN + 은/JX + ,/SP 이05/MM 일기12/NNG + 를/JKO 쓰다01/VV + ㄴ/ETM 이05/NP + 들/XSN + 이/JKS 제각기/MAG 다른/MM 환경02/NNG 속01/NNG + 에서/JKB 어떻다/VA + 게/EC 괴로워하다/VV + 고/EC + ,/SP 기뻐하다/VV + 고/EC + ,/SP 슬퍼하다/VV + 면서/EC 희망/NNG + 을/JKO 잃다/VV + 지/EC 않다/VX + 고/EC 살아가다/VV + 았/EP + 는가/EF + 를/JKO 잘02/MAG 살피다01/VV + 고/EC 생각하다/VV + 아/EC 주다01/VX + 시/EP + 어요/EF + ./SF
+그러면/MAJ 크나크다/VA + ㄴ/ETM 위안03/NNG + 을/JKO 얻다01/VV + 고/EC 가르침/NNG + 을/JKO 받다01/VV + 을/ETM 것01/NNB + 이다/VCP + ㅂ니다/EF + ./SF
+남01/NNG + 에게/JKB 자랑하다01/VV + 기/ETN 위하다01/VV + 아/EC 쓰다01/VV + 는/ETM 글/NNG + 이/JKC 아니다/VCN + 기에/EC 그것/NP + 을/JKO 읽다/VV + 게/EC 되다01/VV + 는/ETM 우리03/NP + 는/JX 재미01/NNG + 를/JKO 느끼다02/VV + 고/EC 감동02/NNG + 을/JKO 받다01/VV + 습니다/EF + ./SF
+일기12/NNG + 의/JKG 비밀/NNG + ,/SP 글쓰기/NNG + 의/JKG 비밀/NNG + 이/JKS 여기01/NP + 에/JKB 있다01/VA + 습니다/EF + ./SF
+1985/SN + 년02/NNB 이월01#/NNG 이오덕/NNP 제/XPN + 1/SN + 부15/NNB 집01/NNG 보다01/VV + 기/ETN 1/SN + ./SF
+집01/NNG 보다01/VV + 기/ETN 대구/NNP 대봉국교/NNP 2/SN + 년02/NNB 박주희/NNP 1983/SN + 년02/NNB 삼월#/NNG 16/SN + 일07/NNB 수련장80/NNG 어머니01/NNG + 께서/JKS 볼일/NNG 보다01/VV + 러/EC 다녀오다/VV + 시/EP + 는/ETM 길01/NNG + 에/JKB 2/SN + 학년/NNG 삼월#/NNG + 분/XSN 동아/NNP "/SS + 이달의학습/NNP + "/SS + 이라/JKQ + ㄴ/ETM 문제집*/NNG + 을/JKO 사다/VV + 아/EC + 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+나03/NP + 는/JX 무척01/MAG 기쁘다/VA + 었/EP + 다/EF + ./SF
+그렇다/VA + 지/EC 않다/VX + 아도/EC 문제집*/NNG + 이/JKS 하나/NR 사다/VV + 고/EC 싶다/VX + 었/EP + 는데/EC + ./SF
+1/SN + 학년/NNG 때01/NNG + 도/JX 열심히/MAG 하다01/VV + 았/EP + 지만/EC 2/SN + 학년/NNG 때01/NNG + 는/JX 더01/MAG 공부01/NNG + 를/JKO 열심히/MAG 하다01/VV + 아서/EC 어머니01/NNG + 를/JKO 기쁘다/VA + 게/EC 하다01/VX + 아/EC + 드리다01/VX + 어야/EC + 겠/EP + 다/EF + ./SF
+나03/NP + 는/JX 오늘/NNG + 까지/JX 배우다01/VV + ㄴ/ETM 것01/NNB + 을/JKO 복습하다/VV + 았/EP + 다/EF + ./SF
+예습/NNG + 도/JX 열심히/MAG 하다01/VV + 아야/EC + 겠/EP + 다/EF + ./SF
+삼월#/NNG 17/SN + 일07/NNB 빵게*/NNG 저녁밥/NNG + 을/JKO 먹다02/VV + 고/EC 한참/NNG 후08/NNG 공부01/NNG + 를/JKO 하다01/VV + 고/EC 있다01/VX + 는데/EC 어머니01/NNG + 께서/JKS 커다랗다/VA + ㄴ/ETM 빵게*/NNG 두01/MM 마리01/NNB + 를/JKO 찌다05/VV + 어/EC + 가지다/VX + 고/EC 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+작은방/NNG 언니/NNG + 네/XSN + 가/JKS 강구04/NNG + 에서/JKB 가져오다/VV + ㄴ/ETM 것01/NNB + 을/JKO 나누다/VV + 어/EC 주다01/VX + ㄴ/ETM 것01/NNB + 이다/VCP + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+우리03/NP 식구01/NNG + 는/JX 모두01/MAG 둘러앉다/VV + 아서/EC 맛있다/VA + 게/EC 먹다02/VV + 었/EP + 다/EF + ./SF
+다03/MAG 먹다01/VV + 고/EC 나다01/VX + 아도/EC 더01/MAG 먹다02/VV + 고/EC 싶다/VX + 어서/EC 나03/NP + 는/JX 빵게*/NNG 다리01/NNG + 를/JKO 들다04/VV + 고/EC 놓다01/VV + 지/EC + 를/JKO 못하다/VX + 았/EP + 다/EF + ./SF
+다03/MAG 먹다02/VV + 고/EC 나다01/VX + 아서/EC 손01/NNG + 을/JKO 씻다/VV + 었/EP + 는데/EC + 도/JX 손01/NNG + 에서/JKB 냄새/NNG + 가/JKS 자꾸만/MAG 나다01/VV + 는/ETM 것01/NNB 같다/VA + 았/EP + 다/EF + ./SF
+삼월#/NNG 18/SN + 일07/NNB 동생01/NNG 나03/NP + 의/JKG 귀엽다/VA + 은/ETM 동생01/NNG + 은/JX 다섯/MM 살04/NNB + 이다/VCP + ㅂ니다/EF + ./SF
+참01/MAG 귀엽다/VA + 어요/EF + ./SF
+장난감/NNG + 으로/JKB 로봇/NNG + 도/JX 만들다/VV + 고/EC 책01/NNG 속01/NNG + 의/JKG 그림책/NNG + 을/JKO 잘02/MAG 알아맞히다@/VV + 기/ETN + 도/JX 하다01/VX + ㅂ니다/EF + ./SF
+나03/NP + 가/JKS 언니/NNG + 들/XSN + 과/JKB 함께/MAG 학교/NNG 놀이01/NNG + 를/JKO 하다01/VV + 면/EC 동생01/NNG + 은/JX 언제나/MAG 대장04/NNG + 이/JKC 되다01/VV + 고/EC 싶다/VX + 어/EC + 하다01/VX + ㅂ니다/EF + ./SF
+아빠/NNG + 는/JX 총대장01/NNG + ,/SP 동생01/NNG + 은/JX 대대장/NNG + 이다/VCP + 라/EF + 고/JKQ 하다01/VV + ㅂ니다/EF + ./SF
+귀엽다/VA + 은/ETM 동생01/NNG + 을/JKO 가지다/VV + ㄴ/ETM 것01/NNB + 이/JKS 자랑스럽다/VA + 습니다/EF + ./SF
+삼월#/NNG 19/SN + 일07/NNB 우리03/NP 집01/NNG 매리/NNP 우리03/NP 집01/NNG 개03/NNG + 는/JX 이름/NNG + 이/JKS 매리/NNP + 이다/VCP + ㅂ니다/EF + ./SF
+그런데/MAJ 며칠/NNG 전08/NNG + 에/JKB 이웃집/NNG 아이01/NNG + 를/JKO 물다02/VV + 어서/EC 지금03/NNG + 은/JX 매일/MAG 꾸중/NNG + 을/JKO 듣다01/VV + 습니다/EF + ./SF
+다른/MM 때01/NNG + 는/JX 낯설다/VA + ㄴ/ETM 사람/NNG + 이/JKS 오다01/VV + 면/EC 멍멍01@/MAG 짖다/VV + 어/EC + 대다01/VX + 고/EC 집01/NNG + 도/JX 곧잘/MAG 보다01/VV + 았/EP + 습니다/EF + ./SF
+개03/NNG + 는/JX 집01/NNG + 도/JX 지키다01/VV + 고/EC 음식/NNG + 도/JX 잘02/MAG 먹다02/VV + 지만/EC 사람/NNG + 을/JKO 물다02/VV + 어서/EC 참01/MAG 안되다02/VA + 었/EP + 습니다/EF + ./SF
+삼월#/NNG 20/SN + 일07/NNB 카레라이스/NNG 일요일/NNG 날01/NNG + 은/JX 우리03/NP 집01/NNG + 은/JX 늘/MAG 별미/NNG + 를/JKO 하다01/VV + 아/EC + 먹다02/VV + 습니다/EF + ./SF
+저녁/NNG + 에/JKB + 는/JX 어머니01/NNG + 께서/JKS 카레라이스/NNG + 를/JKO 하다01/VV + 아/EC + 주다01/VX + 시/EP + 었/EP + 습니다/EF + ./SF
+감자01/NNG + 도/JX 당근/NNG + 도/JX 고기01/NNG + 도/JX 씹히다01/VV + ㄹ/ETM 때01/NNG + 마다/JX 맛있다/VA + 었/EP + 습니다/EF + ./SF
+나03/NP + 는/JX 나03/NP + 의/JKG 밥01/NNG + 을/JKO 먹다02/VV + 고/EC 조금01/MAG 더01/MAG 먹다02/VV + 었/EP + 습니다/EF + ./SF
+벌써/MAG 다음01/NNG 일요일/NNG + 이/JKS 기다려지다*/VV + ㅂ니다/EF + ./SF
+다음01/NNG 일요일/NNG + 에/JKB + 는/JX 또/MAJ 어떤/MM 맛있다/VA + 는/ETM 음식/NNG + 을/JKO 먹다02/VV + 을/ETM 수02/NNB 있다01/VA + 을까/EF + 요/JX + ?/SF
+삼월#/NNG 21/SN + 일07/NNB 집01/NNG 보다01/VV + 기/ETN 나03/NP + 가/JKS 학교/NNG + 에서/JKB 돌아오다/VV + 자/EC 어머니01/NNG + 께서/JKS 큰언니/NNG 학교/NNG + 에/JKB 볼일/NNG + 이/JKS 있다01/VA + 어서/EC 가다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+동생01/NNG + 과/JC 나03/NP + 는/JX 대문03/NNG + 을/JKO 꼭02/MAG 닫아걸다/VV + 고서/EC 어머니01/NNG + 가/JKS 돌아오다/VV + 시/EP + ㄹ/ETM 때01/NNG + 까지/JX 숙제03/NNG + 를/JKO 하다01/VV + 면서/EC 집01/NNG + 을/JKO 보다01/VV + 았/EP + 다/EF + ./SF
+집01/NNG + 을/JKO 보다01/VV + 면서/EC 낯설다/VA + ㄴ/ETM 사람/NNG + 이/JKS 오다01/VV + 면/EC 절대05/MAG 문05/NNG + 을/JKO 열다02/VV + 어/EC 주다01/VX + 지/EC 말다03/VX + 고/EC 먼저/MAG + ,/SP 누구/NP + 시/EP + ㅂ니까/EF + ?/SF
+물어보다/VV + 아야지/EF 하다01/VV + 고/EC 마음먹다/VV + 었/EP + 는데/EC 아무01/NP + 도/JX 오다01/VV + 지/EC 않다/VX + 아서/EC 약간/NNG + 은/JX 서운하다/VA + 았/EP + 다/EF + ./SF
+오늘/NNG + 은/JX 집01/NNG + 도/JX 보다01/VV + 고/EC 동생01/NNG + 도/JX 보다01/VV + 고/EC 착하다/VA + ㄴ/ETM 일01/NNG + 을/JKO 한꺼번에/MAG 두01/MM 가지04/NNB + 나/JX 하다01/VV + 고/EC 나다01/VX + 니/EC 저녁밥/NNG + 이/JKS 더01/MAG 맛있다/VA + 는/ETM 것01/NNB 같다/VA + 았/EP + 다/EF + ./SF
+앞/NNG + 으로/JKB + 는/JX 착하다/VA + ㄴ/ETM 일01/NNG + 을/JKO 많이/MAG 하다01/VV + 아야지/EF + ./SF
+삼월#/NNG 22/SN + 일07/NNB 이웃집/NNG 제사07/NNG + 떡01/NNG 어머니01/NNG + 의/JKG 친구02/NNG + 네/XSN 집01/NNG + 에서/JKB 제사07/NNG + 를/JKO 모시다/VV + 었/EP + 다/EF + 고/JKQ 떡01/NNG + 을/JKO 가지다/VV + 고/EC 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+팥고물/NNG + 을/JKO 놓다01/VV + 은/ETM 찰떡/NNG + 이/JKS 참01/MAG 맛01/NNG + 이/JKS 있다01/VA + 었/EP + 다/EF + ./SF
+"/SS + 어머니01/NNG 우리03/NP + 도/JX 떡01/NNG 하다01/VV + 아/EC + 먹다02/VV + 어요/EF + ./SF + "/SS
+하다01/VV + 고/EC 말씀드리다*/VV + 었/EP + 더니/EC 이번01/NNG 일요일/NNG + 쯤/XSN 한번/NNG 하다01/VV + 아/EC + 먹다02/VV + 자/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 습니다/EF + ./SF
+우리03/NP 집01/NNG + 에/JKB 떡01/NNG + 을/JKO 하다01/VV + 면/EC 이웃집/NNG + 에/JKB + 도/JX 나누다/VV + 어/EC 드리다01/VX + 고/EC 하다01/VX + 아서/EC 이웃/NNG + 끼리/XSN 잘02/MAG 지내다01/VV + 면/EC 좋다01/VA + 겠/EP + 습니다/EF + ./SF
+삼월#/NNG 23/SN + 일07/NNB 우산01/NNG 새06/MM 학년/NNG + 이/JKC 되다01/VV + 었/EP + 을/ETM 때01/NNG 어머니01/NNG + 께서/JKS 우산01/NNG + 을/JKO 3/SN + 개10/NNB 사다/VV + 아/EC + 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+언니/NNG + 들/XSN 것01/NNB + 이다/VCP + 라/EF + 고/JKQ 하다01/VV + 시/EP + 면서/EC 주희/NNP + 는/JX 2/SN + 학년/NNG + 이다/VCP + 니까/EC 헌/MM 것01/NNB + 을/JKO 더01/MAG 쓰다02/VV + 고/EC 조금01/MAG 있다01/VV + 다가/EC 새06/MM 우산01/NNG + 을/JKO 사다/VV + 아/EC + 주다01/VX + 시/EP + 겠/EP + 다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+나03/NP + 는/JX 하다01/VV + ㄹ/ETM 수02/NNB 없이/MAG "/SS + 네03/IC + ./SF + "/SS
+하다01/VV + 고/EC 대답하다/VV + 았/EP + 지만/EC 좀02/MAG 섭섭하다01/VA + 았/EP + 다/EF + ./SF
+그런데/MAJ 오늘/MAG 어머니01/NNG + 께서/JKS 1,300/SN + 원01/NNB + 을/JKO 주다01/VV + 시/EP + 었/EP + 다/EF + 고/JKQ 하다01/VV + 시/EP + 면서/EC 나03/NP + 의/JKG 우산01/NNG + 을/JKO 사다/VV + 다/EC 놓다01/VV + 으시/EP + 었/EP + 다/EF + ./SF
+참01/MAG 기분01/NNG + 이/JKS 좋다01/VA + 았/EP + 다/EF + ./SF
+삼월#/NNG 24/SN + 일07/NNB 비01/NNG 오늘/NNG + 은/JX 비01/NNG + 가/JKS 오다01/VV + 지/EC 않다/VX + 아서/EC 섭섭하다01/VA + 았/EP + 다/EF + ./SF
+나03/NP + 는/JX 어제01/MAG 어머니01/NNG + 께서/JKS 사다/VV + 아/EC + 주다01/VX + 시/EP + ㄴ/ETM 우산01/NNG + 을/JKO 쓰다02/VV + 고/EC 자랑하다01/VV + 고/EC 싶다/VX + 었/EP + 는데/EC 오늘/NNG + 은/JX 비01/NNG + 가/JKS 안02/MAG 오다01/VV + 았/EP + 다/EF + ./SF
+집01/NNG + 에서/JKB 나03/NP + 는/JX 우산01/NNG + 을/JKO 펴다/VV + 었/EP + 다/EC 접다01/VV + 었/EP + 다/EC 하다01/VV + 면서/EC 비01/NNG 오다01/VV + 기/ETN + 를/JKO 기다리다/VV + 었/EP + 다/EF + ./SF
+다음01/NNG + 에/JKB 비01/NNG + 가/JKS 오다01/VV + 면/EC 나03/NP + 도/JX 새06/MM 우산01/NNG + 을/JKO 쓰다02/VV + 고/EC 힘차다/VA + 게/EC 학교/NNG + 에/JKB 가다01/VV + 아야지/EF + ./SF
+삼월#/NNG 25/SN + 일07/NNB 소꿉장난/NNG 숙제03/NNG + 가/JKS 끝나다/VV + 고/EC 언니/NNG 동생01/NNG + 과/JKB 같이/MAG 소꿉놀이/NNG + 를/JKO 하다01/VV + 았/EP + 다/EF + ./SF
+나03/NP + 는/JX 엄마/NNG + 가/JKC 되다01/VV + 고/EC 언니/NNG + 는/JX 선생님/NNG + 이/JKC 되다01/VV + 고/EC 동생01/NNG + 은/JX 학생/NNG + 이/JKC 되다01/VV + 었/EP + 다/EF + ./SF
+동생01/NNG + 은/JX 언니/NNG + ,/SP 선생님/NNG + 이/JKS 가르치다01/VV + 는/ETM 대로01/NNB 잘02/MAG 따르다01/VV + 아/EC 하다01/VV + 았/EP + 다/EF + ./SF
+노래01/NNG + 도/JX 하다01/VV + 고/EC 춤01/NNG + 도/JX 추다02/VV + 고/EC 우리03/NP + ㄴ/JX 재미있다/VA + 게/EC 소꿉놀이/NNG + 를/JKO 하다01/VV + 았/EP + 다/EF + ./SF
+엄마/NNG + 는/JX 힘들다/VA + 어요/EF + ,/SP 하다01/VV + 면서/EC 나03/NP + 는/JX 마음속/NNG + 으로/JKB 어머니01/NNG + 의/JKG 말씀/NNG + 을/JKO 잘02/MAG 듣다01/VV + 어야/EC + 겠/EP + 다/EF + 고/JKQ 생각하다/VV + 았/EP + 다/EF + ./SF
+삼월#/NNG 26/SN + 일07/NNB 콩조림*/NNG 나03/NP + 는/JX 반찬/NNG + 을/JKO 아무것/NNG + 이나/JX 잘02/MAG 먹다02/VV + 는/ETM 편04/NNB + 이다/VCP + ㅂ니다/EF + ./SF
+그러나/MAJ 까맣다/VA + ㄴ/ETM 콩조림*/NNG + 은/JX 참01/MAG 맛있다/VA + 습니다/EF + ./SF
+꼭꼭01/MAG 씹다01/VV + 을/ETM 때01/NNG + 마다/JX 고소하다01/VA + ㄴ/ETM 맛01/NNG + 이/JKS 입/NNG 안01/NNG + 에/JKB 가득하다01/VA + ㅂ니다/EF + ./SF
+오촌/NNG + 아재01@/NNG + 가/JKS 시골/NNG + 에서/JKB 가지다/VV + 고/EC 오다01/VV + ㄴ/ETM 콩01/NNG + 으로/JKB 만들다/VV + 었/EP + 는데/EC 어머니01/NNG + 께서/JKS 시장04/NNG + 에서/JKB 사다/VV + 아서/EC 만들다/VV + ㄴ/ETM 콩조림*/NNG + 보다/JKB 더01/MAG 고소하다01/VA + 고/EC 맛있다/VA + 는/ETM 것01/NNB 같다/VA + 습니다/EF + ./SF
+까맣다/VA + ㄴ/ETM 콩조림*/NNG + 을/JKO 하얗다/VA + ㄴ/ETM 밥01/NNG 위01/NNG + 에/JKB 얹다/VV + 어서/EC 꼭꼭01/MAG 씹다01/VV + 어/EC 먹다02/VV + 으면/EC 정말01/MAG 맛있다/VA + 습니다/EF + ./SF
+삼월#/NNG 27/SN + 일07/NNB 우리03/NP 집01/NNG 매리/NNP 우리03/NP 집01/NNG 매리/NNP + 는/JX 이웃집/NNG 아이01/NNG + 를/JKO 물다02/VV + 어서/EC 검사받다*/VV + 으러/EC 가축병원/NNG + 에/JKB 가다01/VV + 았/EP + 다가/EC 오늘/MAG 돌아오다/VV + 았/EP + 습니다/EF + ./SF
+일주일/NNG 만01/NNB + 에/JKB 집01/NNG + 에/JKB 돌아오다/VV + ㄴ/ETM 것01/NNB + 이다/VCP + ㅂ니다/EF + ./SF
+아버지/NNG + 와/JC 어머니01/NNG + 가/JKS 데리다/VV + 고/EC 오다01/VV + 시/EP + 었/EP + 습니다/EF + ./SF
+우리03/NP 매리/NNP + 는/JX 얼마나/MAG 기뻐하다/VV + 는지/EC 짐승/NNG + 도/JX 자기04/NP + 의/JKG 집01/NNG + 이/JKS 제일04/NNG 좋다01/VA + 은/ETM 모양02/NNB + 이다/VCP + ㅂ니다/EF + ./SF
+그동안/NNG 고생/NNG + 을/JKO 하다01/VV + 았/EP + 는지/EC 살01/NNG + 이/JKS 쏙03/MAG 빠지다01/VV + 어서/EC 보다01/VV + 기/ETN + 가/JKS 참01/MAG 안타깝다/VA + 었/EP + 습니다/EF + ./SF
+맛있다/VA + 는/ETM 음식/NNG + 도/JX 주다01/VV + 고/EC 나03/NP + 는/JX 매리/NNP + 를/JKO 다시01/MAG 토실토실/MAG 살01/NNG + 이/JKS 찌다01/VV + 게/EC 만들다/VV + 겠/EP + 습니다/EF + ./SF
+삼월#/NNG 28/SN + 일07/NNB 정은이/NNP + 네/XSN 집01/NNG 학교/NNG + 에서/JKB 나03/NP + 는/JX 정은이/NNP + 와/JKB 약속/NNG + 을/JKO 하다01/VV + 았/EP + 다/EF + ./SF
+1/SN + 학년/NNG 때01/NNG + 도/JX 정은이/NNP + 와/JKB + 는/JX 친하다/VA + 게/EC 지내다01/VV + 었/EP + 고/EC 가끔/MAG 정은이/NNP + 네/XSN 집01/NNG + 에/JKB 숙제03/NNG + 하다01/VV + 러/EC 가다01/VV + 았/EP + 다/EF + ./SF
+정은이/NNP + 네/XSN 집01/NNG + 에/JKB + 는/JX 엄마/NNG + 가/JKS 자주01/MAG 안02/MAG 계시다/VV + 고/EC 동생01/NNG + 과/JC 정은이/NNP + 가/JKS 잘02/MAG 있다01/VV + 다/EF + ./SF
+나03/NP + 는/JX 정은이/NNP + 와/JKB 같이/MAG 숙제03/NNG + 를/JKO 다03/MAG 하다01/VV + 고/EC 동화책/NNG + 도/JX 읽다/VV + 었/EP + 다/EF + ./SF
+숙제03/NNG + 가/JKS 끝나다/VV + 고/EC 집01/NNG + 에/JKB 돌아오다/VV + ㄹ/ETM 때01/NNG + 는/JX 기분01/NNG + 이/JKS 좋다01/VA + 았/EP + 다/EF + ./SF
+삼월#/NNG 29/SN + 일07/NNB 공부01/NNG 숙제03/NNG + 를/JKO 일찍/MAG 끝내다/VV + 었/EP + 다/EF + ./SF
+어머니01/NNG + 께서/JKS 사다/VV + 아/EC + 주다01/VX + 시/EP + ㄴ/ETM 수련장80/NNG + 은/JX 삼월#/NNG + 달05/NNG 것01/NNB + 이다/VCP + 다/EF + ./SF
+그래서/MAJ 학교/NNG + 에서/JKB 배우다01/VV + ㄴ/ETM 데01/NNB + 까지/JX + 는/JX 다03/MAG 끝내다/VV + 려고/EC 열심히/MAG 하다01/VV + 았/EP + 더니/EC 오늘/MAG 끝나다/VV + 았/EP + 다/EF + ./SF
+공부01/NNG + 를/JKO 하다01/VV + 았/EP + 으니/EC 실력02/NNG + 도/JX 많이/MAG 늘다01/VV + 었/EP + 겠/EP + 지만/EC 마음01/NNG + 만/JX 먹다02/VV + 으면/EC 무엇/NP + 이든지/JX 하다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 다/EF + 는/ETM 생각01/NNG + 이/JKS 들다01/VV + 었/EP + 다/EF + ./SF
+이제01/NNG + 는/JX 무슨/MM 일01/NNG + 이든지/JX 겁내다/VV + 지/EC 말다03/VX + 고/EC 열심히/MAG 하다01/VV + 아야지/EF + ./SF
+삼월#/NNG 30/SN + 일07/NNB 위문편지/NNG 반11/NNG 친구02/NNG + 가/JKS 아프다/VA + 니까/EC 나03/NP + 의/JKG 마음01/NNG + 이/JKS 아프다/VA + 다/EF + ./SF
+빨리/MAG 낫다01/VV + 아서/EC 학교/NNG + 에/JKB 오다01/VV + 기/ETN + 를/JKO 기도하다02/VV + 면서/EC 위문편지/NNG + 를/JKO 쓰다01/VV + 었/EP + 다/EF + ./SF
+나03/NP + 의/JKG 기도03/NNG + 를/JKO 들어주다/VV + 시/EP + 어서/EC 용재/NNP + 가/JKS 빨리/MAG 낫다01/VV + 아/EC 학교/NNG + 에/JKB 오다01/VV + 면/EC 더01/MAG 정답다/VA + 게/EC 지내다01/VV + 어야지/EF + ./SF
+친구02/NNG + 를/JKO 위하다01/VV + 아/EC 주다01/VX + ㄴ다/EF + 고/JKQ 생각하다/VV + 니/EC 나03/NP + 의/JKG 마음01/NNG + 이/JKS 더01/MAG 기쁘다/VA + 다/EF + ./SF
+삼월#/NNG 31/SN + 일07/NNB 동생01/NNG + 의/JKG 아픔/NNG 요사이/NNG + 에/JKB + 는/JX 날씨01/NNG + 가/JKS 변덕/NNG + 을/JKO 부리다02/VV + 는/ETM 등쌀/NNG + 에/JKB 우리03/NP 식구01/NNG 모두01/NNG + 가/JKS 감기04/NNG + 에/JKB 걸리다01/VV + 었/EP + 다/EF + ./SF
+그런데/MAJ 특히/MAG 막내/NNG + 동생01/NNG 성진이/NNP + 가/JKS 심하다/VA + 다/EF + ./SF
+우리03/NP 동생01/NNG + 은/JX 조그맣다/VA + 지만/EC 입원01/NNG + 을/JKO 4/SN + 번04/NNB + 이나/JX 하다01/VV + 았/EP + 다/EF + ./SF
+그리고/MAJ 다른/MM 식구01/NNG + 들/XSN + 보다/JKB 몸01/NNG + 이/JKS 허약하다02/VA + ㄴ/ETM 편04/NNB + 이다/VCP + 다/EF + ./SF
+그런데/MAJ 오늘/MAG 갑자기/MAG 열07/NNG + 이/JKS 오르다/VV + 아/EC 동산병원/NNP + 에/JKB 가다01/VV + 았/EP + 다/EF + ./SF
+조금01/NNG 후08/NNG + 에/JKB 엄마/NNG + 한테/JKB 전화07/NNG + 가/JKS 오다01/VV + 았/EP + 다/EF + ./SF
+동생01/NNG + 이/JKS 입원01/NNG + 을/JKO 하다01/VV + 아야/EC 되다01/VV + ㄴ다/EF + 고/JKQ 하다01/VV + 았/EP + 다/EF + ./SF
+한01/MM 일주일/NNG 동안01/NNG + 은/JX 귀엽다/VA + 은/ETM 나03/NP + 의/JKG 동생01/NNG + 도/JX 인자하다01/VA + 고/EC 인정04/NNG 많다/VA + 으시/EP + ㄴ/ETM 어머님/NNG + 도/JX 못04/MAG 보다01/VV + 게/EC 되다01/VV + 었/EP + 다/EF + ./SF
+그러나/MAJ 엄마/NNG + 가/JKS 있다01/VV + 을/ETM 때01/NNG + 보다/JKB 더01/MAG 공부01/NNG 열심히/MAG 하다01/VV + 아야/EC + 겠/EP + 다/EF + ./SF
+사월02#/NNG 1/SN + 일07/NNB 엄마/NNG + 와/JC 동생01/NNG 동생01/NNG + 이/JKS 병원02/NNG + 에/JKB 입원하다01/VV + ㄴ/ETM 지02/NNB + 도/JX 2/SN + 일07/NNB + 이/JKS 지나다/VV + 았/EP + 다/EF + ./SF
+엄마/NNG + 가/JKS 보다01/VV + 고/EC 싶다/VX + 을/ETM 때01/NNG + ㄴ/JX 눈물01/NNG + 도/JX 나오다/VV + 았/EP + 고/EC 성진이/NNP + 가/JKS 보다01/VV + 고/EC 싶다/VX + 을/ETM 때01/NNG + ㄴ/JX 성진이/NNP + 의/JKG 모습01/NNG + 이/JKS 아른거리다/VV + ㄴ다/EF + ./SF
+지금03/MAG 엄마/NNG + 와/JC 성진이/NNP + 는/JX 어떻다/VA + 게/EC 하다01/VV + 고/EC 있다01/VX + 을까/EF + ?/SF
+엄마/NNG + ,/SP 성진이/NNP 얼굴01/NNG + 도/JX 다03/MAG 보다01/VV + 고/EC 싶다/VX + 다/EF + ./SF
+그러나/MAJ 이다음/NNG + 에/JKB 훌륭하다/VA + ㄴ/ETM 사람/NNG + 이/JKC 되다01/VV + 려면/EC 이런01/MM 고통/NNG + 쯤/XSN + 은/JX 물리치다/VV + 어야/EC 되다01/VV + ㄴ다/EF + 고/JKQ 생각하다/VV + ㄴ다/EF + ./SF
+엄마/NNG + 가/JKS 오다01/VV + ㄹ/ETM 동안01/NNG 열심히/MAG 공부하다/VV + 고/EC 착하다/VA + ㄴ/ETM 어린이01/NNG + 가/JKC 되다01/VV + 겠/EP + 다/EF + ./SF
+사월02#/NNG 2/SN + 일07/NNB 선도08/NNG 나03/NP + 도/JX 빨리/MAG 우리03/NP 학교/NNG + 의/JKG 언니/NNG + 가/JKC 되다01/VV + 었/EP + 으면/EC 좋다01/VA + 겠/EP + 다/EF + ./SF
+왜냐하면/MAJ 오늘/MAG 토요일/NNG + 은/JX 선도08/NNG 인수인계/NNG + 를/JKO 하다01/VV + ㄴ다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+그런데/MAJ 우리03/NP 언니/NNG + 가/JKS 다음01/NNG 주26/NNG + 부터/JX 선도08/NNG + 이다/VCP + ㄴ데/EC + ,/SP 게다가/MAG 선도08/NNG 반장08/NNG + 까지/JX 되다01/VV + 었/EP + 다/EF + 고/JKQ 보내다/VV + 었/EP + 다/EF + ./SF
+좀02/MAG 기분01/NNG + 도/JX 나쁘다01/VA + 았/EP + 지만/EC 한편/NNG + 으로/JKB + 는/JX 언니/NNG + 가/JKS 자랑스럽다/VA + 었/EP + 다/EF + ./SF
+나03/NP + 도/JX 빨리/MAG 크다01/VA + 어서/EC 언니/NNG + 처럼/JKB 선도08/NNG + 가/JKC 되다01/VV + 어/EC 학교/NNG + 를/JKO 깨끗이/MAG 하다01/VV + 겠/EP + 다/EF + ./SF
+사월02#/NNG 3/SN + 일07/NNB 엄마/NNG 엄마/NNG + 가/JKS 보다01/VV + 고/EC 싶다/VX + 다/EF + 고/JKQ 생각하다/VV + 니/EC 엄마/NNG + 께서/JKS 진짜/MAG 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+오늘/NNG + 은/JX 일요일/NNG + 이다/VCP + 라서/EC 반찬/NNG + 도/JX 하다01/VV + 고/EC 하다01/VV + ㄴ다/EF + 면서/EC 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+오다01/VV + 는/ETM 길01/NNG + 에/JKB 기쁘다/VA + ㄴ/ETM 일01/NNG + 을/JKO 담뿍/MAG 담다01/VV + 아/EC 가지다/VX + 고/EC 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+봄01/NNG + 이/JKC 되다01/VV + 니/EC 우리03/NP + 들/XSN + 이/JKS 옷01/NNG + 이/JKS 없다01/VA + 다/EF + 고/JKQ 하다01/VV + 시/EP + 면서/EC 옷01/NNG 한01/MM 벌02/NNB + 을/JKO 사다/VV + 아/EC + 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+언니/NNG 것01/NNB + 들/XSN + 과/JC 나03/NP + 의/JKG 것01/NNB + 을/JKO 사다/VV + 아/EC + 오다01/VV + 시/EP + 었/EP + 는데/EC 주름치마/NNG + 와/JC 윗옷@/NNG + 이다/VCP + ㄴ데/EC 부르뎅아동복/NNP 상가07/NNG + 에서/JKB 사다/VV + 았/EP + 는데/EC 나03/NP + 의/JKG 마음01/NNG + 에/JKB 쏙03/MAG 들다01/VV + 었/EP + 다/EF + ./SF
+엄마/NNG + 가/JKS 정말01/MAG 고맙다01/VA + 었/EP + 다/EF + ./SF
+엄마/NNG + 께서/JKS 사다/VV + 아/EC + 주다01/VX + 시/EP + ㄴ/ETM 것01/NNB + 은/JX 공부01/NNG + 를/JKO 더01/MAG 열심히/MAG 하다01/VV + 라/EF + 고/JKQ 사다/VV + 아/EC + 오다01/VV + 시/EP + ㄴ/ETM 거01@/NNB + 로/JKB 알다/VV + 고/EC 열심히/MAG 공부하다/VV + 겠/EP + 다/EF + ./SF
+사월02#/NNG 6/SN + 일07/NNB 동생01/NNG + 의/JKG 퇴원01/NNG 막내/NNG + 동생01/NNG 성진이/NNP + 가/JKS 지난달/NNG 31/SN + 일07/NNB 저녁/NNG 열07/NNG + 이/JKS 40/SN + 도05/NNB + 가/JKC 되다01/VV + 면서/EC 몹시/MAG 아프다/VA + 아서/EC 동산병원/NNP 응급실/NNG + 에/JKB 가다01/VV + 았/EP + 다가/EC 입원01/NNG + 을/JKO 하다01/VV + 아/EC 일주일/NNG 만01/NNB + 에/JKB 집01/NNG + 에/JKB 돌아오다/VV + 았/EP + 다/EF + ./SF
+그동안/NNG 어머니01/NNG + 가/JKS 계시다/VV + 지/EC 않다/VX + 아서/EC 불편하다01/VA + ㄴ/ETM 점10/NNG + 이/JKS 한두/MM 가지04/NNB + 가/JKC 아니다/VCN + 었/EP + 다/EF + ./SF
+목욕/NNG + 도/JX 못04/MAG 가다01/VV + 고/EC 옷01/NNG + 도/JX 못04/MAG 갈아입다/VV + 고/EC 밥01/NNG + 도/JX 언니/NNG + 가/JKS 하다01/VV + 아서/EC 겨우/MAG 먹다02/VV + 고/EC 다니다/VV + 었/EP + 다/EF + ./SF
+이제01/NNG + 는/JX 어머니01/NNG + 가/JKS 오다01/VV + 시/EP + 었/EP + 으니/EC 참01/MAG 좋다01/VA + 다/EF + ./SF
+어머니01/NNG + 가/JKS 계시다/VV + 지/EC 않다/VX + 는/ETM 집01/NNG + 은/JX 늘/MAG 썰렁하다/VA + 았/EP + 는데/EC 이제01/NNG + 는/JX 포근하다/VA + 게/EC 느끼다02/VV + 어/EC + 지다04/VX + ㄴ다/EF + ./SF
+동생01/NNG + 의/JKG 병04/NNG + 이/JKS 다03/MAG 낫다01/VV + 아서/EC 좋다01/VA + 고/EC 어머니01/NNG + 가/JKS 오다01/VV + 시/EP + 어서/EC 좋다01/VA + 지만/EC 동생01/NNG + 의/JKG 얼굴01/NNG + 이/JKS 많이/MAG 상하다02/VV + 아서/EC 마음01/NNG + 이/JKS 아프다/VA + 다/EF + ./SF
+사월02#/NNG 7/SN + 일07/NNB 꾸지람/NNG 요즈음/NNG + 은/JX 학교/NNG + 에/JKB 가다01/VV + 았/EP + 다/EC 오다01/VV + 아서/EC 점심/NNG 먹다02/VV + 고/EC 시작하다01/VV + ㄴ/ETM 숙제03/NNG + 가/JKS 6/SN + 시10/NNB + 가/JKS 넘다01/VV + 어야/EC 끝01/NNG + 이/JKS 나다01/VV + ㄴ다/EF + ./SF
+오늘/NNG + 은/JX 어머니01/NNG + 께서/JKS 아주01/MAG 화06/NNG + 가/JKS 많이/MAG 나다01/VV + 시/EP + 어서/EC 심하다/VA + ㄴ/ETM 꾸지람/NNG + 을/JKO 듣다01/VV + 었/EP + 다/EF + ./SF
+이제01/NNG + 는/JX 나03/NP + 가/JKS 하다01/VV + ㄹ/ETM 일01/NNG + 은/JX 나03/NP + 가/JKS 알다/VV + 아서/EC 하다01/VV + ㄹ/ETM 줄04/NNB 알다/VV + 는/ETM 어린이01/NNG + 가/JKC 되다01/VV + 어야/EC + 겠/EP + 다/EF + ./SF
+사월02#/NNG 8/SN + 일07/NNB 둘째/MM + 언니/NNG 우리03/NP 둘째/MM + 언니/NNG + 는/JX 6/SN + 학년/NNG + 이다/VCP + ㅂ니다/EF + ./SF
+사월02#/NNG 6/SN + 일07/NNB + ,/SP 7/SN + 일07/NNB 시험03/NNG + 을/JKO 치다02/VV + 었/EP + 는데/EC 모두01/MAG 100/SN + 점10/NNB + 을/JKO 받다01/VV + 아/EC 오다01/VV + 았/EP + 습니다/EF + ./SF
+나03/NP + 도/JX 언니/NNG + 처럼/JKB 열심히/MAG 공부하다/VV + 아서/EC 100/SN + 점10/NNB 받다01/VV + 을/ETM 수02/NNB 있다01/VA + 도록/EC 하다01/VV + 겠/EP + 습니다/EF + ./SF
+공부01/NNG + 도/JX 잘하다/VV + 고/EC 행동/NNG + 도/JX 모범02/NNG + 이/JKC 되다01/VV + 는/ETM 착하다/VA + ㄴ/ETM 어린이01/NNG + 가/JKC 되다01/VV + 려면/EC 다른/MM 사람/NNG + 보다/JKB 많이/MAG 노력하다01/VV + 고/EC 생각하다/VV + 아야/EC 하다01/VX + ㄴ다/EF + 고/JKQ 어머니01/NNG + 께서/JKS 말씀하다/VV + 시/EP + 었/EP + 습니다/EF + ./SF
+책01/NNG + 을/JKO 많이/MAG 읽다/VV + 어서/EC 더01/MAG 많다/VA + 은/ETM 것01/NNB + 을/JKO 알다/VV + 도록/EC 책01/NNG + 도/JX 많이/MAG 읽다/VV + 겠/EP + 습니다/EF + ./SF
+사월02#/NNG 9/SN + 일07/NNB 빨래/NNG 우리03/NP 집01/NNG 토요일/NNG + 은/JX 어머니01/NNG + 가/JKS 몹시/MAG 바쁘다/VA + ㄴ/ETM 날01/NNG + 이/JKC 되다01/VV + ㄴ다/EF + ./SF
+우리03/NP 모두01/NNG + 가/JKS 옷01/NNG + 을/JKO 갈아입다/VV + 고/EC 씻다/VV + 어야/EC 하다01/VX + 는/ETM 날01/NNG + 이다/VCP + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+어머니01/NNG + 는/JX 온종일/NNG 빨래하다/VV + 시/EP + 느라/EC 손01/NNG + 이/JKS 퉁퉁01/MAG 붓다01/VV + 어/EC 계시다/VX + ㄴ다/EF + ./SF
+나03/NP + 는/JX 나03/NP 하나/NNG + 만/JX + 이라도/JX 옷01/NNG + 을/JKO 깨끗이/MAG 입다01/VV + 어서/EC 어머니01/NNG + 의/JKG 수고01/NNG + 를/JKO 좀02/MAG 덜다01/VV + 어/EC 드리다01/VX + 어야/EC + 겠/EP + 다/EF + ./SF
+사월02#/NNG 10/SN + 일07/NNB 만들다/VV + 기/ETN 4/SN + 학년/NNG 언니/NNG + 가/JKS 국어01/NNG 시간04/NNG + 에/JKB 연극/NNG + 을/JKO 하다01/VV + ㄴ다/EF + 고/JKQ 연극/NNG + 에/JKB 필요하다/VA + ㄴ/ETM 해01/NNG + ,/SP 구름01/NNG 등05/NNB 모자08/NNG + 를/JKO 만들다/VV + 었/EP + 다/EF + ./SF
+나03/NP + 도/JX 따르다01/VV + 아서/EC 만들다/VV + 었/EP + 다/EF + ./SF
+나03/NP + 는/JX 동생01/NNG + 의/JKG 왕관01/NNG + 을/JKO 만들다/VV + 어/EC 주다01/VX + 었/EP + 더니/EC 동생01/NNG + 은/JX 좋다01/VA + 아라/EF + 고/JKQ 손뼉/NNG + 을/JKO 치다02/VV + 고/EC 엄마/NNG 아빠/NNG + 에게/JKB 자랑01/NNG + 을/JKO 하다01/VV + 았/EP + 다/EF + ./SF
+아버지/NNG + 께서/JKS 동생01/NNG + 을/JKO 사랑하다/VV + ㄹ/ETM 줄04/NNB 알다/VV + 고/EC 잘02/MAG 데리다/VV + 고/EC 놀다01/VV + 아야/EC 하다01/VX + ㄴ다/EF + 면서/EC 칭찬하다/VV + 아/EC 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+사월02#/NNG 11/SN + 일07/NNB 정리09/NNG 정돈02/NNG 숙제03/NNG + 를/JKO 다03/MAG 하다01/VV + 고/EC 책가방/NNG + 도/JX 챙기다/VV + 지/EC 않다/VX + 고/EC 숙제03/NNG + 하다01/VV + ㄴ/ETM 것01/NNB + 을/JKO 그냥/MAG 방07/NNG + 에/JKB 흩다01/VV + 어/EC 두다01/VX + 고/EC 나가다/VV + 아서/EC 줄넘기/NNG + 를/JKO 하다01/VV + 았/EP + 습니다/EF + ./SF
+줄넘기/NNG + 를/JKO 다03/MAG 하다01/VV + 고/EC 들어오다/VV + 니까/EC 엄마/NNG + 께서/JKS 꾸중하다/VV + 시/EP + 었/EP + 습니다/EF + ./SF
+줄넘기하다/VV + 는/ETM 것01/NNB + 도/JX 좋다01/VA + 지만/EC 숙제03/NNG + 를/JKO 다03/MAG 하다01/VV + 았/EP + 으면/EC 책가방/NNG + 을/JKO 챙기다/VV + 고/EC 방07/NNG + 에/JKB 숙제03/NNG + 하다01/VV + ㄴ/ETM 것01/NNB + 을/JKO 깨끗이/MAG 치우다01/VV + 고/EC 하다01/VV + ㄹ/ETM + 일01/NNG + 을/JKO 하다01/VV + 아야지/EF 하다01/VV + 고/EC 말씀하다/VV + 시/EP + 었/EP + 습니다/EF + ./SF
+엄마/NNG + 의/JKG 말01/NNG + 을/JKO 듣다01/VV + 고/EC 보다01/VX + 니/EC 그제야/MAG 나03/NP + 가/JKS 너무하다/VV + ㄴ/ETM 것01/NNB 같다/VA + 았/EP + 습니다/EF + ./SF
+그리고/MAJ 만약/NNG + 에/JKB 엄마/NNG + 께서/JKS 나03/NP + 의/JKG 못되다/VA + ㄴ/ETM 점10/NNG + 을/JKO 가르치다01/VV + 어/EC 주다01/VX + 시/EP + 지/EC 않다/VX + 았/EP + 다면/EC 나03/NP + 는/JX 나03/NP + 의/JKG 잘못/NNG + 이/JKS 무엇/NP + 이다/VCP + ㄴ지/EF + 도/JX 모르다/VV + 고/EC 있다01/VX + 었/EP + 을/ETM 것01/NNB + 이다/VCP + ㅂ니다/EF + ./SF
+사월02#/NNG 12/SN + 일07/NNB 혼식01&/NNG + 분식01&/NNG 하다01/VV + 기/ETN 엄마/NNG + 께서/JKS + 는/JX 혼식01&/NNG + 분식01&/NNG + 을/JKO 하다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + ㄴ다/EF + ./SF
+그러나/MAJ 나03/NP + 는/JX 이제01/NNG + 까지/JX + 만/JX 하다01/VV + 아도/EC 쌀밥/NNG + 만/JX 먹다02/VV + 었/EP + 다/EF + ./SF
+엄마/NNG + 께서/JKS + 는/JX 밀가루/NNG 음식/NNG + 도/JX 먹다02/VV + 어야지/EC 살01/NNG + 이/JKS 찌다01/VV + ㄴ다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+라면01/NNG + ,/SP 국수01/NNG + ,/SP 수제비/NNG 등05/NNB + 을/JKO 하다01/VV + 아/EC + 놓다01/VX + 으면/EC 나03/NP + 는/JX 꼭03/MAG 밥01/NNG + 을/JKO 먹다02/VV + 는다/EF + ./SF
+밀가루/NNG 음식/NNG + 은/JX 맛01/NNG + 이/JKS 없다01/VA + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+어제01/NNG + 만/JX 하다01/VV + 아도/EC 학교/NNG + 에서/JKB 돌아오다/VV + 아/EC 보다01/VX + 니/EC 밥상/NNG + 에/JKB + 는/JX 보리쌀/NNG + 을/JKO 섞다/VV + 은/ETM 밥01/NNG + 이다/VCP + 었/EP + 다/EF + ./SF
+나03/NP + 는/JX 먹다02/VV + 기/ETN 싫다01/VA + 다/EF + 고/JKQ 하다01/VV + 았었/EP + 는데/EC + ,/SP 나03/NP + 가/JKS 잘못하다/VV + 았/EP + 다/EF + 는/ETM 것01/NNB + 을/JKO 알다/VV + 겠/EP + 다/EF + ./SF
+이제01/NNG + 부터/JX 혼식01&/NNG + 분식01&/NNG + 을/JKO 하다01/VV + 는/ETM 착하다/VA + ㄴ/ETM 어린이01/NNG + 가/JKC 되다01/VV + 겠/EP + 다/EF + ./SF
+사월02#/NNG 13/SN + 일07/NNB 목련꽃*/NNG 목련꽃*/NNG + 이/JKS 하얗다/VA + 게/EC 피다01/VV + 기/ETN 시작하다01/VV + ㄹ/ETM 때01/NNG 우리03/NP 집01/NNG 화단04/NNG + 에/JKB + 는/JX 완전히/MAG 봄01/NNG + 이/JKS 오다01/VV + 았/EP + 다/EF + ./SF
+꽃01/NNG + 은/JX 예쁘다/VA + ㄴ데/EC 너무01/MAG 빨리/MAG 꽃잎/NNG + 이/JKS 떨어지다/VV + 는/ETM 것01/NNB + 이/JKS 흠03/NNG + 이다/VCP + 다/EF + ./SF
+그01/MM 예쁘다/VA + ㄴ/ETM 꽃01/NNG + 이/JKS 오래오래01/MAG 피다01/VV + 어/EC 주다01/VX + 었/EP + 으면/EC 좋다01/VA + 겠/EP + 다/EF + ./SF
+사월02#/NNG 14/SN + 일07/NNB 봄비/NNG 우리03/NP 집01/NNG 화단04/NNG + 에/JKB + 는/JX 해당화/NNG + ,/SP 라일락/NNG + ,/SP 매화꽃/NNG + 이/JKS 피다01/VV + 기/ETN + 도/JX 하다01/VX + 고/EC 봉오리02/NNG + 를/JKO 맺다/VV + 은/ETM 것01/NNB + 도/JX 있다01/VA + 다/EF + ./SF
+그런데/MAJ 심술궂다/VA + 은/ETM 비01/NNG + 가/JKS 너무01/MAG 많이/MAG 내리다01/VV + 어서/EC 꽃잎/NNG + 이/JKS 모두01/MAG 떨어지다/VV + 었/EP + 다/EF + ./SF
+비01/NNG + 가/JKS 오다01/VV + 면/EC 나무01/NNG + 가/JKS 파랗다/VA + 게/EC 더01/MAG 자라다01/VV + 고/EC 공기06/NNG + 도/JX 맑다01/VA + 은/ETM 것01/NNB 같다/VA + 아서/EC 좋다01/VA + 은데/EC 예쁘다/VA + ㄴ/ETM 꽃01/NNG + 을/JKO 울리다02/VV + 어서/EC 얄밉다/VA + 다/EF + ./SF
+사월02#/NNG 15/SN + 일07/NNB 감광지/NNG 자연01/NNG 시간04/NNG + 에/JKB 선생님/NNG + 께서/JKS 감광지/NNG + 를/JKO 사다/VV + 아/EC + 오다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 어서/EC 처음/NNG + 으로/JKB 감광지/NNG + 라/EF + 는/ETM 것01/NNB + 을/JKO 사다/VV + 았/EP + 다/EF + ./SF
+그런데/MAJ 자연01/NNG 시간04/NNG + 이/JKS 있다01/VA + 는/ETM 날01/NNG + 은/JX 구름01/NNG + 이/JKS 끼다02/VV + 어서/EC 못하다/VV + 았/EP + 는데/EC + ,/SP 오늘/NNG + 도/JX 숙제03/NNG + 를/JKO 청사진/NNG 만들다/VV + 기/ETN + 를/JKO 내다02/VV + 시/EP + 었/EP + 는데/EC 오늘/NNG + 도/JX 구름01/NNG + 이/JKS 많이/MAG 끼다02/VV + 어서/EC 못하다/VV + 았/EP + 다/EF + ./SF
+빨리/MAG 청사진/NNG + 을/JKO 만들다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 도록/EC 햇빛/NNG + 이/JKS 쨍쨍02/MAG 나다01/VV + 았/EP + 으면/EC + ……/SE 사월02#/NNG 17/SN + 일07/NNB 외할머니/NNG 오늘/NNG + 은/JX 정말01/MAG 즐겁다/VA + 은/ETM 날01/NNG + 이다/VCP + 다/EF + ./SF
+부산/NNP + 에서/JKB 외할머니/NNG + 가/JKS 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+우리03/NP 외할머니/NNG + 는/JX 오다01/VV + 시/EP + ㄹ/ETM 때01/NNG + 마다/JX 선물03/NNG + 을/JKO 한01/MM + 아름01/NNB + 씩/XSN 안기다02/VV + 어/EC 주다01/VX + 시/EP + 고/EC 가다01/VV + 시/EP + ㄴ다/EF + ./SF
+부산/NNP + 에서/JKB 이곳/NP + 까지/JX 오다01/VV + 시/EP + 면서/EC 언니/NNG + 들/XSN 도시락/NNG 반찬/NNG 하다01/VV + 라/EF + 고/JKQ 오그락지/NNG + 를/JKO 맛있다/VA + 게/EC 담그다@/VV + 아/EC 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+저녁때/NNG 돌아가다/VV + 시/EP + ㄹ/ETM 때01/NNG + 는/JX 예쁘다/VA + ㄴ/ETM 신발/NNG + 을/JKO 사다/VV + 아/EC + 주다01/VX + 시/EP + 고/EC 가다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+인정04/NNG 많다/VA + 은/ETM 외할머니/NNG + ,/SP 건강하다02/VA + 게/EC 오래오래01/MAG 살다01/VV + 시/EP + 어요/EF + ./SF
+사월02#/NNG 18/SN + 일07/NNB 새06/MM 운동화/NNG 생각하다@/VV + 지/EC + 도/JX 않다/VX + 은/ETM 새06/MM 운동화/NNG + 가/JKS 생기다/VV + 었/EP + 다/EF + ./SF
+나03/NP + 는/JX 아직01/MAG 운동화/NNG + 가/JKS 많이/MAG 떨어지다/VV + 지/EC 않다/VX + 아서/EC 엄마/NNG + 를/JKO 조르다02/VV + 지/EC 않다/VX + 았/EP + 는데/EC 공부01/NNG 열심히/MAG 하다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 면서/EC 색깔/NNG + 이/JKS 예쁘다/VA + ㄴ/ETM 운동화/NNG + 를/JKO 3,000/SN + 원01/NNB 주다01/VV + 고/EC 사다/VV + 아/EC + 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+고맙다01/VA + 으시/EP + ㄴ/ETM 어머니01/NNG + 께/JKB 보답하다/VV + 기/ETN 위하다01/VV + 아서/EC 열심히/MAG 공부하다/VV + 겠/EP + 다/EF + ./SF
+사월02#/NNG 19/SN + 일07/NNB 지은이/NNP + 네/XSN 집01/NNG 학교/NNG + 에서/JKB 돌아오다/VV + ㄹ/ETM 때01/NNG 지은이/NNP + 가/JKS 책가방/NNG + 을/JKO 먼저/MAG 집01/NNG + 에/JKB 두다01/VV + 고/EC 우리03/NP 집01/NNG + 에/JKB 오다01/VV + 아서/EC + ,/SP 지은이/NNP + 네/XSN 집01/NNG + 에/JKB 가다01/VV + 아서/EC 숙제03/NNG + 하다01/VV + ㄴ다/EF + 고/JKQ 허락/NNG + 을/JKO 받다01/VV + 고/EC 가다01/VV + 았/EP + 다/EF + ./SF
+1/SN + 학년/NNG 때01/NNG + 는/JX 잘02/MAG 모르다/VV + 았/EP + 는데/EC 2/SN + 학년/NNG + 이/JKC 되다01/VV + 어/EC 처음/NNG 가다01/VV + 았/EP + 다/EF + ./SF
+지은이/NNP 할머니/NNG + 는/JX 고향02/NNG + 이/JKS 이북/NNP + 이다/VCP + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 는데/EC 말씀하다/VV + 시/EP + 는/JX 것01/NNB + 이/JKS 우리03/NP + 들/XSN + 과/JKB + 는/JX 다르다01/VA + 았/EP + 다/EF + ./SF
+그리고/MAJ 예의06/NNG + 를/JKO 지키다01/VV + 는/ETM 집안01/NNG + 이다/VCP + 어서/EC 우리03/NP + 가/JKS 숙제03/NNG + 하다01/VV + 는/ETM 동안01/NNG 예의06/NNG + 에/JKB 대하다02/VV + 아서/EC 말씀하다/VV + 아/EC 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+나03/NP + 도/JX 숙제03/NNG + 를/JKO 마치다02/VV + 고/EC 오다01/VV + 면서/EC 인사02/NNG + 를/JKO 공손하다/VA + 게/EC 하다01/VV + 고/EC 오다01/VV + 았/EP + 다/EF + ./SF
+지은이/NNP 어머니01/NNG + 께서/JKS 내일/MAG 또/MAJ 놀다01/VV + 러/EC 오다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+사월02#/NNG 20/SN + 일07/NNB 숙제03/NNG 나03/NP + 는/JX 그림01/NNG + 을/JKO 못04/MAG 그리다02/VV + ㄴ다/EF + ./SF
+그런데/MAJ 그림01/NNG + 을/JKO 그리다02/VV + 어야/EC 하다01/VX + 는/ETM 숙제03/NNG + 가/JKS 있다01/VA + 어서/EC 걱정/NNG + 이/JKS 태산01/NNG 같다/VA + 았/EP + 다/EF + ./SF
+산수05/NNG + 부터/JX 하다01/VV + 고/EC 나다01/VX + 아서/EC 언니/NNG + 가/JKS 두01/MM 개10/NNB + 를/JKO 그리다02/VV + 어/EC 주다01/VX + 면서/EC 나03/NP + 보고/JKB 하다01/VV + 라/EF + 고/JKQ 하다01/VV + 아서/EC 두01/MM 개10/NNB + 는/JX 나03/NP + 가/JKS 그리다02/VV + 었/EP + 다/EF + ./SF
+아무리/MAG 못하다/VA + 아도/EC 나03/NP + 가/JKS 하다01/VV + 고/EC 나다01/VX + 니/EC 기분01/NNG + 이/JKS 좋다01/VA + 았/EP + 다/EF + ./SF
+나03/NP + 의/JKG 힘01/NNG + 으로/JKB 무엇/NP + 이든지/JX 하다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 도록/EC 노력하다01/VV + 아야/EC + 겠/EP + 다/EF + ./SF
+사월02#/NNG 21/SN + 일07/NNB 비01/NNG 올02/MM 봄01/NNG + 에/JKB + 는/JX 비01/NNG + 가/JKS 너무01/MAG 자주01/MAG 내리다01/VV + ㄴ다/EF + ./SF
+우리03/NP 집01/NNG 화단04/NNG + 에/JKB + 는/JX 꽃01/NNG + 들/XSN + 이/JKS 한창01/MAG 앞/NNG + 다투다/VV + 어/EC 피다01/VV + 고/EC 있다01/VX + 는데/EC 비01/NNG + 가/JKS 내리다01/VV + ㄹ/ETM 때01/NNG + 마다/JX 꽃잎/NNG + 이/JKS 떨어지다/VV + 고/EC 색깔/NNG + 이/JKS 변하다/VV + 아/EC 버리다01/VX + 어서/EC 속01/NNG + 이/JKS 상하다02/VV + ㄴ다/EF + ./SF
+비01/NNG + 도/JX 적당하다02/VA + 게/EC 오다01/VV + 아야/EC 많다/VA + 은/ETM 식물02/NNG + 이/JKS 좋아하다/VV + 나/EF 보다01/VX + 다/EF + ./SF
+비01/NNG + 가/JKS 이제01/NNG + 는/JX 가끔/MAG + 씩/XSN 내리다01/VV + 어서/EC 예쁘다/VA + 게/EC 피다01/VV + ㄴ/ETM 꽃01/NNG + 을/JKO 오래오래01/MAG 보다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 었/EP + 으면/EC 좋다01/VA + 겠/EP + 다/EF + ./SF
+사월02#/NNG 22/SN + 일07/NNB 청사진/NNG 오늘/MAG 숙제03/NNG + 는/JX 재미있다/VA + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+청사진/NNG 만들다/VV + 기/ETN + 이다/VCP + 다/EF + ./SF
+빛/NNG + 에서/JKB 만들다/VV + ㄴ/ETM 청사진/NNG + 은/JX 똑똑하다/VA + 게/EC 잘02/MAG 나타나다/VV + 았/EP + 는데/EC 그늘/NNG + 에서/JKB 만들다/VV + ㄴ/ETM 청사진/NNG + 은/JX 물01/NNG + 에/JKB 씻다/VV + 어/EC 말리다03/VV + 었/EP + 더니/EC 아무것/NNG + 도/JX 나타나다/VV + 지/EC 않다/VX + 았/EP + 다/EF + ./SF
+한01/MM 번04/NNB 더01/MAG 만들다/VV + 어/EC 보다01/VX + 았/EP + 지만/EC 마찬가지/NNG + 이다/VCP + 었/EP + 다/EF + ./SF
+왜02/MAG + 이다/VCP + ㄹ까/EF + ?/SF
+내일/NNG + 은/JX 선생님/NNG + 께/JKB 한번/NNG 여쭈다/VV + 어/EC 보다01/VX + 아야지/EF + ./SF
+사월02#/NNG 24/SN + 일07/NNB 호떡/NNG 어머니01/NNG + 와/JC 아버지/NNG + 께서/JKS 대학01/NNG 동창회/NNG + 에서/JKB 소풍02/NNG + 을/JKO 가다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+그래서/MAJ 우리03/NP + 들/XSN + 은/JX 밀가루/NNG 반죽/NNG + 을/JKO 하다01/VV + 아서/EC 호떡/NNG + 을/JKO 굽다01/VV + 어/EC 먹다02/VV + 었/EP + 는데/EC 어머니01/NNG + 가/JKS 하다01/VV + 아/EC + 주다01/VX + 시/EP + 는/ETM 것01/NNB + 처럼/JKB 맛있다/VA + 지/EC + 는/JX 않다/VX + 았/EP + 지만/EC 그래도/NV 맛있다/VA + 고/EC 재미01/NNG + 가/JKS 있다01/VA + 었/EP + 다/EF + ./SF
+다03/MAG 굽다01/VV + 고/EC 나다01/VX + 아서/EC 보다01/VV + 니/EC 온통/MAG 옷01/NNG + 이/JKS 밀가루/NNG 범벅/NNG + 이/JKC 되다01/VV + 어/EC 있다01/VX + 었/EP + 다/EF + ./SF
+참01/MAG 힘들다/VA + ㄴ/ETM 일01/NNG + 이/JKS 부엌일/NNG + 이다/VCP + 구나/EF + ./SF
+엄마/NNG + 를/JKO 가끔/MAG 돕다/VV + 아/EC 드리다01/VX + 어야지/EF + ./SF
+사월02#/NNG 25/SN + 일07/NNB 신주머니/NNG 산수05/NNG 경시80/NNG 대회02/NNG 결과02/NNG + 가/JKS 성적04/NNG + 이/JKS 100/SN + 점10/NNB + 이다/VCP + 라서/EC 나03/NP + 는/JX 상장10/NNG + 을/JKO 받다01/VV + 아/EC 오다01/VV + 았/EP + 다/EF + ./SF
+기분01/NNG + 이/JKS 참01/MAG 좋다01/VA + 았/EP + 다/EF + ./SF
+벌써/MAG + 부터/JX 신주머니/NNG + 가/JKS 새06/MM 것01/NNB + 이/JKS 갖다01/VV + 고/EC 싶다/VX + 었/EP + 는데/EC 어머니01/NNG + 께서/JKS 공부01/NNG 잘하다/VV + ㄴ/ETM 상25/NNG + 으로/JKB 캔디/NNP 그림01/NNG + 이/JKS 그려지다*/VV + ㄴ/ETM 빨간색/NNG 예쁘다/VA + ㄴ/ETM 신주머니/NNG + 를/JKO 사다/VV + 아/EC + 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+다음01/NNG + 부터/JX + 는/JX 더01/MAG 공부01/NNG + 를/JKO 열심히/MAG 하다01/VV + 아서/EC 어머니01/NNG + 를/JKO 더01/MAG 기쁘다/VA + 게/EC 하다01/VX + 아/EC + 드리다01/VX + 어야지/EF + ./SF
+사월02#/NNG 27/SN + 일07/NNB 공01/NNG 만들다/VV + 기/ETN 나03/NP + 는/JX 만들다/VV + 기/ETN + 나/JC 그리다02/VV + 기/ETN + 가/JKS 자신02/NNG + 이/JKS 없다01/VA + 다/EF + ./SF
+공작01/NNG 시간04/NNG + 에/JKB 공01/NNG + 을/JKO 만들다/VV + 었/EP + 는데/EC 나03/NP + 가/JKS 보다01/VV + 아도/EC 모양02/NNG + 이/JKS 공01/NNG 같다/VA + 지/EC + 가/JKS 않다/VX + 다/EF + ./SF
+집01/NNG + 에서/JKB 평소/NNG + 에/JKB 만들다/VV + 기/ETN 연습03/NNG + 을/JKO 많이/MAG 하다01/VV + 아야/EC + 겠/EP + 다/EF + 고/JKQ 생각하다/VV + 면서/EC + 도/JX 잘02/MAG 안02/MAG 되다01/VV + ㄴ다/EF + ./SF
+나03/NP + 도/JX 다른/MM 아이01/NNG + 들/XSN + 처럼/JKB 잘02/MAG 만들다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 었/EP + 으면/EC + ./SF
+사월02#/NNG 28/SN + 일07/NNB 국수01/NNG 오랜만/NNG + 에/JKB 물국수/NNG + 를/JKO 점심/NNG + 으로/JKB 하다01/VV + 아/EC + 먹다02/VV + 었/EP + 다/EF + ./SF
+오랜만/NNG + 에/JKB 먹다02/VV + 으니/EC 참01/MAG 맛01/NNG + 이/JKS 있다01/VA + 었/EP + 다/EF + ./SF
+호박01/NNG + 도/JX 넣다/VV + 어서/EC 함께/MAG 끓이다01/VV + 었/EP + 다/EF + ./SF
+양념간장/NNG + 에/JKB + 는/JX 풋마늘잎*/NNG + 을/JKO 썰다01/VV + 어서/EC 넣다/VV + 었/EP + 는데/EC 꼭꼭01/MAG 씹히다01/VV + 는/ETM 맛01/NNG + 이/JKS 참01/MAG 좋다01/VA + 았/EP + 다/EF + ./SF
+혼식01/NNG + 을/JKO 하다01/VV + 아서/EC 좋다01/VA + 고/EC 맛01/NNG + 이/JKS 있다01/VA + 어서/EC 좋다01/VA + 다/EF + ./SF
+오월01#/NNG 1/SN + 일07/NNB 고모01/NNG + 집01/NNG 이사14/NNG 큰고모*/NNG + 께서/JKS + 는/JX 공장02/NNG + 을/JKO 하다01/VV + 시/EP + 는데/EC 전08/NNG + 에/JKB 하다01/VV + 시/EP + 던/ETM 곳01/NNG + 이/JKS 좁다01/VA + 아서/EC 더01/MAG 넓다/VA + 은/ETM 곳01/NNG + 으로/JKB 이사14/NNG + 를/JKO 하다01/VV + 았/EP + 습니다/EF + ./SF
+동촌/NNP + 이다/VCP + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 는데/EC 공장02/NNG + 이/JKS 얼마나/MAG 넓다/VA + 고/EC 크다01/VA + ㄴ지/EC 속01/NNG + 이/JKS 다03/MAG 시원하다/VA + 았/EP + 습니다/EF + ./SF
+여름01/NNG 방학/NNG + 이/JKC 되다01/VV + 면/EC 그01/MM 넓다/VA + 은/ETM 공장02/NNG + 에서/JKB 마음껏/MAG 놀다01/VV + 고/EC 싶다/VX + 습니다/EF + ./SF
+고모01/NNG + 께서/JKS + 도/JX 여름01/NNG 방학/NNG + 이/JKC 되다01/VV + 면/EC 꼭03/MAG 놀다01/VV + 러/EC 오다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 습니다/EF + ./SF
+오월01#/NNG 2/SN + 일07/NNB 복습/NNG 내일/NNG + 은/JX 시험03/NNG 치다02/VV + 는/ETM 날01/NNG + 이다/VCP + 다/EF + ./SF
+오늘/NNG + 부터/JX 가슴01/NNG + 이/JKS 두근거리다/VV + ㄴ다/EF + ./SF
+공부01/NNG + 를/JKO 하다01/VV + 아야/EC 하다01/VX + ㄹ/ETM 터02/NNB + 이다/VCP + ㄴ데/EC 하다01/VV + 면서/EC + 도/JX 막상01/MAG 공부01/NNG + 를/JKO 하다01/VV + 려고/EC 하다01/VX + 아도/EC 잘02/MAG 안되다01/VV + 고/EC 걱정/NNG + 만/JX 되다01/VV + ㄴ다/EF + ./SF
+어머니01/NNG + 께서/JKS + 는/JX 시험03/NNG + 을/JKO 치다02/VV + ㄴ다/EF + 고/JKQ 하다01/VV + 아서/EC 꼭03/MAG 공부01/NNG + 를/JKO 하다01/VV + ㄴ다/EF + 고/JKQ 생각하다/VV + 지/EC 말다03/VX + 고/EC 평소/NNG + 에/JKB 늘/MAG 복습하다&/VV + 예습하다&/VV + ㄴ다/EF + 는/ETM 태도03/NNG + 로/JKB 하다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+내일/NNG 시험03/NNG + 은/JX 잘02/MAG 치다02/VV + ㄹ/JKO 수02/NNB 있다01/VA + 게/EC 일찍/MAG 자다01/VV + 고/EC 내일/NNG 아침/NNG 일찍/MAG 일어나다/VV + 아야지/EF + ./SF
+오월01#/NNG 4/SN + 일07/NNB 즐겁다/VA + 은/ETM 소풍02/NNG 소풍02/NNG 가다01/VV + 는/ETM 날01/NNG + 은/JX 즐겁다/VA + 은/ETM 날01/NNG + 이다/VCP + 다/EF + ./SF
+어제저녁/NNG + 부터/JX 잠01/NNG + 이/JKS 오다01/VV + 지/EC + 를/JKO 않다/VX + 았/EP + 다/EF + ./SF
+혹시나/MAG 비01/NNG + 가/JKS 오다01/VV + 면/EC 어떻다/VA + 게/EC 하다01/VV + 나/EF 하다01/VV + 아서/EC 하늘01/NNG + 을/JKO 몇/MM 번04/NNB + 이나/JX 보다01/VV + 았/EP + 다/EF + ./SF
+아침/NNG 일찍/MAG 일어나다/VV + 아/EC 보다01/VX + 니/EC 날씨01/NNG + 가/JKS 좋다01/VA + 은/ETM 것01/NNB 같다/VA + 다/EF + 고/JKQ 하다01/VV + 시/EP + 면서/EC 어머니01/NNG + 께서/JKS 준비하다/VV + 시/EP + 고/EC 계시다/VX + 었/EP + 다/EF + ./SF
+가다01/VV + 는/ETM 길01/NNG + 에/JKB + 는/JX 덥다01/VA + 고/EC 가방01/NNG + 이/JKS 무겁다/VA + 어서/EC 힘들다/VA + 었/EP + 지만/EC 고산골/NNP + 에/JKB 도착하다01/VV + 아서/EC 점심시간/NNG 오락01/NNG 시간04/NNG 모두01/MAG 재미있다/VA + 었/EP + 다/EF + ./SF
+맛있다/VA + 는/ETM 음식/NNG + 을/JKO 준비하다/VV + 아/EC 주다01/VX + 시/EP + ㄴ/ETM 아버지/NNG 어머니01/NNG + 께/JKB 감사드리다*/VV + 고/EC 우리03/NP + 를/JKO 즐겁다/VA + 게/EC 하다01/VX + 아/EC + 주다01/VX + 시/EP + ㄴ/ETM 선생님/NNG + 께/JKB 감사드리다*/VV + ㅂ니다/EF + ./SF
+오월01#/NNG 5/SN + 일07/NNB 어린이날/NNG 아버지/NNG + 께서/JKS 오늘/MAG 같다/VA + 은/ETM 날01/NNG 밖/NNG + 에/JKB 나가다/VV + 면/EC 차06/NNG 타다02/VV + 기/ETN + 도/JX 힘들다/VA + 고/EC 사람/NNG + 들/XSN + 이/JKS 너무01/MAG 많다/VA + 아서/EC 힘들다/VA + 다고@/EC 집01/NNG + 에서/JKB 고기01/NNG + 를/JKO 굽다01/VV + 어/EC 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+그리고/MAJ 회사04/NNG + 에서/JKB 과자02/NNG + 를/JKO 한01/MM 박스/NNG 가지다/VV + 고/EC 오다01/VV + 시/EP + 어서/EC 골고루/MAG 나누다/VV + 어/EC 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+오늘/MAG 하루01/NNG + 는/JX 완전히/MAG 우리03/NP 날01/NNG + 이다/VCP + 었/EP + 다/EF + ./SF
+어린이날/NNG + 이/JKS 한01/MM 달05/NNB + 에/JKB 한01/MM 번04/NNB + 씩/XSN 있다01/VA + 었/EP + 으면/EC 좋다01/VA + 겠/EP + 다/EF + ./SF
+오월01#/NNG 6/SN + 일07/NNB 아프다/VA + ㄴ/ETM 팔꿈치/NNG 며칠/NNG 전08/NNG 놀다01/VV + 다가/EC 넘어지다/VV + 어서/EC 팔꿈치/NNG + 를/JKO 다치다01/VV + 었/EP + 습니다/EF + ./SF
+머큐로크롬/NNG + 을/JKO 바르다01/VV + 고/EC 하다01/VX + 아서/EC 아프다/VA + 지/EC 않다/VX + 았/EP + 는데/EC 소풍02/NNG 가다01/VV + 던/ETM 날01/NNG 아침/NNG + 부터/JX 다시01/MAG 아프다/VA + 기/ETN 시작하다01/VV + 았/EP + 습니다/EF + ./SF
+그날/NNG + 은/JX 너무01/MAG 즐겁다/VA + 어서/EC 참다/VV + 고/EC + ,/SP 어제01/NNG + 도/JX 어린이날/NNG 기분01/NNG + 에/JKB 참다/VV + 았/EP + 는데/EC + ,/SP 오늘/NNG + 은/JX 너무01/MAG 아프다/VA + 아서/EC 숙제03/NNG + 를/JKO 하다01/VV + 면서/EC + 도/JX 몇/MM 번04/NNB + 씩/XSN + 이나/JX 찌그리다/VV + 었/EP + 습니다/EF + ./SF
+이렇다/VA + 게/EC 조금01/MAG 다치다01/VV + ㄴ/ETM 것01/NNB + 도/JX 많이/MAG 아프다/VA + ㄴ데/EC + ,/SP 사고12/NNG + 를/JKO 당하다01/VV + ㄴ/ETM 사람/NNG + 들/XSN + 의/JKG 아프다/VA + ㄴ/ETM 것01/NNB + 은/JX 정말01/MAG 너무01/MAG 아프다/VA + ㄹ/ETM 것01/NNB 같다/VA + 아서/EC 나03/NP + 는/JX 참다/VV + 겠/EP + 습니다/EF + ./SF
+오월01#/NNG 8/SN + 일07/NNB 어버이날/NNG 오늘/NNG + 은/JX 어버이날/NNG + 이라고/JX 아침/NNG + 부터/JX 일찍/MAG 일어나다/VV + 아서/EC 어머니01/NNG + 를/JKO 돕다/VV + 아/EC 드리다01/VX + 려고/EC 마음먹다/VV + 고/EC 어제저녁/NNG + 엔/JKB 일찍/MAG 자다01/VV + 았/EP + 다/EF + ./SF
+아버지/NNG 어머니01/NNG + 는/JX 늘/MAG 우리03/NP + 들/XSN + 을/JKO 위하다01/VV + 아서/EC 애쓰다/VV + 시/EP + ㄴ다/EF + ./SF
+밤늦다/VA + 게/EC + 까지/JX 직장05/NNG + 에서/JKB 일하다/VV + 시/EP + 고도/EC 힘들다/VA + 시/EP + 지/EC 않다/VX + 으시/EP + ㄴ/ETM 듯01/NNB 우리03/NP + 들/XSN + 에게/JKB 따뜻하다/VA + 게/EC 대하다02/VV + 아/EC 주다01/VX + 시/EP + 고/EC 어머니01/NNG + 는/JX 하루01/NNG 종일01/NNG + 을/JKO 종종걸음/NNG + 으로/JKB 온01/MM 집안01/NNG + 을/JKO 보살피다/VV + 시/EP + 고/EC 저녁/NNG + 으로/JKB 퍽02/MAG 피로하다02/VA + 아/EC 보이다01/VV + 시/EP + ㄴ다/EF + ./SF
+우리03/NP + 는/JX 다른/MM 집01/NNG + 보다/JKB 아이01/NNG + 들/XSN + 이/JKS 많다/VA + 아서/EC 어머니01/NNG + 가/JKS 더01/MAG 힘들다/VA + 시/EP + ㄴ@/ETM 것01/NNB 같다/VA + 다/EF + ./SF
+나03/NP + 만/JX + 이라도/JX 어머니01/NNG + 를/JKO 덜01/MAG 힘들다/VA + 시/EP + 게/EC 돕다/VV + 아/EC 드리다01/VX + 어야지/EF + ./SF
+오월01#/NNG 9/SN + 일07/NNB 표창장/NNG 오늘/NNG + 은/JX 우리03/NP 집01/NNG + 에/JKB 상25/NNG 홍수02/NNG + 가/JKS 나다01/VV + 았/EP + 다/EF + ./SF
+나03/NP + ,/SP 둘째/MM + 언니/NNG + ,/SP 셋째/MM + 언니/NNG + 가/JKS 모두01/MAG 상25/NNG + 을/JKO 받다01/VV + 았/EP + 다/EF + ./SF
+어머니01/NNG + 께서/JKS + 는/JX 먼저/MAG 선생님/NNG + 께/JKB 감사드리다*/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+모든/MM 일01/NNG + 은/JX 선생님/NNG + 께서/JKS 귀엽다/VA + 게/EC 보다01/VV + 아/EC + 주다01/VX + 시/EP + 고/EC 생각하다/VV + 아/EC 주다01/VX + 시/EP + 었/EP + 기/ETN 때문/NNB + 이다/VCP + 고/EC 다른/MM 친구02/NNG + 들/XSN + 이/JKS 모두01/MAG 양보하다/VV + 았/EP + 기/ETN 때문/NNB + 에/JKB 너01/NP + 가/JKS 상25/NNG + 을/JKO 받다01/VV + 게/EC 되다01/VV + ㄴ/ETM 것01/NNB + 이다/VCP + 라/EF + 고/JKQ 하다01/VV + 시/EP + 면서/EC + ,/SP 이제01/MAG 전08/NNG + 보다/JKB 더01/MAG 어른01/NNG + 을/JKO 공경02/NNG 잘하다/VV + 고/EC 모든/MM 일01/NNG + 에/JKB 모범02/NNG + 이/JKC 되다01/VV + 도록/EC 하다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+나03/NP + 도/JX 더01/MAG 열심히/MAG 노력하다01/VV + ㄹ/ETM 다짐/NNG + 을/JKO 마음속/NNG + 으로/JKB 굳다/VA + 게/EC 하다01/VV + 았/EP + 다/EF + ./SF
+오월01#/NNG 10/SN + 일07/NNB 더위/NNG 오늘/NNG + 은/JX 꼭03/MAG 한여름/NNG 같다/VA + 습니다/EF + ./SF
+어찌/MAG 덥다01/VA + 은지/EC 학교/NNG + 에서/JKB 돌아오다/VV + 자마자/EC 짧다/VA + 은/ETM 옷01/NNG + 으로/JKB 갈아입다/VV + 고/EC 씻다/VV + 고/EC 하다01/VV + 았/EP + 습니다/EF + ./SF
+이제01/NNG + 는/JX 정말01/MAG 여름01/NNG + 이/JKC 되다01/VV + 려나/EF 보다01/VX + ㅂ니다/EF + ./SF
+내일/NNG + 은/JX 짧다/VA + 은/ETM 옷01/NNG + 을/JKO 입다01/VV + 고/EC 가다01/VV + 아야/EC + 겠/EP + 습니다/EF + ./SF
+덥다01/VA + 으면/EC 땀01/NNG + 이/JKS 많이/MAG 나다01/VV + 아서/EC 공부하다/VV + 기/ETN + 가/JKS 참01/MAG 힘01/NNG + 이/JKS 들다01/VV + ㅂ니다/EF + ./SF
+이제01/NNG + 는/JX 시원하다/VA + ㄴ/ETM 아침/NNG + 에/JKB 일찍/MAG 일어나다/VV + 아/EC 공부01/NNG + 를/JKO 하다01/VV + 아야/EC + 겠/EP + 습니다/EF + ./SF
+오월01#/NNG 11/SN + 일07/NNB 동생01/NNG + 의/JKG 감기04/NNG 우리03/NP 집01/NNG 막내/NNG + 동생01/NNG 다섯/MM 살04/NNB + 배기@/XSN 성진이/NNP + 는/JX 몸01/NNG + 이/JKS 약하다01/VA + ㅂ니다/EF + ./SF
+요사이/NNG 너무01/MAG 열심히/MAG 놀다01/VV + 러/EC 다니다/VV + 더니/EC 피로02/NNG 때문/NNB + 이다/VCP + ㄴ지/EC 몸살감기/NNG + 가/JKS 겹치다01/VV + 어서/EC 열07/NNG + 이/JKS 나다01/VV + 고/EC 하다01/VX + 아서/EC 병원02/NNG + 에/JKB 가다01/VV + 았/EP + 습니다/EF + ./SF
+어머니01/NNG + 께서/JKS 감기04/NNG + 에/JKB 걸리다01/VV + 면/EC 감기04/NNG + 도/JX 무섭다/VA + 지만/EC 다03/MAG 낫다01/VV + 은/ETM 후08/NNG + 에/JKB 다른/MM 병04/NNG + 이/JKS 오다01/VV + ㄹ까/EF 보다01/VX + 아서/EC 빨리/MAG 치료/NNG + 를/JKO 하다01/VV + 아야/EC 하다01/VX + ㄴ다/EF + 면서/EC 병원02/NNG + 에/JKB + ㄹ/JKO 빨리/MAG 가다01/VV + 시/EP + 었/EP + 습니다/EF + ./SF
+빨리/MAG 몸01/NNG + 이/JKS 튼튼하다/VA + 어/EC + 지다04/VX + 어서/EC 감기04/NNG + 쯤/XSN 이기다01/VV + 었/EP + 으면/EC 하다01/VX + ㅂ니다/EF + ./SF
+오월01#/NNG 12/SN + 일07/NNB 편지02/NNG 어제01/NNG + 는/JX 1/SN + 학년/NNG 때01/NNG 선생님/NNG + 께/JKB 감사하다05/VV + 는/ETM 편지02/NNG + 를/JKO 쓰다01/VV + 었/EP + 고/EC 오늘/NNG + 은/JX 친구02/NNG + 에게/JKB 편지02/NNG + 를/JKO 쓰다01/VV + 었/EP + 다/EF + ./SF
+마음01/NNG 같다/VA + 아서/EC + 는/JX 모든/MM 친구02/NNG + 에게/JKB 다03/MAG 편지02/NNG + 를/JKO 쓰다01/VV + 고/EC 싶다/VX + 었/EP + 는데/EC 정은이/NNP + 에게/JKB + 만/JX 쓰다01/VV + 었/EP + 다/EF + ./SF
+편지02/NNG + 를/JKO 오랜만/NNG + 에/JKB 쓰다01/VV + 었/EP + 다/EF + ./SF
+편지02/NNG + 를/JKO 쓰다01/VV + 고/EC 있다01/VX + 으니/EC 정은이/NNP + 의/JKG 얼굴01/NNG + 이/JKS 바로02/MAG 나03/NP + 의/JKG 옆/NNG + 에/JKB 있다01/VA + 는/ETM 것01/NNB + 처럼/JKB 더01/MAG 다정하다/VA + 게/EC 생각01/NNG + 이/JKS 들다01/VV + 었/EP + 다/EF + ./SF
+어머니01/NNG + 께서/JKS + 는/JX 부산/NNP + 에/JKB 계시다/VV + 는/ETM 외할머니/NNG + 께/JKB + 도/JX 종종04/MAG 편지02/NNG + 를/JKO 쓰다01/VV + 도록/EC 하다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+편지02/NNG 쓰다01/VV + 는/ETM 마음01/NNG + 은/JX 참01/MAG 즐겁다/VA + 었/EP + 다/EF + ./SF
+오월01#/NNG 13/SN + 일07/NNB 경로잔치/NNG 학교/NNG + 에서/JKB 오늘/MAG 경로잔치/NNG + 가/JKS 있다01/VA + 었/EP + 다/EF + ./SF
+할머니/NNG + 와/JC 할아버지/NNG 두01/MM 분01/NNB + 이/JKS 다03/MAG 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+기분01/NNG + 이/JKS 좋다01/VA + 았/EP + 다/EF + ./SF
+할아버지/NNG + 는/JX 학교/NNG + 에서/JKB 친구02/NNG + 분01/NNB + 들/XSN + 과/JKB 같이/MAG 고산골/NNP + 로/JKB 놀다01/VV + 러/EC 가다01/VV + 시/EP + 고/EC 할머니/NNG + 는/JX 학교/NNG + 에서/JKB 주다01/VV + 시/EP + ㄴ/ETM 간식02/NNG + 을/JKO 우리03/NP + 들/XSN + 에게/JKB 나누다/VV + 어/EC 주다01/VX + 시/EP + 면서/EC 우리03/NP 학교/NNG 어린이01/NNG + 들/XSN + 의/JKG 솜씨/NNG + 를/JKO 칭찬하다/VV + 아/EC 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+나03/NP + 가/JKS 어깨01/NNG + 가/JKS 으쓱하다01/VV + 어/EC + 지다04/VX + 었/EP + 다/EF + ./SF
+할아버지/NNG 할머니/NNG + 를/JKO 기쁘다/VA + 게/EC 하다01/VX + 아/EC + 드리다01/VX + 는/ETM 일01/NNG + 이/JKS 자주01/MAG 있다01/VA + 으면/EC 좋다01/VA + 겠/EP + 다/EF + ./SF
+오월01#/NNG 14/SN + 일07/NNB 스승01/NNG + 의/JKG 날01/NNG 내일/NNG + 이/JKS 오월01#/NNG 15/SN + 일07/NNB 스승01/NNG + 의/JKG 날01/NNG + 이다/VCP + ㄴ데/EC 일요일/NNG + 이다/VCP + 기/ETN 때문/NNB + 에/JKB 오늘/MAG 선생님/NNG + 께/JKB 감사08/NNG + 를/JKO 드리다01/VV + 는/ETM 마음01/NNG + 을/JKO 하루01/NNG 당기다01/VV + 어서/EC 갖다01/VV + 기/ETN + 로/JKB 하다01/VV + 았/EP + 다/EF + ./SF
+아침/NNG + 에/JKB 학교/NNG + 에/JKB 가다01/VV + ㄹ/ETM 때01/NNG 어머니01/NNG + 께서/JKS 선생님/NNG 고맙다01/VA + 습니다/EF + ,/SP 하다01/VV + 고/EC 인사드리다*/VV + 라/EF + 고/JKQ 하다01/VV + 았/EP + 는데/EC + ,/SP 용기02/NNG + 가/JKS 없다01/VA + 어서/EC 못하다/VV + 았/EP + 다/EF + ./SF
+어머니01/NNG + 께서/JKS 4/SN + 시간04/NNB + 이/JKS 끝나다/VV + 고/EC 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+선생님/NNG + 께/JKB 무어01/NP + ㄴ가/EF + 는/JX 모르다/VV + 아도/EC 선물03/NNG + 을/JKO 드리다01/VV + 었/EP + 다/EF + ./SF
+집01/NNG + 에/JKB 오다01/VV + 시/EP + 어서/EC 돈01/NNG + 이/JKS 없다01/VA + 어서/EC 좋다01/VA + 은/ETM 선물03/NNG + 은/JX 못04/MAG 하다01/VV + 아/EC + 드리다01/VX + 고/EC 지금03/NNG + 까지/JX 언니/NNG + 들/XSN + 과/JC 나03/NP + 를/JKO 가르치다01/VV + 어/EC 주다01/VX + 시/EP + ㄴ/ETM 선생님/NNG + 들/XSN + 께/JKB 감사하다05/VV + 는/ETM 마음01/NNG + 만/JX 전하다/VV + 았/EP + 다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+선생님/NNG 감사하다05/VA + ㅂ니다/EF + ./SF
+오월01#/NNG 15/SN + 일07/NNB 자장면/NNG 우리03/NP 집01/NNG 일요일/NNG 점심/NNG + 은/JX 늘/MAG 별미/NNG + 다/EF + ./SF
+오늘/NNG + 은/JX 자장면/NNG + 이다/VCP + 다/EF + ./SF
+우리03/NP 아빠/NNG + 께서/JKS + 는/JX 식당/NNG + 에/JKB 시키다01/VV + 어/EC 먹다02/VV + 는/ETM 것01/NNB + 을/JKO 싫어하다/VV + 시/EP + ㄴ다/EF + ./SF
+어머니01/NNG + 께서/JKS 돼지고기/NNG + ,/SP 자장80/NNG + ,/SP 호박01/NNG + ,/SP 감자01/NNG + ,/SP 단무지/NNG + 를/JKO 사다/VV + 아/EC + 오다01/VV + 시/EP + 어서/EC 맛있다/VA + 게/EC 만들다/VV + 어/EC 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+온01/MM 식구01/NNG + 가/JKS 둘러앉다/VV + 아서/EC 함께/MAG 먹다02/VV + 으면서/EC 막02/MAG 웃다/VV + 었/EP + 다/EF + ./SF
+서로서로/MAG 쳐다보다/VV + 니/EC 입가/NNG + 에/JKB 묻다01/VV + 은/ETM 자장80/NNG + 이/JKS 우습다/VA + 기/ETN + 만/JX 하다01/VX + 았/EP + 다/EF + ./SF
+이렇다/VA + 게/EC 맛있다/VA + 는/ETM 음식/NNG + 을/JKO 하다01/VV + 아/EC + 주다01/VX + 시/EP + 는/ETM 엄마/NNG 아빠/NNG 고맙다01/VA + 습니다/EF + ./SF
+오월01#/NNG 16/SN + 일07/NNB 날씨01/NNG 비01/NNG + 가/JKS 오다01/VV + ㄴ/ETM 뒤01/NNG + 에/JKB 쌀쌀하다/VA + 어/EC + 지다04/VX + 었/EP + 다/EF + ./SF
+이제01/MAG 안02/MAG 입다01/VV + 는다/EF + 고/JKQ 넣다/VV + 어/EC 두다01/VX + ㄴ/ETM 길다02/VA + ㄴ/ETM 옷01/NNG + 이/JKS 다시01/MAG 나오다/VV + 고/EC 타이츠@/NNG + 도/JX 다시01/MAG 신다/VV + 었/EP + 다/EF + ./SF
+비01/NNG + 는/JX 차다04/VA + ㄴ/ETM + 바람01/NNG + 을/JKO 몰다01/VV + 고/EC 오다01/VV + 는가/EF 보다01/VX + 아/EF + ./SF
+농사짓다/VV + 는/ETM 데01/NNB + 는/JX 비01/NNG + 가/JKS 적당히/MAG 오다01/VV + 아야/EC 하다01/VX + ㄴ다/EF + 고/JKQ 하다01/VV + 는데/EC 나03/NP + 는/JX 비01/NNG 오다01/VV + 는/ETM 것01/NNB + 이/JKS 싫다01/VA + 다/EF + ./SF
+우산01/NNG 들다04/VV + 고/EC 학교/NNG 가다01/VV + 는/ETM 것01/NNB + 도/JX + ,/SP 씻다/VV + 어서/EC 새06/MM 것01/NNB + 처럼/JKB 되다01/VV + ㄴ/ETM 깨끗하다/VA + ㄴ/ETM 운동화/NNG + 에/JKB 흙탕물/NNG + 이/JKS 튀다/VV + 는/ETM 것01/NNB + 도/JX 싫다01/VA + 다/EF + ./SF
+비01/NNG + 는/JX 안02/MAG 오다01/VV + 면/EC 안02/MAG 되다01/VV + ㄴ다/EF + 고/JKQ 하다01/VV + 니까/EC 우리03/NP + 가/JKS 쉬다03/VV + 는/ETM 일요일/NNG + 에/JKB 오다01/VV + 고/EC 월요일/NNG + 에/JKB 맑다01/VA + 게/EC 개다01/VV + 었/EP + 으면/EC 좋다01/VA + 겠/EP + 다/EF + ./SF
+오월01#/NNG 17/SN + 일07/NNB 장미꽃/NNG 우리03/NP 집01/NNG 꽃밭/NNG + 에/JKB + 는/JX 장미꽃/NNG + 이/JKS 하나/NNG 가득01/MAG 피다01/VV + 었/EP + 습니다/EF + ./SF
+올해/NNG + 는/JX 꽃송이01/NNG + 가/JKS 얼마나/MAG 많다/VA + 은지/EC 헤아리다/VV + ㄹ/ETM 수02/NNB + 도/JX 없다01/VA + 습니다/EF + ./SF
+작년/NNG + 만/JX 하다01/VV + 아도/EC 겨우/MAG 몇/MM 송이01/NNG 헤아리다/VV + 어/EC 보다01/VX + ㄹ/ETM 수02/NNB 있다01/VA + 을/ETM 정도11/NNG + 이다/VCP + 었/EP + 습니다/EF + ./SF
+색깔/NNG + 은/JX 미색01/NNG + 에/JKB 분홍색/NNG + 이/JKS 조금01/MAG 섞이다/VV + ㄴ/ETM 듯하다/VX + ㅂ니다/EF + ./SF
+예쁘다/VA + 기/ETN + 는/JX 하다01/VX + ㄴ데/EC 너무01/MAG 빨리/MAG 시들다/VV + 어/EC 버리다01/VX + 는/ETM 것01/NNB + 이/JKS 흠03/NNG + 이다/VCP + ㅂ니다/EF + ./SF
+학교/NNG + 에/JKB 한01/MM 송이01/NNG 꺾다/VV + 어/EC 가다01/VV + 고/EC 싶다/VX + 어도/EC 꺾다/VV + 어/EC 놓다01/VX + 은/ETM 지02/NNB 하루01/NNG + 가/JKS 지나다/VV + 면/EC 꽃잎/NNG + 이/JKS 다03/MAG 떨어지다/VV + 어/EC 버리다01/VX + ㅂ니다/EF + ./SF
+꽃01/NNG + 이/JKS 하나/NNG 가득01/MAG 피다01/VV + ㄴ/ETM 꽃밭/NNG + 은/JX 우리03/NP 집01/NNG + 을/JKO 온통/MAG 환하다01/VA + 게/EC 하다01/VX + 아/EC + 주다01/VX + ㅂ니다/EF + ./SF
+오월01#/NNG 19/SN + 일07/NNB 공부01/NNG 학교/NNG + 에서/JKB 시계01/NNG + 에/JKB 대하다02/VV + 아서/EC 배우다01/VV + ㄴ다/EF + ./SF
+그런데/MAJ 시간04/NNG 문제06/NNG + 가/JKS 아직01/MAG 자신02/NNG + 이/JKS 없다01/VA + 어서/EC 공책01/NNG + 에/JKB 하다01/VV + ㄴ/ETM 문제06/NNG + 를/JKO 두01/MM 개10/NNB + 나/JX 틀리다01/VV + 었/EP + 다/EF + ./SF
+그래서/MAJ 좀02/MAG 자신02/NNG + 이/JKS 있다01/VA + 도록/EC 문제06/NNG + 를/JKO 많이/MAG 하다01/VV + 아/EC + 보다01/VX + 라/EF + 고/JKQ 하다01/VV + 시/EP + 면서/EC 어머님/NNG + 께서/JKS 수련장80/NNG + 을/JKO 사다/VV + 아/EC + 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+열심히/MAG 하다01/VV + 아서/EC 자신02/NNG + 있다01/VA + 게/EC 문제06/NNG + 를/JKO 풀다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 게/EC 하다01/VX + 아야/EC + 겠/EP + 다/EF + ./SF
+오월01#/NNG 20/SN + 일07/NNB 고모01/NNG + 집01/NNG 둘째/MM + 고모01/NNG + 가/JKS 신암동/NNP 파티마병원/NNP 앞/NNG + 에서/JKB 미장원/NNG + 을/JKO 하다01/VV + 고/EC 계시다/VX + ㄴ다/EF + ./SF
+나03/NP + 와/JKB 언니/NNG + 들/XSN + 은/JX 늘/MAG 고모01/NNG + 네/XSN 가다01/VV + 아서/EC 머리01/NNG + 를/JKO 끊다/VV + 는다/EF + ./SF
+고모01/NNG + 는/JX 머리01/NNG + 를/JKO 예쁘다/VA + 게/EC 곱다02/VA + 게/EC 끊다/VV + 어/EC 주다01/VX + ㄴ다/EF + ./SF
+참01/MAG 고맙다01/VA + 은/ETM 고모01/NNG + 다/EF + ./SF
+어머니01/NNG + 께서/JKS 이제01/MAG 날씨01/NNG + 가/JKS 덥다01/VA + 어/EC + 지다04/VX + ㄴ다/EF + 고/JKQ 좀02/MAG 짧다/VA + 게/EC 끊다/VV + 으라/EF + 고/JKQ 하다01/VV + 시/EP + 어서/EC 그랬/NV + 는데/EC + ,/SP 너무01/MAG 짧다/VA + 아서/EC 친구02/NNG + 들/XSN + 이/JKS 놀리다01/VV + 지/EC 않다/VX + 을까/EF 걱정/NNG + 이/JKC 되다01/VV + ㄴ다/EF + ./SF
+머리01/NNG + 를/JKO 끊다/VV + 고/EC 돌아오다/VV + ㄹ/ETM 때01/NNG + 는/JX 맛있다/VA + 는/ETM 것01/NNB + 도/JX 사다/VV + 아/EC + 주다01/VX + 시/EP + 어서/EC 즐겁다/VA + 게/EC 돌아오다/VV + 았/EP + 다/EF + ./SF
+오월01#/NNG 21/SN + 일07/NNB 숙제03/NNG 학교/NNG + 에서/JKB 정은이/NNP + 집01/NNG + 에/JKB 숙제03/NNG + 하다01/VV + 러/EC 가다01/VV + 기/ETN + 로/JKB 하다01/VV + 고/EC 오다01/VV + 았/EP + 다/EF + ./SF
+집01/NNG + 에/JKB 오다01/VV + 아서/EC 어머니01/NNG + 께/JKB 허락/NNG + 을/JKO 받다01/VV + 고/EC 정은이/NNP + 네/XSN 가다01/VV + 아서/EC 숙제03/NNG + 를/JKO 하다01/VV + 고/EC 집01/NNG + 에/JKB 가다01/VV + 았/EP + 다/EF + ./SF
+오다01/VV + ㄹ/ETM 때01/NNG 정은이/NNP + 와/JKB 같이/MAG 오다01/VV + 아서/EC 고무줄/NNG + 도/JX 하다01/VV + 고/EC 재미있다/VA + 게/EC 놀다01/VV + 았/EP + 다/EF + ./SF
+친구02/NNG + 와/JKB 같이/MAG 숙제03/NNG + 를/JKO 하다01/VV + 면/EC 이렇다/VA + 게/EC 빨리/MAG 하다01/VV + 는데/EC + ,/SP 나03/NP 혼자01/NNG + 서/JKS 하다01/VV + ㄹ/ETM 때01/NNG + 는/JX 너무01/MAG 오래02/MAG 걸리다01/VV + 는/ETM 것01/NNB 같다/VA + 다/EF + ./SF
+나03/NP 혼자01/NNG 하다01/VV + ㄹ/ETM 때01/NNG + 도/JX 이제01/MAG 빨리/MAG 하다01/VV + 아야/EC + 겠/EP + 다/EF + ./SF
+오월01#/NNG 22/SN + 일07/NNB 백만/MM + 인02/NNG 걷기/NNG 오늘/MAG 아침/NNG + 은/JX 다른/MM 때01/NNG + 보다/JKB 일찍/MAG 일어나다/VV + 았/EP + 다/EF + ./SF
+우리03/NP 가족01/NNG + 은/JX 모두01/NNG + 가/JKS 걷기/NNG 운동02/NNG + 에/JKB 참가하다01/VV + 기/ETN + 로/JKB 하다01/VV + 았/EP + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+어머니01/NNG + 께서/JKS + 는/JX 김밥/NNG + 을/JKO 준비하다/VV + 시/EP + 고/EC 우리03/NP + 는/JX 모두01/MAG 체육복/NNG + 으로/JKB 갈아입다/VV + 고/EC 기분01/NNG 좋다01/VA + 게/EC 집01/NNG + 을/JKO 나서다/VV + 었/EP + 다/EF + ./SF
+어린이01/NNG 회관/NNG 앞/NNG + 에서/JKB 출발하다/VV + ㄴ/ETM 사람/NNG + 의/JKG 숫자/NNG + 는/JX 헤아리다/VV + ㄹ/ETM 수02/NNB + 도/JX 없다01/VA + 었/EP + 다/EF + ./SF
+찻길/NNG + 이/JKS 막히다/VV + 고/EC 사람/NNG + 들/XSN + 이/JKS 지나가다/VV + ㄴ/ETM 자리01/NNG + 에/JKB + 는/JX 먼지01/NNG + 가/JKS 뽀얗다/VA + 게/EC 일다01/VV + 었/EP + 다/EF + ./SF
+그런데/MAJ 너무01/MAG 질서03/NNG + 를/JKO 지키다01/VV + 지/EC 않다/VX + 고/EC 휴지02/NNG + 를/JKO 아무01/MM 곳01/NNG + 에/JKB + 나/JX 버리다01/VV + 어서/EC 길거리/NNG + 는/JX 꼭03/MAG 쓰레기장/NNG 같다/VA + 았/EP + 다/EF + ./SF
+우리03/NP + 는/JX 처음/NNG + 부터/JX 비닐봉지/NNG + 를/JKO 준비하다/VV + 아서/EC 먹다02/VV + 고/EC 나다01/VX + ㄴ/ETM 껍질/NNG + 을/JKO 그01/MM 속01/NNG + 에/JKB 담다01/VV + 았/EP + 다/EF + ./SF
+아버지/NNG 어머니01/NNG + 께서/JKS + 도/JX 너무01/MAG 질서03/NNG + 가/JKS 없다01/VA + 고/EC 혼잡하다/VA + 아서/EC 이래서/NV + 는/JX 안02/MAG 되다01/VV + 겠/EP + 다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+오월01#/NNG 24/SN + 일07/NNB 공부01/NNG 숙제03/NNG + 가/JKS 끝나다/VV + 고/EC 문제집*/NNG + 을/JKO 풀다/VV + 었/EP + 다/EF + ./SF
+오월01#/NNG + 호14/NNB + 이다/VCP + ㄴ데/EC 늦다/VA + 게/EC 사다/VV + 았/EP + 기/ETN 때문/NNB + 에/JKB 많이/MAG 밀리다01/VV + 었/EP + 다/EF + ./SF
+차근차근히/MAG 하다01/VV + 아야/EC 글씨/NNG + 도/JX 잘02/MAG 쓰다01/VV + 고/EC 답03/NNG + 도/JX 잘02/MAG 맞다01/VV + 게/EC 하다01/VV + 는데/EC 마음01/NNG + 이/JKS 급하다/VA + 아서/EC 빨리/MAG 하다01/VV + 니/EC 글씨/NNG + 가/JKS 엉망/NNG + 이다/VCP + 다/EF + ./SF
+다음01/NNG + 부터/JX + 는/JX 미루다/VV + 지/EC 않다/VX + 고/EC 제때제때*/NNG 하다01/VV + 아서/EC 글씨/NNG + 도/JX 잘02/MAG 쓰다01/VV + 고/EC 답03/NNG + 도@/JX 잘02/MAG 맞추다01/VV + 어야/EC + 겠/EP + 다/EF + ./SF
+오월01#/NNG 25/SN + 일07/NNB 크로켓02/NNG 오늘/NNG + 은/JX 아빠/NNG + 께서/JKS 다른/MM 날01/NNG + 보다/JKB 일찍/MAG 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+일찍/MAG 오다01/VV + 시/EP + 기/ETN + 만/JX 하다01/VX + 면/EC 우리03/NP 다섯/MM 남매/NNG + 는/JX 소리01/NNG 높이다/VV + 어/EC 맛있다/VA + 는/ETM 것01/NNB + 을/JKO 외치다01/VV + ㄴ다/EF + ./SF
+아빠/NNG + 께서/JKS 언제01/NP + 든지/JX 지다03/VV + 는/ETM 편04/NNB + 이/JKC 되다01/VV + ㄴ다/EF + ./SF
+어머니01/NNG + 께서/JKS 시장04/NNG 가다01/VV + 시/EP + 어서/EC 크로켓02/NNG + 을/JKO 사다/VV + 아/EC + 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+속01/NNG + 엔/JKB 감자01/NNG + ,/SP 야채/NNG + ,/SP 소시지/NNG 등05/NNB + 이/JKS 들다01/VV + 어/EC 있다01/VX + 고/EC 노랗다/VA + 게/EC 튀기다02/VV + ㄴ/ETM 것01/NNB + 이/JKS 참01/MAG 맛01/NNG + 이/JKS 있다01/VA + 었/EP + 다/EF + ./SF
+꼬마/NNG 동생01/NNG + 이/JKS 일찍/MAG 잠들다/VV + 어/EC 우리03/NP + 끼리/XSN 먹다02/VV + 었/EP + 다/EF + ./SF
+맛있다/VA + 는/ETM 크로켓02/NNG 맛01/NNG + 이/JKS 입/NNG 안01/NNG 가득하다01/VA + 다/EF + ./SF
+오월01#/NNG 26/SN + 일07/NNB 약속/NNG 학교/NNG + 에서/JKB 돌아오다/VV + 아/EC 엄마/NNG + 가/JKS 계시다/VV + 지/EC 않다/VX + 아/EC 옆방/NNG 언니/NNG + 를/JKO 따르다01/VV + 아서/EC 시장04/NNG + 에/JKB + ㄹ/JKO 가다01/VV + 았/EP + 는데/EC 거기01/NP + 서/JKB 엄마/NNG + 와/JC 동생01/NNG + 을/JKO 만나다/VV + 았/EP + 다/EF + ./SF
+동생01/NNG + 이/JKS 어제저녁/NNG 엄마/NNG 반상회/NNG 가다01/VV + 시/EP + 는데/EC 따라가다/VV + 지/EC 않다/VX + 으면/EC 장난감/NNG 사다/VV + 아/EC + 주다01/VX + ㄴ다/EF + 는/ETM 약속/NNG 때문/NNB + 에/JKB 장난감/NNG 사다/VV + 러/EC 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+자동차/NNG 두01/MM 대15/NNB + 를/JKO 사다/VV + 았/EP + 다/EF + ./SF
+아무리/MAG 어린애/NNG + 와/JKB + 의/JKG 약속/NNG + 이다/VCP + 지만/EC 지키다01/VV + 어야/EC 하다01/VX + ㄴ다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+돌아오다/VV + 는/ETM 길01/NNG + 에/JKB 딸기/NNG + 가/JKS 싱싱하다/VA + 고/EC 너무01/MAG 맛있다/VA + 어/EC 보이다01/VV + 어서/EC 어머니01/NNG + 를/JKO 조르다02/VV + 아/EC 1,000/SN + 원01/NNB 어치/XSN + 를/JKO 사다/VV + 았/EP + 다/EF + ./SF
+싱싱하다/VA + 아서/EC + 이다/VCP + ㄴ지/EC 설탕/NNG + 이/JKS 없다01/VA + 어도/EC 맛있다/VA + 었/EP + 다/EF + ./SF
+오월01#/NNG 27/SN + 일07/NNB 부회장/NNG 자연01/NNG 시간04/NNG + 을/JKO 마치다02/VV + 고/EC 2/SN + 기21/NNG 회장07/NNG + 과/JC 부회장/NNG 선거04/NNG + 를/JKO 하다01/VV + 았/EP + 다/EF + ./SF
+나03/NP + 는/JX 회장07/NNG + 에/JKB 나가다/VV + 았/EP + 는데/EC 떨어지다/VV + 었/EP + 다/EF + ./SF
+발표력/NNG + 이/JKS 없다01/VA + 고/EC 하다01/VX + 아서/EC 친구02/NNG + 들/XSN 생각01/NNG + 에/JKB 회장07/NNG + 은/JX 안02/MAG 되다01/VV + 겠/EP + 다/EF + 고/JKQ 생각하다/VV + 았/EP + 나/EF 보다01/VX + 다/EF + ./SF
+부회장/NNG + 을/JKO 뽑다/VV + 을/ETM 때01/NNG + 는/JX 많다/VA + 은/ETM 표04/NNG + 를/JKO 얻다01/VV + 었/EP + 다/EF + ./SF
+42/SN + 표04/NNG + 를/JKO 얻다01/VV + 어서/EC 당선04/NNG + 이/JKC 되다01/VV + 었/EP + 다/EF + ./SF
+친구02/NNG + 들/XSN + 이/JKS 나03/NP + 를/JKO 뽑다/VV + 아/EC 주다01/VX + 었/EP + 으니/EC 우리03/NP 반11/NNG + 을/JKO 위하다01/VV + 아서/EC 열심히/MAG 일하다/VV + 아야/EC + 겠/EP + 다/EF + ./SF
+다른/MM 친구02/NNG + 들/XSN + 보다/JKB 공부01/NNG + 도/JX 더01/MAG 잘하다/VV + 고/EC 행동/NNG + 도/JX 모범02/NNG + 이/JKC 되다01/VV + 어야/EC 하다01/VX + ㄴ다/EF + ./SF
+그런데/MAJ 회장07/NNG + 은/JX 1/SN + 학년/NNG 때01/NNG 우리03/NP 반11/NNG + 이다/VCP + 었/EP + 던/ETM 한성일/NNP + 이/JKC 되다01/VV + 어서/EC 참01/MAG 기쁘다/VA + 다/EF + ./SF
+오월01#/NNG 28/SN + 일07/NNB 명찰01/NNG 선생님/NNG + 께서/JKS 파랗다/VA + ㄴ/ETM 바탕01/NNG + 에/JKB 대봉/NNP + 이다/VCP + 라/EF + ㄴ/ETM 글자/NNG + 와/JC 별01/NNG + 이/JKS 하나/NR 그려지다*/VV + ㄴ/ETM 명찰01/NNG + 에/JKB 2/SN + -/SO + 7/SN 박주희/NNP + 라/EF + 고/JKQ 예쁘다/VA + 게/EC 이름/NNG + 까지/JX 쓰다01/VV + 어서/EC 달다03/VV + 아/EC 주다01/VX + 시/EP + 었/EP + 습니다/EF + ./SF
+참01/MAG 고맙다01/VA + 었/EP + 습니다/EF + ./SF
+그런데/MAJ "/SS + 고맙다01/VA + 습니다/EF + "/SS + 라/JKQ + 는/ETM 말01/NNG + 이/JKS 입/NNG 밖/NNG + 으로/JKB 나오다/VV + 지/EC + 를/JKO 않다/VX + 았/EP + 습니다/EF + ./SF
+나03/NP + 는/JX 왜02/MAG 부끄러움/NNG + 이/JKS 많다/VA + 은지/EF 모르다/VV + 겠/EP + 습니다/EF + ./SF
+다른/MM 아이01/NNG + 들/XSN + 은/JX 하다01/VV + 고/EC 싶다/VX + 은/ETM 말01/NNG + 을/JKO 곧잘/MAG 하다01/VV + 는데/EC 나03/NP + 는/JX 그렇다/VA + 지/EC + 를/JKO 못하다/VX + ㅂ니다/EF + ./SF
+파랗다/VA + ㄴ/ETM 대봉/NNP 이름표/NNG + 가/JKS 빛나다/VV + 도록/EC 우리03/NP 반11/NNG + 을/JKO 위하다01/VV + 아서/EC 열심히/MAG 일하다/VV + 겠/EP + 습니다/EF + ./SF
+오월01#/NNG 29/SN + 일07/NNB 손님/NNG 점심때/NNG + 쯤/XSN 되다01/VV + 어서/EC 아빠/NNG + 의/JKG 친구02/NNG + 분01/NNB + 이/JKS 오다01/VV + 시/EP + 었/EP + 습니다/EF + ./SF
+시골/NNG + 에서/JKB 가지다/VV + 고/EC 오다01/VV + 시/EP + 었/EP + 다/EF + 면서/EC 산나물/NNG 말리다03/VV + ㄴ/ETM 것01/NNB 한01/MM 뭉치/NNG + 와/JC 참외01/NNG + 를/JKO 한01/MM 보따리/NNG 사다/VV + 아/EC + 오다01/VV + 시/EP + 었/EP + 습니다/EF + ./SF
+참외01/NNG + 는/JX 달다07/VA + 고/EC 맛있다/VA + 었/EP + 습니다/EF + ./SF
+아빠/NNG + 의/JKG 친구02/NNG + 분01/NNB + 은/JX 몸01/NNG + 도/JX 뚱뚱하다/VA + 고/EC 키01/NNG + 도/JX 크다01/VA + 고/EC 퍽02/MAG 마음씨/NNG + 가/JKS 좋다01/VA + 게/EC 보이다01/VV + 었/EP + 습니다/EF + ./SF
+한참/NNG + 을/JKO 마루03/NNG + 에서/JKB 같이/MAG 무슨/MM 이야기/NNG + 를/JKO 나누다/VV + 시/EP + 더니/EC 점심/NNG + 을/JKO 잡수시다/VV + 고/EC 가다01/VV + 시/EP + 었/EP + 습니다/EF + ./SF
+우리03/NP 아빠/NNG + 의/JKG 친구02/NNG + 분01/NNB + 들/XSN + 이/JKS 가끔/MAG 오다01/VV + 시/EP + 는데/EC 나03/NP + 는/JX 손님/NNG + 이/JKS 오다01/VV + 시/EP + 면/EC 왜02/MAG 그렇다/VA + ㄴ지/EC 마음01/NNG + 이/JKS 참01/MAG 즐겁다/VA + 습니다/EF + ./SF
+오월01#/NNG 30/SN + 일07/NNB 참외01/NNG 날씨01/NNG + 가/JKS 덥다01/VA + 어/EC + 지다04/VX + 면서/EC 맛있다/VA + 는/ETM 과일01/NNG + 이/JKS 많이/MAG 나오다/VV + 았/EP + 다/EF + ./SF
+딸기/NNG + ,/SP 참외01/NNG + ,/SP 토마토/NNG + ,/SP 수박01/NNG + 이/JKS 시장04/NNG + 에/JKB 가다01/VV + 니/EC 수북이@/MAG 쌓이다/VV + 었/EP + 다/EF + ./SF
+일요일/NNG 날01/NNG 손님/NNG + 이/JKS 사다/VV + 아/EC + 오다01/VV + 시/EP + ㄴ/ETM 참외01/NNG + 를/JKO 어머니01/NNG + 께서/JKS 냉장고/NNG + 에/JKB 넣다/VV + 어/EC 두다01/VX + 시/EP + 었/EP + 다가/EC 우리03/NP + 가/JKS 숙제03/NNG + 를/JKO 하다01/VV + 고/EC 있다01/VX + 는데/EC 깎다/VV + 아/EC 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+입/NNG 안01/NNG + 에서/JKB 꼭꼭01/MAG 씹다01/VV + 으니/EC 시원하다/VA + ㄴ/ETM 참외01/NNG + 가/JKS 단물01/NNG + 과/JKB 함께/MAG 목01/NNG + 을/JKO 넘어가다01/VV + 았/EP + 다/EF + ./SF
+단물01/NNG + 이/JKS 입/NNG 가득히/MAG 괴다01/VV + ㄹ/ETM 때01/NNG 어머니01/NNG + 의/JKG 마음01/NNG + 이/JKS 너무01/MAG 고맙다01/VA + 게/EC 여기다/VV + 어/EC + 지다04/VX + 었/EP + 다/EF + ./SF
+숙제03/NNG + 가/JKS 끝나다/VV + 고/EC 공부01/NNG + 도/JX 하다01/VV + 았/EP + 다/EF + ./SF
+참외01/NNG + 맛01/NNG + 처럼/JKB 맛있다/VA + 는/ETM 공부01/NNG + 가/JKC 되다01/VV + 었/EP + 다/EF + ./SF
+오월01#/NNG 31/SN + 일07/NNB 세금01/NNG 4/SN + 시10/NNB + 쯤/XSN 되다01/VV + 어서/EC 수도세/NNG + 를/JKO 내다02/VV + 러/EC 은행02/NNG + 에/JKB 가다01/VV + 았/EP + 다/EF + ./SF
+은행02/NNG + 에/JKB + 는/JX 많다/VA + 은/ETM 사람/NNG + 들/XSN + 이/JKS 줄01/NNG + 을/JKO 서다01/VV + 어서/EC 차례01/NNG + 를/JKO 기다리다/VV + 었/EP + 다/EF + ./SF
+나03/NP + 의/JKG 차례01/NNG + 가/JKC 되다01/VV + 었/EP + 을/ETM 때01/NNG 어른01/NNG + 들/XSN + 이/JKS 새치기/NNG + 를/JKO 하다01/VV + 았/EP + 다/EF + ./SF
+줄01/NNG + 을/JKO 서다01/VV + 어서/EC 기다리다/VV + 는/ETM 사람/NNG + 도/JX 있다01/VA + 는데/EC 거기01/NP + 서/JKB 전교01/NNG 회장07/NNG 오빠/NNG + 도/JX 세금01/NNG 내다02/VV + 러/EC 오다01/VV + 았/EP + 는지/EC 보다01/VV + 았/EP + 다/EF + ./SF
+은행02/NNG + 에/JKB + 는/JX 예금01/NNG + 만/JX 하다01/VV + 는/ETM 것01/NNB + 이/JKC 아니다/VCN + 고/EC 세금01/NNG + 도/JX 내다02/VV + ㄹ/ETM 수02/NNB 있다01/VA + 는/ETM 참01/MAG 편리하다/VA + ㄴ/ETM 곳01/NNG + 이다/VCP + 다/EF + ./SF
+나03/NP + 도/JX 예금하다/VV + 러/EC 은행02/NNG + 에/JKB 오다01/VV + 는/ETM 사람/NNG + 이/JKC 되다01/VV + 게/EC 절약하다/VV + 는/ETM 생활/NNG + 을/JKO 하다01/VV + 아야/EC + 겠/EP + 다/EF + ./SF
+유월01#/NNG 1/SN + 일07/NNB 언니/NNG + 의/JKG 파티/NNG 셋째/MM + 언니/NNG + 는/JX 4/SN + 학년/NNG 9/SN + 반11/NNG + 이다/VCP + ㅂ니다/EF + ./SF
+언니/NNG + 도/JX 이번01/NNG + 에/JKB 부회장/NNG + 이/JKC 되다01/VV + 었/EP + 습니다/EF + ./SF
+친구02/NNG + 들/XSN + 과/JKB 더01/MAG 가까이/MAG 지내다01/VV + 고/EC 고맙다01/VA + 다/EF + 는/ETM 뜻/NNG + 으로/JKB 맛있다/VA + 는/ETM 음식/NNG + 과/JC 재미있다/VA + 는/ETM 놀이01/NNG + 를/JKO 하다01/VV + 았/EP + 습니다/EF + ./SF
+케이크/NNG + 와/JC 토마토/NNG + ,/SP 코카콜라/NNP 등05/NNB 상25/NNG + 이/JKS 푸짐하다/VA + 았/EP + 습니다/EF + ./SF
+언니/NNG 친구02/NNG + 들/XSN + 은/JX 노래자랑/NNG + ,/SP 귀신01/NNG 놀이01/NNG + ,/SP 고무줄놀이/NNG 등05/NNB + 을/JKO 재미있다/VA + 게/EC 하다01/VV + 다가/EC 돌아가다/VV + 았/EP + 습니다/EF + ./SF
+친구02/NNG + 들/XSN + 과/JKB 재미있다/VA + 게/EC 놀다01/VV + 는/ETM 일01/NNG + 도/JX 참01/MAG 좋다01/VA + 은/ETM 것01/NNB 같다/VA + 습니다/EF + ./SF
+놀다01/VV + ㄴ/ETM 것01/NNB + 만큼/JX 공부01/NNG + 도/JX 열심히/MAG 하다01/VV + 아야/EC + 겠/EP + 지요/EF + ./SF
+유월01#/NNG 2/SN + 일07/NNB 시험지/NNG 채점/NNG 바른생활/NNG 시간04/NNG + 에/JKB 선생님/NNG + 께서/JKS 갑자기/MAG 시험03/NNG + 을/JKO 치다02/VV + ㄴ다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+시험03/NNG 과목02/NNG + 은/JX 바른생활/NNG + 과/JC 즐겁다/VA + 은/ETM 생활/NNG + 이다/VCP + 다/EF + ./SF
+공부01/NNG + 를/JKO 다03/MAG 마치다02/VV + 고/EC 집01/NNG + 에/JKB 돌아가다/VV + 려/EC + 는데/EC 선생님/NNG + 께서/JKS 점심/NNG + 먹다02/VV + 고/EC 시험03/NNG 점수06/NNG 채점/NNG + 을/JKO 하다01/VV + 러/EC 오다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+정은이/NNP + ,/SP 현아/NNP + 와/JKB 같이/MAG 가다01/VV + 았/EP + 는데/EC 우리03/NP 셋이*/NNG + 는/JX 모두01/MAG 100/SN + 점10/NNB + 이다/VCP + 었/EP + 다/EF + ./SF
+100/SN + 점10/NNB + 을/JKO 맞다02/VV + 은/ETM 기분01/NNG + 은/JX 참01/MAG 좋다01/VA + 았/EP + 다/EF + ./SF
+앞/NNG + 으로/JKB + 도/JX 열심히/MAG 노력하다01/VV + 아서/EC 공부01/NNG + 도/JX 100/SN + 점10/NNB 맞다02/VV + 고/EC 행실/NNG + 도/JX 만점/NNG 받다01/VV + 는/ETM 학생/NNG + 이/JKC 되다01/VV + 어야/EC + 겠/EP + 다/EF + ./SF
+선생님/NNG + 께서/JKS 오다01/VV + 시/EP + 어서/EC 보다01/VV + 시/EP + 더니/EC 잘하다/VV + 았/EP + 다/EF + 고/JKQ 칭찬/NNG + 을/JKO 하다01/VV + 아/EC + 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+오늘/NNG + 은/JX 기분01/NNG + 이/JKS 참01/MAG 좋다01/VA + 은/ETM 하루01/NNG + 다/EF + ./SF
+유월01#/NNG 3/SN + 일07/NNB 토마토/NNG 오늘/NNG + 은/JX 처음/NNG + 으로/JKB 토마토/NNG + 를/JKO 실컷/MAG 먹다02/VV + 었/EP + 다/EF + ./SF
+어머니01/NNG + 께서/JKS 칠성시장/NNP + 의/JKG 과일01/NNG 시장04/NNG + 에서/JKB 토마토/NNG + 를/JKO 사다/VV + 아/EC + 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+크기/NNG + 는/JX 조그마하다/VA + ㄴ/ETM 것01/NNB + 이/JKS 빨갛다/VA + 게/EC 익다01/VV + 어서/EC 참01/MAG 맛있다/VA + 었/EP + 다/EF + ./SF
+어머니01/NNG + 께서/JKS 토마토/NNG + 는/JX 설탕/NNG + 에/JKB 찍다02/VV + 어/EC 먹다02/VV + 으면/EC 영양가/NNG + 가/JKS 떨어지다/VV + ㄴ다/EF + 고/JKQ 그냥/MAG 먹다02/VV + 으라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 는데/EC 싱싱하다/VA + ㄴ/ETM 토마토/NNG + 라서/EC 그렇다/VA + ㄴ지/EC 그냥/MAG 먹다02/VV + 어도/EC 맛있다/VA + 었/EP + 다/EF + ./SF
+한꺼번에/MAG 5/SN + 개10/NNB + 를/JKO 먹다02/VV + 고/EC 나다01/VX + 니/EC 저녁밥/NNG + 은/JX 먹다02/VV + 고/EC 싶다/VX + 지/EC 않다/VX + 았/EP + 다/EF + ./SF
+유월01#/NNG 4/SN + 일07/NNB 공부01/NNG 요사이/NNG + 는/JX 시험03/NNG + 을/JKO 많이/MAG 치다02/VV + ㄴ다/EF + ./SF
+숙제03/NNG + 를/JKO 하다01/VV + 고/EC 나다01/VX + 아서/EC 얼마/NNG 안02/MAG 있다01/VV + 으면/EC 또/MAJ 시험03/NNG + 을/JKO 치다02/VV + 게/EC 되다01/VV + 니까/EC 공부01/NNG + 를/JKO 미리미리/MAG 하다01/VV + 아야/EC 하다01/VX + ㄴ다/EF + 는/ETM 둘째/MM + 언니/NNG + 의/JKG 말01/NNG + 에/JKB 따르다01/VV + 아/EC 우리03/NP + 는/JX 수련장80/NNG + 을/JKO 공부하다/VV + 았/EP + 다/EF + ./SF
+셋째/MM + 언니/NNG + 는/JX 몇/MM 장22/NNB 못하다/VV + 아서/EC 그만두다/VV + 고/EC 놀다01/VV + 러/EC 가다01/VV + 는/ETM 바람01/NNB + 에/JKB 엄마/NNG + 께/JKB 혼02/NNG + 이/JKS 나다01/VV + 았/EP + 다/EF + ./SF
+무슨/MM 일01/NNG + 이든지/JX 끈기03/NNG 있다01/VA + 게/EC 하다01/VV + 고/EC + ,/SP 시작01/NNG + 이/JKS 있다01/VA + 으면/EC 끝01/NNG + 이/JKS 있다01/VA + 어야/EC 하다01/VX + ㄴ다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+이제01/NNG + 부터/JX + 는/JX 열심히/MAG 꾀부리다/VV + 지/EC 않다/VX + 고/EC 공부하다/VV + 아야지/EF + ./SF
+유월01#/NNG 5/SN + 일07/NNB 웅변/NNG 둘째/MM + 언니/NNG + 가/JKS 학교/NNG + 에서/JKB 웅변대회/NNG + 에/JKB 나가다/VV + ㄴ다/EF + 고/JKQ 원고03/NNG + 를/JKO 쓰다01/VV + 었/EP + 다/EF + ./SF
+어머니01/NNG + 께서/JKS 원고03/NNG 쓰다01/VV + 는/ETM 일01/NNG + 을/JKO 돕다/VV + 아/EC 주다01/VX + 시/EP + 고/EC 가르치다01/VV + 어/EC 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+우리03/NP + 는/JX 옆/NNG + 에서/JKB 언니/NNG + 의/JKG 흉내/NNG + 를/JKO 내다02/VV + 면서/EC 깔깔거리다/VV + 고/EC 웃다/VV + 고/EC 하다01/VV + 았/EP + 더니/EC 어머니01/NNG + 께서/JKS 우리03/NP 가족01/NNG + 이/JKS 모두01/MAG 언니/NNG + 를/JKO 위하다01/VV + 아서/EC 같이/MAG 힘01/NNG + 을/JKO 합하다/VV + 아야/EC 하다01/VX + ㄴ다/EF + 며/EC 조용히/MAG 듣다01/VV + 고/EC 있다01/VX + 으라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+처음/NNG 보다01/VV + 는/ETM 것01/NNB + 이다/VCP + 라서/EC 자꾸만/MAG 웃음/NNG + 이/JKS 나오다/VV + 았/EP + 다/EF + ./SF
+유월01#/NNG 6/SN + 일07/NNB 현충일/NNG 오늘/NNG + 은/JX 나라01/NNG + 를/JKO 위하다01/VV + 아서/EC 몸01/NNG 바치다01/VV + ㄴ/ETM 분01/NNB + 들/XSN + 을/JKO 위하다01/VV + 아서/EC 기도하다02/VV + 며/EC 지내다01/VV + 는/ETM 날01/NNG + 이다/VCP + 기/ETN 때문/NNB + 에/JKB 조용히/MAG 보내다/VV + 어야/EC 하다01/VX + ㄴ다/EF + 고/JKQ 지나다/VV + ㄴ/ETM 토요일/NNG 날01/NNG 선생님/NNG + 께서/JKS 말씀하다/VV + 시/EP + 었/EP + 다/EF + ./SF
+아침/NNG 일찍/MAG 일어나다/VV + 아/EC 언니/NNG + 와/JKB 같이/MAG 태극기/NNP + 를/JKO 달다03/VV + 았/EP + 다/EF + ./SF
+다른/MM 때01/NNG + 와/JKB + 는/JX 달리01/MAG 한01/MM 뼘02/NNB 아래01/NNG + 에/JKB 국기07/NNG + 를/JKO 달다03/VV + 았/EP + 다/EF + ./SF
+텔레비전/NNG + 에서/JKB 묵념/NNG + 을/JKO 올리다01/VV + 는/ETM 것01/NNB + 을/JKO 보다01/VV + 고/EC 같이/MAG 묵념/NNG + 을/JKO 올리다01/VV + 고/EC 어머니01/NNG + 로부터/JKB 국립묘지/NNP + 에/JKB 대하다02/VV + ㄴ/ETM 이야기/NNG + 를/JKO 듣다01/VV + 었/EP + 다/EF + ./SF
+우리03/NP + 는/JX 열심히/MAG 공부하다/VV + 고/EC 자기04/NNG + 가/JKS 하다01/VV + ㄹ/ETM 일01/NNG + 을/JKO 충실히02/MAG 하다01/VV + 아서/EC 다시01/MAG + 는/JX 전쟁/NNG + 이/JKS 없다01/VA + 도록/EC 하다01/VV + 아야/EC 하다01/VX + ㄴ다/EF + 고/JKQ 아버지/NNG + 께서/JKS 말씀하다/VV + 아/EC 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+유월01#/NNG 7/SN + 일07/NNB 꾸지람/NNG 숙제03/NNG + 를/JKO 하다01/VV + 고/EC 나다01/VX + 아서/EC 동생01/NNG + 들/XSN + 을/JKO 데리다/VV + 고/EC 소꿉놀이/NNG + 를/JKO 하다01/VV + 았/EP + 는데/EC 하다01/VV + 고/EC 나다01/VX + 아서/EC 소꿉/NNG + 을/JKO 온통/MAG 흩트리다@/VV + 어/EC 놓다01/VX + 아서/EC 동생01/NNG + 과/JC 나03/NP + 는/JX 어머니01/NNG + 에게/JKB 꾸지람/NNG + 을/JKO 듣다01/VV + 었/EP + 다/EF + ./SF
+놀다01/VV + 고/EC 나다01/VX + 아서/EC 제자리/NNG + 에/JKB 갖다01/VV + 다/EC 놓다01/VV + 았/EP + 으면/EC 꾸지람/NNG + 을/JKO 듣다01/VV + 지/EC 않다/VX + 았/EP + 을/ETM 터02/NNB + 이다/VCP + ㄴ데/EC + ./SF
+이제01/NNG + 부터/JX + 는/JX 쓰다03/VV + 고/EC 나다01/VX + ㄴ/ETM 물건/NNG + 은/JX 무엇/NP + 이든지/JX 제자리/NNG + 에/JKB 놓다01/VV + 아/EC 두다01/VX + 는/ETM 습관/NNG + 을/JKO 기르다/VV + 어야/EC + 겠/EP + 다/EF + ./SF
+유월01#/NNG 8/SN + 일07/NNB 글짓기/NNG 시간04/NNG 오늘/MAG 셋째/MM 시간04/NNG + 에/JKB 글짓기/NNG + 를/JKO 하다01/VV + 았/EP + 다/EF + ./SF
+제목02/NNG + 은/JX 우리03/NP 학교/NNG + ,/SP 나03/NP + 의/JKG 짝01/NNG + ,/SP 등굣길@/NNG + ,/SP 책상01/NNG 등05/NNB + 이다/VCP + 다/EF + ./SF
+나03/NP + 는/JX 동시08/NNG + 는/JX 한01/MM 번04/NNB + 도/JX 쓰다01/VV + 어/EC + 보다01/VX + 지/EC 않다/VX + 아서/EC 어제01/MAG 집01/NNG + 에서/JKB 어머니01/NNG + 와/JKB 같이/MAG 연습03/NNG + 을/JKO 하다01/VV + 아/EC + 보다01/VX + 았/EP + 는데/EC 막상01/MAG 쓰다01/VV + 려고/EC 하다01/VX + 니/EC 아무01/MM 생각01/NNG + 도/JX 안02/MAG 나다01/VV + 아서/EC 아무렇다/VA + 게/EC + 나/JX 쓰다01/VV + 었/EP + 다/EF + ./SF
+남01/NNG + 의/JKG 글/NNG + 도/JX 많이/MAG 읽다/VV + 고/EC 책01/NNG + 도/JX 많이/MAG 읽다/VV + 어서/EC 선생님/NNG + 도/JX 어머니01/NNG + 도/JX 기쁘다/VA + 게/EC 하다01/VX + 아/EC + 드리다01/VX + 도록/EC 다음01/NNG + 에/JKB + 는/JX 잘02/MAG 쓰다01/VV + 어야지/EF + ./SF
+글짓기/NNG 연습03/NNG + 을/JKO 매일/MAG 하다01/VV + 라/EF + 고/JKQ + ,/SP 어머니01/NNG + 가/JKS 검사하다/VV + ㄴ다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+유월01#/NNG 9/SN + 일07/NNB 숙제03/NNG + 와/JC 시간04/NNG 숙제03/NNG + 하다01/VV + 는/ETM 데01/NNB 너무01/MAG 시간04/NNG + 이/JKS 많이/MAG 걸리다01/VV + ㄴ다/EF + ./SF
+숙제03/NNG + 하다01/VV + ㄴ다/EF + 고/JKQ 펴다/VV + 어/EC 놓다01/VX + 고/EC 동생01/NNG + 들/XSN 놀이01/NNG + 에/JKB 간섭하다/VV + 지/EF + ,/SP 물01/NNG 먹다02/VV + 고/EC 화장실/NNG 가다01/VV + 고/EC 필요/NNG 없이/MAG 너무01/MAG 쫓아다니다/VV + ㄴ다/EF + ./SF
+그래서/MAJ 오늘/NNG + 부터/JX + 는/JX 어머니01/NNG + 께서/JKS 가정06/NNG 연락부*/NNG + 를/JKO 검사하다/VV + 시/EP + 고/EC 몇/MM 시10/NNB + 부터/JX 몇/MM 시10/NNB + 까지/JX 시간04/NNG + 을/JKO 정하다03/VV + 아/EC 놓다01/VX + 고/EC 그01/MM 시간04/NNG + 에/JKB 하다01/VV + 지/EC 못하다/VX + 면/EC 벌06/NNG + 을/JKO 주다01/VV + 기/ETN + 로/JKB 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+조심하다02/VV + 니까/EC 빨리/MAG 하다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 었/EP + 다/EF + ./SF
+숙제03/NNG + 가/JKS 끝나다/VV + 고/EC + 도/JX 시간04/NNG + 이/JKS 많이/MAG 남다01/VV + 아서/EC 오월01#/NNG + 달05/NNG 완전학습/NNP + 을/JKO 끝내다/VV + 었/EP + 다/EF + ./SF
+시간04/NNG + 을/JKO 아끼다/VV + 어서/EC 쓰다03/VV + 어야/EC + 겠/EP + 다/EF + ./SF
+아이고@/IC 또/MAJ 글짓기/NNG 연습03/NNG + 을/JKO 하다01/VV + 아야지/EF + ./SF
+유월01#/NNG 10/SN + 일07/NNB 언니/NNG + 의/JKG 수학여행/NNG 준비/NNG 둘째/MM + 언니/NNG + 가/JKS 내일/MAG 수학여행/NNG + 을/JKO 가다01/VV + ㄴ다/EF + 고/JKQ 어머니01/NNG + 와/JKB 같이/MAG 시장04/NNG + 에/JKB 가다01/VV + 았/EP + 다/EF + ./SF
+예쁘다/VA + ㄴ/ETM 옷01/NNG + 도/JX 사다/VV + 고/EC 모자08/NNG + 도/JX 사다/VV + 았/EP + 다/EF + ./SF
+김밥/NNG 준비/NNG + 도/JX 하다01/VV + 고/EC 어머니01/NNG + 께서/JKS 공부01/NNG 잘하다/VV + 았/EP + 다/EF + 고/JKQ 하다01/VV + 시/EP + 면서/EC 참외01/NNG + 도/JX 사다/VV + 아/EC + 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+언니/NNG + 가/JKS 여행02/NNG 준비하다/VV + 는/ETM 것01/NNB + 을/JKO 보다01/VV + 니/EC 나03/NP + 도/JX 빨리/MAG 6/SN + 학년/NNG + 이/JKC 되다01/VV + 어서/EC 여행02/NNG + 을/JKO 가다01/VV + 았/EP + 으면/EC 좋다01/VA + 겠/EP + 다/EF + ./SF
+이웃/NNG + 의/JKG 어머니01/NNG 친구02/NNG 민아/NNP 엄마/NNG + ,/SP 수경/NNP 재민/NNP 정운이/NNP 엄마/NNG + ,/SP 모두01/MAG 언니/NNG + 에게/JKB 선물03/NNG + 을/JKO 사다/VV + 아/EC + 가지다/VX + 고/EC 오다01/VV + 시/EP + 어서/EC 잘02/MAG 가다01/VV + 았/EP + 다/EC 오다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+친구02/NNG + 는/JX 참01/MAG 좋다01/VA + 은/ETM 것01/NNB + 이다/VCP + ㄴ가/EF 보다01/VX + 아/EF + ./SF
+유월01#/NNG 11/SN + 일07/NNB 언니/NNG 마중01/NNG 언니/NNG + 는/JX 아침/NNG + 에/JKB 여행02/NNG + 을/JKO 가다01/VV + 았/EP + 는데/EC 오후02/NNG 7/SN + 시10/NNB + 에/JKB 돌아오다/VV + ㄴ다/EF + 고/JKQ 하다01/VV + 아서/EC 저녁밥/NNG + 을/JKO 일찍/MAG 먹다02/VV + 고/EC 학교/NNG + 에/JKB 가다01/VV + 았/EP + 다/EF + ./SF
+우리03/NP + 가/JKS 교문01/NNG + 을/JKO 들어서다/VV + 려/EC + 니까/EC 버스02/NNG + 가/JKS 막01/MAG 도착하다01/VV + 아서/EC 언니/NNG + 들/XSN + 이/JKS 차06/NNG + 에서/JKB 내리다01/VV + 었/EP + 다/EF + ./SF
+언니/NNG + 는/JX 이것저것/NNG 구경하다/VV + ㄴ/ETM 이야기/NNG + 를/JKO 재미있다/VA + 게/EC 하다01/VV + 면서/EC 집01/NNG + 으로/JKB 돌아오다/VV + 았/EP + 다/EF + ./SF
+언니/NNG + 는/JX 등허리/NNG 긁다/VV + 는/ETM 것01/NNB + 을/JKO 두01/MM 개10/NNB 사다/VV + 아/EC + 오다01/VV + 고/EC + ,/SP 피곤하다/VA + 다/EF + 고/JKQ 하다01/VV + 면서/EC 일찍/MAG 자다01/VV + 았/EP + 다/EF + ./SF
+유월01#/NNG 12/SN + 일07/NNB 이티#/NNP 영화01/NNG 구경01/NNG 아빠/NNG + 께서/JKS 초대권/NNG + 을/JKO 5/SN + 장22/NNB 가지다/VV + 고/EC 오다01/VV + 시/EP + 어서/EC 나03/NP + 는/JX 엄마/NNG + ,/SP 언니/NNG + ,/SP 작은방/NNG 오빠/NNG + 와/JKB 같이/MAG 이티#/NNP + 를/JKO 보다01/VV + 러/EC 가다01/VV + 았/EP + 다/EF + ./SF
+시민/NNG 회관/NNG + 에서/JKB 하다01/VV + 았/EP + 는데/EC 참01/MAG 재미있다/VA + 었/EP + 다/EF + ./SF
+외계인/NNG 이티#/NNP + 가/JKS 우주02/NNG + 로/JKB 돌아가다/VV + 지/EC 못하다/VX + 고/EC 엘리어트/NNP + 라/EF + 는/ETM 아이01/NNG + 의/JKG 도움/NNG + 을/JKO 받다01/VV + 아서/EC 지구04/NNG + 에/JKB 있다01/VV + 다가/EC 우주02/NNG + 로/JKB 무사히02/MAG 돌아가다/VV + 는/ETM 이야기/NNG + 이다/VCP + 었/EP + 다/EF + ./SF
+이티#/NNP + 가/JKS 과자02/NNG + 를/JKO 먹다02/VV + 고/EC 춤01/NNG + 을/JKO 추다02/VV + ㄹ/ETM 때01/NNG + 와/JC 녹음기/NNG + 를/JKO 틀다/VV + 고/EC 디스코/NNG + 를/JKO 추다02/VV + ㄹ/ETM 때01/NNG + 는/JX 어린이01/NNG + 들/XSN + 이/JKS 모두01/MAG 웃다/VV + 었/EP + 다/EF + ./SF
+참01/MAG 재미있다/VA + 는/ETM 구경01/NNG + 이다/VCP + 었/EP + 다/EF + ./SF
+유월01#/NNG 13/SN + 일07/NNB 통신부02/NNG 통신부02/NNG + 를/JKO 받다01/VV + 고/EC 아빠/NNG + 께서/JKS 바쁘다/VA + 시/EP + 어서/EC 아무01/MM 말씀/NNG + 도/JX 안02/MAG 하다01/VV + 시/EP + 었/EP + 는데/EC 오늘/MAG 저녁/NNG 빵01/NNG + 을/JKO 많이/MAG 사다/VV + 아/EC + 오다01/VV + 시/EP + 고/EC 우리03/NP + 를/JKO 모두01/MAG 부르다01/VV + 어/EC 놓다01/VX + 고/EC 말씀하다/VV + 시/EP + 었/EP + 다/EF + ./SF
+잘하다/VV + 았/EP + 다/EF + 고/JKQ 뽐내다/VV + 지/EC + 도/JX 말다03/VX + 고/EC 좀02/MAG 뒤떨어지다/VV + ㄴ/ETM 과목02/NNG + 은/JX 더01/MAG 열심히/MAG 공부하다/VV + 고/EC 더01/MAG 많이/MAG 공부하다/VV + 아서/EC 남01/NNG + 에게/JKB 모범02/NNG + 이/JKC 되다01/VV + 고/EC 행실/NNG + 도/JX 착하다/VA + ㄴ/ETM 사람/NNG + 이/JKC 되다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+그리고/MAJ 늘/MAG 가르치다01/VV + 어/EC 주다01/VX + 시/EP + 는/ETM 선생님/NNG + 의/JKG 말씀/NNG + 에/JKB 따르다01/VV + 아서/EC + 만/JX 하다01/VV + 면/EC 되다01/VV + ㄴ다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+좀02/MAG 잘하다/VV + 았/EP + 다/EF + 고/JKQ 거기01/NP + 에/JKB 만족하다/VV + 면/EC 그01/MM 사람/NNG + 은/JX 그01/MM 자리01/NNG + 에/JKB 주저앉다/VV + 아서/EC 더01/MAG 앞/NNG + 으로/JKB 나아가다/VV + 지/EC 못하다/VX + ㄴ다/EF + 고/JKQ 어머니01/NNG + 도/JX 한01/MM 말씀/NNG 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+그래도/NV 엄마/NNG 아빠/NNG + 는/JX 우리03/NP + 가/JKS 공부01/NNG + 를/JKO 잘하다/VV + 아서/EC 기분01/NNG + 이/JKS 참01/MAG 좋다01/VA + 은가/EF 보다01/VX + 아/EF + ./SF
+앞/NNG + 으로/JKB 더01/MAG 잘하다/VV + 아야지/EF + ./SF
+유월01#/NNG 14/SN + 일07/NNB 목욕/NNG 날씨01/NNG + 가/JKS 가물다/VV + 어서/EC 물01/NNG + 이/JKS 하루01/NNG 거르다02/VV + 어/EC 나오다/VV + 기/ETN 때문/NNB + 에/JKB 목욕/NNG + 도/JX 마음대로/MAG 하다01/VV + ㄹ/ETM 수02/NNB + 가/JKS 없다01/VA + 다/EF + ./SF
+오늘/NNG + 은/JX 물01/NNG + 이/JKS 나오다/VV + 는/ETM 날01/NNG + 이다/VCP + 라서/EC 어머니01/NNG + 께서/JKS 더운물/NNG + 로/JKB 목욕/NNG + 을/JKO 시키다01/VV + 어/EC 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+땀01/NNG + 이/JKS 많이/MAG 나다01/VV + 아서/EC + 이다/VCP + ㄴ지/EC 때02/NNG + 가/JKS 참01/MAG 많이/MAG 나오다/VV + 았/EP + 다/EF + ./SF
+우리03/NP 다섯/NR + 을/JKO 다03/MAG 씻기다02/VV + 고/EC 나다01/VX + 니/EC 어머니01/NNG + 는/JX 땀01/NNG + 으로/JKB 목욕/NNG + 을/JKO 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+참01/MAG 힘들다/VA + 다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+어머니01/NNG + 의/JKG 힘들다/VA + 시/EP + ㄴ@/ETM 것01/NNB + 을/JKO 덜다01/VV + 어/EC 드리다01/VX + 기/ETN 위하다01/VV + 아서/EC 나03/NP + 는/JX 이제01/MAG 나03/NP + 가/JKS 씻다/VV + 어야/EC + 겠/EP + 다/EF + ./SF
+시원하다/VA + 게/EC 목욕/NNG + 을/JKO 하다01/VV + 니/EC 공부01/NNG + 가/JKS 더01/MAG 잘되다/VV + 는/ETM 것01/NNB 같다/VA + 다/EF + ./SF
+유월01#/NNG 15/SN + 일07/NNB 수박01/NNG 올해/NNG 들다01/VV + 어/EC 처음/NNG + 으로/JKB 수박01/NNG + 을/JKO 먹다02/VV + 었/EP + 다/EF + ./SF
+잘02/MAG 익다01/VV + 지/EC + 는/JX 않다/VX + 았/EP + 어도/EC 제법01/MAG 달다07/VA + 고/EC 시원하다/VA + 았/EP + 다/EF + ./SF
+수박01/NNG + 은/JX 750/SN + 원01/NNB 주다01/VV + 었/EP + 다/EF + 고/JKQ 하다01/VV + 았/EP + 는데/EC 껍질/NNG + 이/JKS 너무01/MAG 두껍다/VA + 어서/EC 알01/NNG + 은/JX 얼마/NNG 되다01/VV + 지/EC 않다/VX + 았/EP + 다/EF + ./SF
+다섯/NR + 이/JKS 둘러앉다/VV + 아서/EC 몇/MM 숟갈/NNG + 씩/XSN 먹다02/VV + 고/EC 나다01/VX + 니/EC 다03/MAG 먹다02/VV + 었/EP + 다/EF + ./SF
+수박01/NNG + 을/JKO 실컷/MAG 먹다02/VV + 었/EP + 으면/EC 좋다01/VA + 겠/EP + 다/EF + ./SF
+유월01#/NNG 16/SN + 일07/NNB 동생01/NNG + 과/JC 장난감/NNG 나03/NP + 의/JKG 동생01/NNG 성진이/NNP + 는/JX 장난감/NNG + 을/JKO 무척01/MAG 좋아하다/VV + 는데/EC 그중/NNG + 에서/JKB 자동차/NNG + 를/JKO 제일04/NNG 좋아하다/VV + ㄴ다/EF + ./SF
+자동차/NNG 종류02/NNG + 는/JX 거의01/MAG 다03/MAG 갖다01/VV + 고/EC 있다01/VX + 다/EF + ./SF
+소방차/NNG + ,/SP 포클레인@/NNG + ,/SP 버스02/NNG + ,/SP 택시/NNG + ,/SP 트럭/NNG 등05/NNB + 이다/VCP + 다/EF + ./SF
+그런데/MAJ 늘/MAG 자동차/NNG + 를/JKO 사다/VV + 아/EC + 달다05/VX + 라/EF + 고/JKQ 조르다02/VV + ㄴ다/EF + ./SF
+오늘/NNG + 은/JX 졸리다03/VV + 다/EC 못하다/VX + 아서/EC 우리03/NP 학교/NNG 문방구/NNG + 에서/JKB 100/SN + 원01/NNB + 에/JKB 5/SN + ∼/SO + 6/SN + 개10/NNB + 씩/XSN 들다01/VV + 어/EC 있다01/VX + 는/ETM 자동차/NNG + 를/JKO 사다/VV + 아/EC + 주다01/VX + 었/EP + 다/EF + ./SF
+그것/NP + 들/XSN + 을/JKO 비닐/NNG 주머니/NNG + 에/JKB 넣다/VV + 어서/EC 늘/MAG 들다04/VV + 고/EC 다니다/VV + 었/EP + 다/EF + ./SF
+나03/NP + 의/JKG 용돈/NNG + 을/JKO 아끼다/VV + 어서/EC 자동차/NNG + 를/JKO 하나/NR 사다/VV + 아/EC + 주다01/VX + 어야/EC + 겠/EP + 다/EF + ./SF
+유월01#/NNG 17/SN + 일07/NNB 밝고맑은우리/NNP 노래01/NNG 연습03/NNG 오늘/NNG + 은/JX 숙제03/NNG 대신03/NNG 밝고맑은우리/NNP 노래01/NNG + 를/JKO 외우다01/VV + 기/ETN + 다/EF + ./SF
+언니/NNG + 의/JKG 피아노01/NNG 소리01/NNG + 에/JKB 맞추다01/VV + 어/EC 노래01/NNG + 를/JKO 부르다01/VV + 었/EP + 다/EF + ./SF
+전08/NNG + 에/JKB 언니/NNG + 들/XSN 부르다01/VV + 는/ETM 것01/NNB + 을/JKO 듣다01/VV + 고/EC 따르다01/VV + 아/EC 배우다01/VV + 었/EP + 는데/EC 책01/NNG + 에/JKB 있다01/VA + 는/ETM 것01/NNB + 과/JKB 많이/MAG 틀리다01/VV + 었/EP + 다/EF + ./SF
+한번/NNG 입/NNG + 에/JKB 익다02/VA + 어서/EC 잘02/MAG 고치다02/VV + 어/EC + 지다04/VX + 지/EC + 를/JKO 않다/VX + 아/EC 언니/NNG + 가/JKS 막02/MAG 소리01/NNG + 를/JKO 지르다03/VV + 었/EP + 다/EF + ./SF
+계명04/NNG + 부터/JX 다시01/MAG 외우다01/VV + 어서/EC 하다01/VV + 라/EF + 고/JKQ 하다01/VV + 았/EP + 다/EF + ./SF
+유월01#/NNG 19/SN + 일07/NNB 엄마/NNG + 의/JKG 나들이01/NNG 아주01/MAG 오랜만/NNG + 에/JKB 엄마/NNG + 와/JC 아빠/NNG + 께서/JKS 동창회/NNG 모임01/NNG + 으로/JKB 양산/NNP 내원사/NNP + 라/EF + 는/ETM 절01/NNG + 에/JKB 놀다01/VV + 러/EC + 를/JKO 가다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+아침/NNG + 부터/JX 우리03/NP + 는/JX 일찍/MAG 일어나다/VV + 아/EC 동생01/NNG + 을/JKO 데리다/VV + 고/EC 놀다01/VV + 고/EC 벌써/MAG + 부터/JX 엄마/NNG 아빠/NNG + 가/JKS 돌아오다/VV + 시/EP + 기/ETN + 를/JKO 기다리다/VV + 었/EP + 다/EF + ./SF
+엄마/NNG 아빠/NNG + 께서/JKS 선물03/NNG + 을/JKO 사다/VV + 아/EC + 오다01/VV + 시/EP + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+오늘/NNG + 은/JX 어떤/MM 선물03/NNG + 을/JKO 사다/VV + 아/EC + 오다01/VV + 시/EP + ㄹ까/EF + ?/SF
+'/SS 유월01#/NNG 21/SN + 일07/NNB 숙제03/NNG 정은이/NNP + 가/JKS 우리03/NP 집01/NNG + 으로/JKB 숙제03/NNG + 를/JKO 하다01/VV + 러/EC 오다01/VV + 았/EP + 다/EF + ./SF
+약속/NNG + 이/JKS 있다01/VA + 었/EP + 기/ETN 때문/NNB + 에/JKB 나03/NP + 는/JX 더01/MAG 반갑다/VA + 었/EP + 다/EF + ./SF
+정은이/NNP + 와/JKB 같이/MAG 숙제03/NNG + 를/JKO 하다01/VV + 니/EC 시간04/NNG + 이/JKS 훨씬/MAG 덜01/MAG 걸리다01/VV + 었/EP + 다/EF + ./SF
+서로01/MAG 빨리/MAG 하다01/VV + 려고/EC 하다01/VX + 니까/EC 더01/MAG 빠르다/VA + 았/EP + 다/EF + ./SF
+숙제03/NNG + 가/JKS 끝나다/VV + 고/EC 어머니01/NNG + 께서/JKS 옥수수/NNG + 와/JC 도넛/NNG + 을/JKO 사다/VV + 아/EC + 주다01/VX + 시/EP + 어서/EC 정은이/NNP + 와/JKB 같이/MAG 나누다/VV + 어/EC 먹다02/VV + 고/EC 있다01/VX + 으려/EC + 니/EC 여옥이/NNP + 가/JKS 동생01/NNG + 과/JKB 같이/MAG 놀다01/VV + 러/EC 오다01/VV + 아서/EC 고무줄/NNG + 을/JKO 하다01/VV + 고/EC 재미있다/VA + 게/EC 놀다01/VV + 았/EP + 다/EF + ./SF
+나03/NP + 는/JX 동생01/NNG + 을/JKO 잘02/MAG 데리다/VV + 고/EC 다니다/VV + 지/EC 않다/VX + 는데/EC 여옥이/NNP + 는/JX 동생01/NNG + 을/JKO 참01/MAG 잘02/MAG 데리다/VV + 고/EC 놀다01/VV + 았/EP + 다/EF + ./SF
+나03/NP + 도/JX 동생01/NNG + 을/JKO 잘02/MAG 데리다/VV + 고/EC 다니다/VV + 어야지/EF + ./SF
+유월01#/NNG 23/SN + 일07/NNB 개교기념일/NNG 오늘/NNG + 은/JX 우리03/NP 학교/NNG 생일02/NNG + 이다/VCP + 라서/EC 학교/NNG + 를/JKO 쉬다03/VV + 었/EP + 다/EF + ./SF
+집01/NNG + 에서/JKB 쉬다03/VV + 고/EC 있다01/VX + 으니/EC 꼭03/MAG 일요일/NNG + 처럼/JKB 생각01/NNG + 이/JKC 되다01/VV + 어서/EC 몇/MM 번04/NNB + 이나/JX 언니/NNG + 한테/JKB 놀림01/NNG + 을/JKO 받다01/VV + 았/EP + 다/EF + ./SF
+4/SN + 학년/NNG 이상05/NNG 회장07/NNG + ,/SP 부회장/NNG + ,/SP 청소년단*/NNG + ,/SP 적십자/NNP 단원03/NNG + 은/JX 학교/NNG + 에/JKB 가다01/VV + ㄴ다/EF + 고/JKQ 하다01/VV + 았/EP + 다/EF + ./SF
+4/SN + 학년/NNG 언니/NNG + 는/JX 학교/NNG + 에/JKB 가다01/VV + 아서/EC 찹쌀떡/NNG + 을/JKO 두01/MM 개10/NNB + 씩/XSN 받다01/VV + 아/EC 오다01/VV + 았/EP + 다/EF + ./SF
+참01/MAG 맛있다/VA + 었/EP + 다/EF + ./SF
+학생/NNG + 들/XSN 모두01/NNG + 에게/JKB 주다01/VV + 었/EP + 으면/EC 좋다01/VA + 을/ETM 것01/NNB + 을/JKO + ./SF
+유월01#/NNG 24/SN + 일07/NNB 칫솔/NNG + 통10/NNG 오늘/MAG 학교/NNG + 에/JKB 오다01/VV + 아서/EC 둘째/MM 시간04/NNG + 을/JKO 마치다02/VV + 고/EC 우유02/NNG + 를/JKO 가지다/VV + 러/EC 가다01/VV + 았/EP + 다/EF + ./SF
+그런데/MAJ 그01/MM 안01/NNG + 에/JKB + 는/JX 선생님/NNG 물통02/NNG + 이/JKS 들다01/VV + 어/EC 있다01/VX + 었/EP + 다/EF + ./SF
+우리03/NP 것01/NNB + 은/JX 칫솔/NNG + 통10/NNG + 이다/VCP + 었/EP + 다/EF + ./SF
+나03/NP + 는/JX 칫솔/NNG + 통10/NNG + 을/JKO 하나/NR 받다01/VV + 았/EP + 다/EF + ./SF
+아주머니/NNG + 께서/JKS 수고하다01/VV + 았/EP + 다/EF + 고/JKQ 하다01/VV + 면서/EC 주다01/VV + 었/EP + 다/EF + ./SF
+거기01/NP + 에/JKB + 는/JX 칫솔/NNG + 이/JKS 있다01/VA + 었/EP + 다/EF + ./SF
+비락우유/NNP 회사04/NNG + 에서/JKB 그동안/NNG 비락우유/NNP + 를/JKO 팔다/VV + 아/EC 주다01/VX + 어서/EC 고맙다01/VA + 다/EF + 고/JKQ 주다01/VV + 는/ETM 것01/NNB + 이다/VCP + ㄴ가/EF 보다01/VX + 다/EF + ./SF
+그것/NP + 을/JKO 집01/NNG + 에/JKB 가지다/VV + 고/EC 오다01/VV + 아서/EC 마루03/NNG + 에/JKB 있다01/VA + 는/ETM 기둥01/NNG + 에/JKB 언니/NNG + 와/JKB 함께/MAG 붙이다/VV + 었/EP + 다/EF + ./SF
+우리03/NP 집01/NNG + 에서/JKB 국민학교/NNG + 에/JKB 다니다/VV + 는/ETM 언니/NNG + 는/JX 다03/MAG 받다01/VV + 아/EC 오다01/VV + 았/EP + 다/EF + ./SF
+이제01/MAG 나03/NP + 의/JKG 칫솔/NNG + 은/JX 네02/MM 개10/NNB + 이다/VCP + 다/EF + ./SF
+이05/MM 칫솔/NNG + 통10/NNG + 은/JX 먼지01/NNG + 가/JKS 묻다01/VV + 지/EC 않다/VX + 게/EC 되다01/VV + 어/EC 있다01/VX + 어서/EC 참01/MAG 위생적/NNG + 이다/VCP + 라/EF + 고/JKQ 생각되다/VV + ㄴ다/EF + ./SF
+이제01/MAG 아침저녁/NNG + 으로/JKB 열심히/MAG 닦다01/VV + 아야/EC + 겠/EP + 다/EF + ./SF
+유월01#/NNG 25/SN + 일07/NNB 공부01/NNG 유월01#/NNG + 달05/NNG 수련장80/NNG + 을/JKO 늦다/VA + 게/EC 사다/VV + 았/EP + 기/ETN 때문/NNB + 에/JKB 빨리/MAG 하다01/VV + 아야/EC 하다01/VX + ㄴ다/EF + ./SF
+그래서/MAJ 나03/NP + 는/JX 일요일/NNG + 까지/JX + 는/JX 밀리다01/VV + ㄴ/ETM 것01/NNB + 을/JKO 다03/MAG 하다01/VV + 아야/EC + 겠/EP + 다/EF + 고/JKQ 마음먹다/VV + 고/EC 문제06/NNG + 를/JKO 풀다/VV + 었/EP + 다/EF + ./SF
+공부01/NNG + 를/JKO 하다01/VV + 고/EC 있다01/VX + 으면/EC 어머니01/NNG + 께서/JKS + 는/JX 맛있다/VA + 는/ETM 것01/NNB + 도/JX 사다/VV + 아/EC + 주다01/VX + 시/EP + 고/EC 모르다/VV + 는/ETM 것01/NNB + 을/JKO 잘02/MAG 가르치다01/VV + 어/EC 주다01/VX + 시/EP + 기/ETN + 도/JX 하다01/VX + ㄴ다/EF + ./SF
+공부01/NNG + 를/JKO 하다01/VV + ㄹ수록/EC 더01/MAG 하다01/VV + ㄹ/ETM 것01/NNB + 이/JKS 많다/VA + 아/EC + 지다04/VX + 는/ETM 것01/NNB 같다/VA + 다/EF + ./SF
+학년/NNG + 이/JKS 올라가다/VV + ㄹ수록/EC 더01/MAG 많이/MAG 하다01/VV + 아야/EC 하다01/VX + 니/EC 지금03/NNG + 부터/JX 열심히/MAG 하다01/VV + 아야/EC + 겠/EP + 다/EF + ./SF
+유월01#/NNG 26/SN + 일07/NNB 할머니/NNG 댁01/NNG 오랜만/NNG + 에/JKB 언니/NNG + 와/JC 동생01/NNG + 과/JKB 같이/MAG 할머니/NNG 댁01/NNG + 에/JKB 놀다01/VV + 러/EC 가다01/VV + 았/EP + 다/EF + ./SF
+할머니/NNG + 께서/JKS 무척01/MAG 반가워하다/VV + 시/EP + 었/EP + 다/EF + ./SF
+할머니/NNG 댁01/NNG + 에서/JKB + 는/JX 가게/NNG + 를/JKO 하다01/VV + 시/EP + 기/ETN 때문/NNB + 에/JKB 우리03/NP + 들/XSN + 이/JKS 좋아하다/VV + 는/ETM 과자02/NNG + ,/SP 빵01/NNG + ,/SP 과일01/NNG + ,/SP 아이스크림/NNG + ,/SP 쭈쭈바*@/NNG 등05/NNB + 을/JKO 많이/MAG 주다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+할머니/NNG + 께서/JKS + 는/JX 주희/NNP + 는/JX 공부01/NNG 잘하다/VV + ㄴ다/EF + 고/JKQ 하다01/VV + 시/EP + 고/EC 머리01/NNG + 를/JKO 쓰다듬다/VV + 어/EC 주다01/VX + 시/EP + 며/EC + ,/SP 열심히/MAG 하다01/VV + 아서/EC 이다음/NNG + 에/JKB 장학생/NNG + 이/JKC 되다01/VV + 어야/EC 하다01/VX + ㄴ다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+할머니/NNG 댁01/NNG + 에/JKB 자주01/MAG 놀다01/VV + 러/EC 가다01/VV + 아야/EC + 겠/EP + 다/EF + ./SF
+우리03/NP + 를/JKO 귀여워하다/VV + 아/EC 주다01/VX + 시/EP + 는/ETM 할머니/NNG + 가/JKS 계시다/VV + 는/ETM 이곳/NP + 에/JKB + ./SF
+유월01#/NNG 27/SN + 일07/NNB 번개01/NNG 오늘/MAG 점심때/NNG + 에/JKB + 는/JX 날씨01/NNG + 가/JKS 좋다01/VA + 았/EP + 는데/EC 저녁때/NNG 천둥소리/NNG + 가/JKS 나다01/VV + 고/EC 번개01/NNG + 가/JKS 치다01/VV + 었/EP + 다/EF + ./SF
+동생01/NNG + 은/JX 무섭다/VA + 다/EF + 고/JKQ 이불01/NNG 속01/NNG + 으로/JKB 들어가다01/VV + 았/EP + 다/EF + ./SF
+번개01/NNG + 가/JKS 번쩍하다/VV + 고/EC 나다01/VX + 니/EC 하늘01/NNG + 이/JKS 분홍색/NNG + 으로/JKB 변하다/VV + 았/EP + 다/EF + ./SF
+언니/NNG + 와/JC 동생01/NNG + 과/JC 나03/NP + 는/JX 번개01/NNG 소리01/NNG + 가/JKS 나다01/VV + 니/EC 이불01/NNG + 을/JKO 홀랑/MAG 덮어쓰다/VV + 었/EP + 다/EF + ./SF
+어머니01/NNG + 께서/JKS 번개01/NNG + 가/JKS 치다01/VV + ㄹ/ETM 때01/NNG + 는/JX 방07/NNG + 에/JKB 있다01/VV + 고/EC 밖/NNG + 에/JKB + 는/JX 나가다/VV + 지/EC 말다03/VX + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+유월01#/NNG 28/SN + 일07/NNB 목욕/NNG 지나다/VV + ㄴ/ETM 일요일/NNG 날01/NNG 할머니/NNG 댁01/NNG + 에/JKB + ㄹ/JKO 가다01/VV + 아서/EC 늦다/VA + 게/EC 오다01/VV + 아/EC 목욕/NNG + 을/JKO 못04/MAG 하다01/VV + 았/EP + 다/EF + ./SF
+어머니01/NNG + 께서/JKS 점심/NNG 먹다02/VV + 고/EC 나다01/VX + 아서/EC 목욕탕/NNG + 에/JKB + ㄹ/JKO 가다01/VV + 자/EF + 고/JKQ 하다01/VV + 시/EP + 어서/EC 동생01/NNG + 과/JC 나03/NP + ,/SP 어머니01/NNG 셋이*/NNG + 서/JKS 가다01/VV + 았/EP + 다/EF + ./SF
+여름01/NNG + 이다/VCP + 라서/EC + 이다/VCP + ㄴ지/EC 사람/NNG + 이/JKS 별로01/MAG 없다01/VA + 었/EP + 다/EF + ./SF
+다른/MM 때01/NNG + 보다/JKB 때02/NNG + 가/JKS 잘02/MAG 가다01/VV + 았/EP + 다/EF + ./SF
+땀01/NNG + 을/JKO 많이/MAG 흘리다/VV + 어서/EC + 이다/VCP + ㄴ지/EC 나중01/NNG + 에/JKB + 는/JX 기운01/NNG + 이/JKS 하나/NNG + 도/JX 없다01/VA + 었/EP + 다/EF + ./SF
+음료수/NNG + 가/JKS 먹다02/VV + 고/EC 싶다/VX + 었/EP + 지만/EC 집01/NNG + 에/JKB 있다01/VA + 는/ETM 과일01/NNG + 을/JKO 생각하다/VV + 고/EC 참다/VV + 았/EP + 다/EF + ./SF
+목욕하다/VV + 고/EC 나다01/VX + 아서/EC 먹다02/VV + 는/ETM 과일01/NNG + 은/JX 다른/MM 때01/NNG + 보다/JKB 더01/MAG 시원하다/VA + 고/EC 맛01/NNG + 이/JKS 있다01/VA + 었/EP + 다/EF + ./SF
+유월01#/NNG 29/SN + 일07/NNB 공부01/NNG 수련장80/NNG + 을/JKO 하다01/VV + 아/EC + 가다01/VX + 는/ETM 것01/NNB + 이/JKS 숙제03/NNG + 이다/VCP + 다/EF + ./SF
+시험03/NNG 범위/NNG + 만큼/JX + 은/JX 다03/MAG 되다01/VV + 어/EC + 가다01/VX + 기/ETN 때문/NNB + 에/JKB 어머니01/NNG + 께/JKB 말씀드리다*/VV + 어서/EC 총정리*/NNG + 를/JKO 한01/MM 권01/NNB 더01/MAG 사다/VV + 았/EP + 다/EF + ./SF
+평소/NNG + 에/JKB 늘/MAG 공부하다/VV + 는/ETM 것01/NNB + 이/JKS 중요하다02/VA + 다/EF + 고/JKQ 선생님/NNG + 께서/JKS 하다01/VV + 시/EP + ㄴ/ETM 말씀/NNG + 이/JKS + ,/SP 오늘/MAG 같다/VA + 은/ETM 날01/NNG + 은/JX 많다/VA + 은/ETM 도움/NNG + 이/JKC 되다01/VV + 었/EP + 다/EF + ./SF
+정은이/NNP + 는/JX 문제집*/NNG + 을/JKO 사다/VV + 러/EC 가다01/VV + 자/EF + 고/JKQ 오다01/VV + 아서/EC + 는/JX 우리03/NP 집01/NNG + 에서/JKB 많이/MAG 하다01/VV + 아/EC + 가지다/VX + 고/EC 가다01/VV + 았/EP + 다/EF + ./SF
+공부01/NNG + 를/JKO 하다01/VV + 면/EC 재미있다/VA + 는/ETM 일01/NNG + 도/JX 많다/VA + 다/EF + ./SF
+유월01#/NNG 30/SN + 일07/NNB 밀가루/NNG 식빵/NNG + 과/JC 옥수수/NNG 식빵/NNG 오늘/MAG 황실제과/NNP + 에/JKB 식빵/NNG + 을/JKO 사다/VV + 러/EC 어머니01/NNG + 와/JKB 함께/MAG 가다01/VV + 았/EP + 다/EF + ./SF
+여러/MM + 가지04/NNB 여러/MM 가지04/NNB 빵01/NNG + 과/JC 과자02/NNG + 가/JKS 있다01/VA + 었/EP + 다/EF + ./SF
+식빵/NNG + 을/JKO 두01/MM 개10/NNB 사다/VV + 았/EP + 는데/EC 한01/MM 개10/NNB + 는/JX 옥수수/NNG 식빵/NNG + 이다/VCP + 고/EC + ,/SP 또/MAJ 한01/MM 개10/NNB + 는/JX 밀가루/NNG 식빵/NNG + 이다/VCP + 었/EP + 다/EF + ./SF
+요즈음/NNG + 은/JX 밥맛/NNG + 이/JKS 없다01/VA + 어서/EC 빵01/NNG + 을/JKO 자주01/MAG 사다/VV + 아/EC + 먹다02/VV + 는/ETM 편04/NNB + 이다/VCP + 다/EF + ./SF
+늘/MAG 밀가루/NNG 식빵/NNG + 만/JX 사다/VV + 아/EC + 먹다02/VV + 었/EP + 는데/EC 오늘/NNG + 은/JX 옥수수/NNG 식빵/NNG + 을/JKO 한번/NNG 사다/VV + 아/EC + 보다01/VX + 았/EP + 다/EF + ./SF
+퍽02/MAG 맛있다/VA + 었/EP + 다/EF + ./SF
+입/NNG 안01/NNG + 에서/JKB 확02/MAG 퍼지다/VV + 는/ETM 맛01/NNG + 이/JKS 참01/MAG 부드럽다/VA + 었/EP + 다/EF + ./SF
+우리03/NP + 도/JX 늘/MAG 밥01/NNG + 만/JX 먹다02/VV + 지/EC 말다03/VX + 고/EC 빵01/NNG + 과/JKB 섞다/VV + 어서/EC 먹다02/VV + 으면/EC 좋다01/VA + 겠/EP + 다/EF + ./SF
+칠월#/NNG 1/SN + 일07/NNB 성적04/NNG 선생님/NNG + 께서/JKS 우리03/NP 반11/NNG + 에서/JKB 정은이/NNP + 가/JKS 일05/MM + 등04/NNB + 이다/VCP + 라/EF + 고/JKQ 말씀하다/VV + 시/EP + 었/EP + 다/EF + ./SF
+나03/NP + 는/JX 아무01/NP + 도/JX 모르다/VV + 게/EC 눈물01/NNG + 이/JKS 핑01/MAG 돌다/VV + 았/EP + 다/EF + ./SF
+나03/NP + 는/JX 나03/NP + 가/JKS 일05/MM + 등04/NNB + 이다/VCP + 고/EC 싶다/VX + 었/EP + 다/EF + ./SF
+이제01/NNG + 는/JX 더01/MAG 열심히/MAG 공부하다/VV + 아야지/EF + ./SF
+그래서/MAJ 2/SN + 학기02/NNG 때01/NNG + 는/JX 나03/NP + 가/JKS 일05/MM + 등04/NNB + 이/JKC 되다01/VV + 어야지/EF + ./SF
+집01/NNG + 에/JKB 오다01/VV + 아서/EC 어머니01/NNG + 께/JKB 나03/NP + 도/JX 다03/MAG 수13/NNG + 이다/VCP + ㄴ데/EC 정은이/NNP + 가/JKS 일05/MM + 등04/NNB + 이다/VCP + 라/EF + 고/JKQ 하다01/VV + 았/EP + 더니/EC 같다/VA + 은/ETM 수13/NNG + 이다/VCP + 지만/EC 96/SN + ,/SP 97/SN + ,/SP 98/SN + 점10/NNB 이렇다/VA + 게/EC 차이/NNG + 가/JKS 있다01/VA + 어/EC 그렇다/VA + 다/EF + 고/JKQ 더01/MAG 열심히/MAG 노력하다01/VV + 면/EC 되다01/VV + ㄴ다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+열심히/MAG 공부하다/VV + 아야지/EF + ./SF
+칠월#/NNG 2/SN + 일07/NNB 교통01/NNG 비01/NNG + 가/JKS 내리다01/VV + 는데/EC 오늘/NNG + 이/JKS 우리03/NP 반11/NNG 교통01/NNG 당번01/NNG + 이다/VCP + 다/EF + ./SF
+한성일이/NNP 어머니01/NNG + 와/JC 우리03/NP 어머니01/NNG + 가/JKS 같이/MAG 교통01/NNG + 을/JKO 서다01/VV + 었/EP + 다/EF + ./SF
+비01/NNG + 가/JKS 오다01/VV + 아서/EC 우산01/NNG + 을/JKO 들다04/VV + 고/EC 교통01/NNG + 을/JKO 서다01/VV + 었/EP + 지만/EC 어머니01/NNG + 께서/JKS + 는/JX 불편하다01/VA + ㄴ/ETM 것01/NNB + 보다/JKB + 도/JX 이런01/MM 날01/NNG 더01/MAG 교통01/NNG + 을/JKO 서다01/VV + 어야/EC 하다01/VX + ㄴ다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+우산01/NNG + 에/JKB 가리다01/VV + 어서/EC 앞/NNG + 이/JKS 잘02/MAG 보이다01/VV + 지/EC 않다/VX + 아서/EC 위험하다/VA + 다/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+교통01/NNG + 을/JKO 마치다02/VV + 고/EC 교실/NNG + 에/JKB 아무렇다/VA + 게/EC 던지다/VV + 어/EC 놓다01/VX + 아서/EC 밟다/VV + 고/EC 다니다/VV + 는/ETM 우산01/NNG + 을/JKO 정리하다/VV + 아/EC 주다01/VX + 시/EP + 고/EC + 는/JX 가다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+어머니01/NNG + 가/JKS 참01/MAG 고맙다01/VA + 었/EP + 다/EF + ./SF
+칠월#/NNG 3/SN + 일07/NNB 공부01/NNG 내일/MAG 우리03/NP 2/SN + 학년/NNG 시06/NNG 학력고사/NNG + 를/JKO 치다02/VV + ㄴ다/EF + ./SF
+이번01/NNG 시험03/NNG + 이/JKS 참01/MAG 중요하다02/VA + 다/EF + 고/JKQ 선생님/NNG + 께서/JKS 말씀하다/VV + 시/EP + 었/EP + 다/EF + ./SF
+총정리*/NNG 덜01/MAG + 하다01/VV + ㄴ/ETM 것01/NNB + 을/JKO 열심히/MAG 하다01/VV + 았/EP + 다/EF + ./SF
+바람01/NNG + 이/JKS 시원하다/VA + 게/EC 불다01/VV + 어/EC 주다01/VX + 어서/EC 공부하다/VV + 기/ETN + 에/JKB 참01/MAG 좋다01/VA + 았/EP + 다/EF + ./SF
+내일/MAG 시험03/NNG + 을/JKO 잘02/MAG 치다02/VV + 게/EC 하다01/VX + 아/EC + 달다05/VX + 라/EF + 고/JKQ 기도하다02/VV + 면서/EC 자다01/VV + 려고/EC 하다01/VX + ㄴ다/EF + ./SF
+칠월#/NNG 5/SN + 일07/NNB 시험03/NNG 오늘/MAG 시험03/NNG + 을/JKO 치다02/VV + 었/EP + 는데/EC 5/SN + 번04/NNB + 을/JKO 치다02/VV + 었/EP + 다/EF + ./SF
+바른생활/NNG + 은/JX 2/SN + 번04/NNB + 을/JKO 치다02/VV + 었/EP + 고/EC 나머지/NNG + 는/JX 1/SN + 번04/NNB + 을/JKO 치다02/VV + 었/EP + 다/EF + ./SF
+나03/NP + 는/JX 산수05/NNG + ,/SP 자연01/NNG + ,/SP 즐겁다/VA + 은/ETM 생활/NNG + 은/JX 다03/MAG 맞다01/VV + 았/EP + 는데/EC 바른생활/NNG + 은/JX 모르다/VV + ㄴ다/EF + ./SF
+정은이/NNP + 는/JX 나03/NP + 와/JKB 똑같다/VA + 은데/EC 산수05/NNG + 센티미터#/NNB + 를/JKO 쓰다01/VV + 지/EC 않다/VX + 아서/EC 하나/NR + 가/JKS 틀리다01/VV + 었/EP + 다/EF + ./SF
+선생님/NNG + 께서/JKS 18/SN + ,/SP 19/SN + ,/SP 20/SN + 점10/NNB + 은/JX 수13/NNG + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+어머니01/NNG + 께서/JKS 잘하다/VV + 았/EP + 다/EF + 고/JKQ 시장04/NNG + 에/JKB 가다01/VV + 아서/EC 수박01/NNG + 을/JKO 사다/VV + 아/EC + 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+다03/MAG 사다/VV + 아/EC + 가지다/VX + 고/EC 가다01/VV + 려고/EC 하다01/VX + 니/EC 아주머니/NNG + 께서/JKS 토마토/NNG + 와/JC 참외01/NNG + 를/JKO 많이/MAG 주다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+집01/NNG + 에/JKB 오다01/VV + 아서/EC 동생01/NNG + 과/JKB 함께/MAG 먹다02/VV + 었/EP + 는데/EC 수박01/NNG + 은/JX 맛있다/VA + 었/EP + 는데/EC 참외01/NNG + 는/JX 맛01/NNG + 이/JKS 별로01/MAG 없다01/VA + 었/EP + 다/EF + ./SF
+시험03/NNG + 을/JKO 잘02/MAG 치다02/VV + 고/EC 나다01/VX + 아서/EC 상25/NNG + 으로/JKB 받다01/VV + 은/ETM 수박01/NNG + 맛01/NNG + 이/JKS 달다07/VA + 듯이/EC 무엇/NP + 이든지/JX 열심히/MAG 하다01/VV + 아서/EC 단맛/NNG + 을/JKO 많이/MAG 보다01/VV + 아야/EC + 겠/EP + 다/EF + ./SF
+칠월#/NNG 6/SN + 일07/NNB 날씨01/NNG 그렇다/VA + 게/EC + 도/JX 덥다01/VA + 더니/EC 오늘/NNG + 은/JX 또/MAJ 춥다/VA + 다/EF + ./SF
+어머니01/NNG + 께서/JKS 방07/NNG + 마다/JX 불01/NNG + 을/JKO 피우다01/VV + 어/EC 넣다/VV + 으시/EP + 느라고/EC 바쁘다/VA + 시/EP + 다/EF + ./SF
+우리03/NP + 도/JX 내일/NNG 아침/NNG + 에/JKB + 는/JX 길다02/VA + ㄴ/ETM 옷01/NNG + 을/JKO 입다01/VV + 고/EC 가다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 며/EC 찾다/VV + 아/EC 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+경산/NNP + ,/SP 상주/NNP + ,/SP 영천/NNP + 에/JKB + 는/JX 우박01/NNG + 이/JKS 내리다01/VV + 어서/EC 사과05/NNG + 가/JKS 떨어지다/VV + 고/EC 농작물/NNG + 이/JKS 많이/MAG 다치다01/VV + 었/EP + 다/EF + 고/JKQ 티브이#/NNG 뉴스/NNG + 에서/JKB 보다01/VV + 았/EP + 다/EF + ./SF
+왜02/MAG 날씨01/NNG + 가/JKS 이렇다/VA + 게/EC 변덕/NNG + 을/JKO 부리다02/VV + 는지/EF 모르다/VV + 겠/EP + 다/EF + ./SF
+날씨01/NNG + 가/JKS 늘/MAG 좋다01/VA + 아서/EC 농사01/NNG + 가/JKS 잘되다/VV + 어야/EC 하다01/VX + ㄴ다/EF + 고/JKQ 어른01/NNG + 들/XSN + 이/JKS 걱정/NNG + 을/JKO 하다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+칠월#/NNG 7/SN + 일07/NNB 시골/NNG 작은할머니/NNG 봉화/NNP + 에서/JKB 작은할머니/NNG + 께서/JKS 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+수박01/NNG + 과/JC 참외01/NNG + 를/JKO 가득01/MAG 사다/VV + 아/EC + 가지다/VX + 고/EC 오다01/VV + 시/EP + 었/EP + 다/EF + ./SF
+나03/NP + 가/JKS 일곱/MM 살04/NNB 때01/NNG 시골/NNG 가다01/VV + 아서/EC 한01/MM 번04/NNB 보다01/VV + 고/EC 이번01/NNG + 이/JKS 두01/MM 번째/NNB + 이다/VCP + 었/EP + 다/EF + ./SF
+나03/NP + 가/JKS 서먹서먹하다/VA + 어/EC + 하다01/VX + 니까/EC 어머니01/NNG + 께서/JKS 인사드리다*/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 어서/EC 나03/NP + 는/JX 안녕하다/VA + 셔요/EF + ,/SP 하다01/VV + 고/EC 인사02/NNG + 를/JKO 드리다01/VV + 었/EP + 지만/EC 부끄럽다/VA + 어서/EC 얼굴01/NNG + 이/JKS 빨개지다/VV + 었/EP + 다/EF + ./SF
+할머니/NNG + 께서/JKS + 는/JX 방학/NNG + 이다/VCP + 면/EC 시골/NNG + 에/JKB 꼭03/MAG 놀다01/VV + 러/EC 오다01/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 면서/EC 나03/NP + 의/JKG 머리01/NNG + 를/JKO 쓰다듬다/VV + 어/EC 주다01/VX + 시/EP + 었/EP + 다/EF + ./SF
+칠월#/NNG 11/SN + 일07/NNB 동생01/NNG 학교/NNG 가다01/VV + 았/EP + 다/EC 집01/NNG + 에/JKB 오다01/VV + 니/EC 집01/NNG + 이/JKS 텅텅01/MAG 비다01/VV + ㄴ/ETM 것01/NNB 같다/VA + 았/EP + 다/EF + ./SF
+그래서/MAJ 옆집/NNG 아줌마/NNG + 께/JKB 여쭈다/VV + 어/EC 보다01/VX + 니/EC 엄마/NNG + 께서/JKS 동생01/NNG + 을/JKO 데리다/VV + 고/EC 병원02/NNG + 에/JKB 입원하다01/VV + 시/EP + 었/EP + 다/EF + 고/JKQ 하다01/VV + 았/EP + 다/EF + ./SF
+동생01/NNG + 이/JKS 며칠/NNG 전08/NNG + 부터/JX 밥01/NNG + 도/JX 잘02/MAG 먹다02/VV + 지/EC 않다/VX + 고/EC 자꾸01/MAG 배01/NNG + 가/JKS 아프다/VA + 다/EF + 고/JKQ 하다01/VV + 았/EP + 다/EF + ./SF
+벌써/MAG 동생01/NNG + 은/JX 몇/MM 번04/NNB 병원02/NNG + 에/JKB 입원하다01/VV + 는지/EF 모르다/VV + 겠/EP + 다/EF + ./SF
+6/SN + 번04/NNB + 이다/VCP + ㄴ가/EF 보다01/VX + 다/EF + ./SF
+동생01/NNG + 이/JKS 보다01/VV + 고/EC 싶다/VX + 다/EF + ./SF
+빨리/MAG 병원02/NNG + 에서/JKB 퇴원하다/VV + 면/EC 얼마나/MAG 좋다01/VA + 을까/EF + ./SF
+동생01/NNG + 을/JKO 만나다/VV + 고/EC 엄마/NNG + 를/JKO 만나다/VV + ㄹ/ETM 때01/NNG + 까지/JX 열심히/MAG 공부하다/VV + 고/EC 엄마/NNG + 가/JKS 있다01/VA + 을/ETM 때01/NNG + 보다/JKB 더01/MAG 착하다/VA + ㄴ/ETM 어린이01/NNG + 가/JKC 되다01/VV + 자/EF + ./SF
+칠월#/NNG 12/SN + 일07/NNB 수박01/NNG 언니/NNG + 가/JKS 병원02/NNG + 에/JKB 가다01/VV + 았/EP + 다/EC 오다01/VV + 아서/EC 수박01/NNG + 을/JKO 사다/VV + 아/EC + 오다01/VV + 았/EP + 다/EF + ./SF
+엄마/NNG + 께서/JKS 사다/VV + 라/EF + 고/JKQ 하다01/VV + 시/EP + 었/EP + 다/EF + 고/JKQ 하다01/VV + 았/EP + 다/EF + ./SF
+언니/NNG + 가/JKS 얼음01/NNG + 을/JKO 꺼내다/VV + 어/EC 오다01/VV + 아서/EC 그릇01/NNG + 에/JKB 긁다/VV + 어서/EC 먹다02/VV + 으니까/EC 맛01/NNG + 이/JKS 참01/MAG 좋다01/VA + 았/EP + 다/EF + ./SF
+하지만/MAJ 엄마/NNG + 가/JKS 있다01/VA + 었/EP + 으면/EC 더01/MAG 맛01/NNG + 이/JKS 있다01/VA + 었/EP + 을지/EF + 도/JX 모르다/VV + ㄴ다/EF + ./SF
+그러나/MAJ 그01/MM 수박01/NNG + 에/JKB + 는/JX 엄마/NNG + 가/JKS 사다/VV + 아/EC + 주다01/VX + 시/EP + ㄴ/ETM 고맙다01/VA + 은/ETM 마음01/NNG + 이/JKS 들다01/VV + 어/EC 있다01/VX + 어서/EC 한결/MAG 더01/MAG 맛있다/VA + 었/EP + 다/EF + ./SF
+엄마/NNG + 가/JKS 오다01/VV + 시/EP + 면/EC 나03/NP + 의/JKG 손01/NNG + 으로/JKB 수박01/NNG + 을/JKO 맛있다/VA + 게/EC 하다01/VV + 아/EC + 드리다01/VX + 어야/EC + 겠/EP + 다/EF + ./SF
+칠월#/NNG 13/SN + 일07/NNB 기본/NNG 교양02/NNG 공부01/NNG 시험03/NNG 오늘/MAG 갑자기/MAG 셋째/MM 시간04/NNG + 에/JKB 시험03/NNG + 을/JKO 치다02/VV + 었/EP + 다/EF + ./SF
+어떤/MM 시험03/NNG + 이다/VCP + 냐/EF 하다01/VV + 면/EC 자기04/NNG 이름/NNG + 을/JKO 한문03/NNG + 으로/JKB 쓰다01/VV + 고/EC 할머니/NNG 할아버지/NNG 등05/NNB 이름/NNG + 을/JKO 쓰다01/VV + 어야/EC 하다01/VX + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+그런데/MAJ 통07/MAG 알다/VV + 는/ETM 거01/NNB + 이/JKS 없다01/VA + 었/EP + 다/EF + ./SF
+그래서/MAJ 칸01/NNG + 을/JKO 많이/MAG 띄우다04/VV + 어/EC 먹다02/VX + 었/EP + 다/EF + ./SF
+이런01/MM 공부01/NNG + 는/JX 처음/NNG + 이다/VCP + 다/EF + ./SF
+이제01/NNG + 는/JX 그냥/MAG 공부01/NNG + 보다/JKB + 도/JX 한문03/NNG + 도/JX 공부01/NNG + 이다/VCP + ㅁ/ETN + 을/JKO 알다/VV + 았/EP + 으니/EC 열심히/MAG 공부하다/VV + 아야/EC + 겠/EP + 다/EF + 고/JKQ 생각하다/VV + 았/EP + 다/EF + ./SF
+칠월#/NNG 14/SN + 일07/NNB 물총/NNG 물총/NNG 만들다/VV + 기/ETN 숙제03/NNG + 가/JKS 있다01/VA + 다/EF + ./SF
+어제01/MAG 깜빡/MAG 잊다01/VV + 고/EC 못하다/VV + 고/EC 오늘/MAG 하다01/VV + 았/EP + 다/EF + ./SF
+언니/NNG + 와/JKB 같이/MAG 만들다/VV + 었/EP + 다/EF + ./SF
+못01/NNG + 과/JC 망치01/NNG + 로/JKB 구멍/NNG + 을/JKO 파다01/VV + 고/EC 빨대/NNG + 를/JKO 끼우다01/VV + 고/EC 고무01/NNG 찰흙/NNG 대신03/NNG 껌/NNG + 으로/JKB 구멍/NNG + 을/JKO 막다01/VV + 았/EP + 다/EF + ./SF

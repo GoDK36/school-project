@@ -1,0 +1,520 @@
+너01/NP + 의/JKG 마음속/NNG + 의/JKG 블루진/NNG + 을/JKO 찢다/VV + 어라/EF 솔직하다/VA + 아야/EC 하다01/VX + ㄴ다/EF + ./SF
+솔직하다/VA + 아야/EC 나03/NP + 의/JKG 영혼02/NNG + 과/JKB 만나다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 다/EF + ./SF
+그러나/MAJ 솔직하다/VA + 기/ETN + 가/JKS 어렵다/VA + 다/EF + ./SF
+남01/NNG + 들/XSN 때문/NNB + 에/JKB 어렵다/VA + 은/ETM 거01/NNB + 이/JKC 아니다/VCN + 라/EC 나03/NP 자신01/NNG 때문/NNB + 에/JKB 어렵다/VA + 다/EF + ./SF
+솔직하다/VA + 려고/EC 하다01/VX + 아도/EC 어떤/MM 때01/NNG + 는/JX 나03/NP + 도/JX 모르다/VV + 게/EC 솔직하다/VA + 기/ETN + 를/JKO 피하다/VV + ㄴ다/EF + ./SF
+이래서/NV + 는/JX 안02/MAG 되다01/VV + 는데/EC 하다01/VV + 면서/EC + 도/JX 어찌어찌/MAG 그렇다/VA + 게/EC 되다01/VV + ㄴ다/EF + ./SF
+그러다/VV + 다가/EC 솔직하다/VA + ㄴ/ETM 사람/NNG + 이나/JC 작품01/NNG + 을/JKO 만나다/VV + 게/EC 되다01/VV + 면/EC 부끄럽다/VA + 어/EC + 지다04/VX + ㄴ다/EF + ./SF
+그리고/MAJ + ㄴ/JX 후회하다/VV + ㄴ다/EF + ./SF
+솔직하다/VA + 지/EC 못하다/VX + 았/EP + 던/ETM 지나가다/VV + ㄴ/ETM 세월02/NNG + 들/XSN + 을/JKO + …/SE + …/SE + ./SF
+솔직하다/VA + 어/EC + 지다04/VX 거01/NNB + ㄴ/JX 참으로/MAG 어렵다/VA + 은/ETM 일01/NNG + 이다/VCP + 다/EF + ./SF
+솔직하다/VA + ㄹ/ETM 있다01/VA + 다면/EC 나03/NP + 의/JKG 자신01/NNG + 을/JKO 발견하다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 을/ETM 터02/NNB + 이다/VCP + ㄴ데/EC + ./SF
+솔직하다/VA + ㄹ/ETM 수02/NNB + 만/JX 있다01/VA + 다면/EC 남01/NNG + 의/JKG 영혼02/NNG + 과/JKB + 도/JX 만나다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 을/ETM 터02/NNB + 이다/VCP + ㄴ데/EC + …/SE + …/SE + ./SF
+그러나/MAJ 솔직하다/VA + 어/EC + 지다04/VX 것01/NNB + 도/JX 신09/NNG + 의/JKG 도움/NNG + 이/JKS 있다01/VA + 어야/EC 가능하다/VA + ㄴ/ETM 듯하다/VX + 다/EF + ./SF
+솔직하다/VA + 기/ETN + 를/JKO 거부하다/VV + 는/ETM 사회07/NNG + 에서/JKB 오랜/MM 세월02/NNG 살아오다/VV + 면서/EC 많다/VA + 은/ETM 답답하다/VA + ㄴ/ETM 어둠/NNG + 을/JKO 껴입다/VV + 었/EP + 다/EF + ./SF
+풍족하다/VA + ㄴ/ETM 과거03/NNG + 를/JKO 지키다01/VV + 려고/EC 수단01/NNG 방법/NNG + 을/JKO 가리다03/VV + 지/EC 않다/VX + 는/ETM 보수주의/NNG + 의/JKG 지배01/NNG + 를/JKO 받다01/VV + 다/EC 보다01/VX + 니/EC 얼굴01/NNG + 부터/JX 발끝/NNG + 까지/JX 어둡다@/VA + 은/ETM 옷01/NNG + 을/JKO 겹겹이/MAG 껴입다/VV + 어야/EC 하다01/VX + ㄴ다/EF + ./SF
+옷01/NNG + 을/JKO 안02/MAG 입다01/VV + 고/EC 자유롭다/VA + 게/EC 날뛰다/VV + 다가/EC + ㄴ/JX 가차/NNG 없다01/VA + 는/ETM 복수04@/NNG + 의/JKG 칼날/NNG + 을/JKO 맞다03/VV + 아야/EC 하다01/VX + ㄴ다/EF + ./SF
+그것/NP + 은/JX 소위06/MAG 문민정부/NNG + 고/EC 개혁/NNG + 을/JKO 주장하다01/VV + 는/ETM 요즘/NNG + 도/JX 마찬가지/NNG + 다/EF + ./SF
+겉껍질/NNG + 은/JX 개혁/NNG + 이다/VCP + 고/EC 개성03/NNG + 이다/VCP + 고/EC 자유03/NNG + 고/EC 문민/NNG + 이다/VCP + 지만/EC + ,/SP 속껍질/NNG + 은/JX 여전히/MAG 보수06/NNG + 고/EC 집단/NNG + 이다/VCP + 고/EC 권위/NNG + 고/EC 독재/NNG + 다/EF + ./SF
+그러나/MAJ 이제01/NNG + 는/JX 솔직하다/VA + 고/EC 자유롭다/VA + 다/EF 하다01/VV + 아서/EC 노골적/NNG + 으로/JKB 칼날/NNG + 을/JKO 들이대다02/VV + 지/EC + 는/JX 못하다/VX + 리라/EF + ./SF
+개혁/NNG + 만/JX + 이/JKS 살다01/VV + ㄹ/ETM 길01/NNG + 이다/VCP + 라/EF + 고/JKQ 말01/NNG + 들/XSN 하다01/VV + 니까/EC + …/SE + …/SE + ./SF
+자유03/NNG + 까지/JX 추구하다01/VV + 지/EC + ㄴ/JX 못하다/VX + 더라도/EC 최소한/NNG 보수주의/NNG + 에/JKB 먹히다/VV + 지/EC + 는/JX 말다03/VX + 자/EF + 고/JKQ 비굴하다/VA + ㄴ/ETM 웃음/NNG + 을/JKO 흘리다/VV + 며/EC 적응하다02/VV + 며/EC 오랜/MM 세월02/NNG + 을/JKO 살아오다/VV + 았/EP + 다/EF + ./SF
+이제01/MAG 표면적01/NNG + 이나마/JX 보수주의/NNG + 가/JKS 물러가다/VV + 았/EP + 기에/EC 나03/NP + 도/JX 이제01/MAG 그동안/NNG 갈무리하다/VV + 아/EC 놓다01/VX + 았/EP + 던/ETM 본모습/NNG + 을/JKO 드러내다/VV + 어/EC 보다01/VX + 자/EF + 고/JKQ 꿈틀거리다/VV + 는데/EC 어째/NV 몸짓/NNG + 이/JKS 자유롭다/VA + 지/EC + 가/JKS 않다/VX + 다/EF + ./SF
+그동안/NNG 너무나/MAG 많다/VA + 은/ETM 옷01/NNG + 들/XSN + 을/JKO 껴입다/VV + 은/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+그래서/MAJ 옷01/NNG + 들/XSN + 을/JKO 벗다/VV + 어/EC 던지다/VV + 려고/EC 하다01/VX + 는데/EC 옷01/NNG + 이/JKS 자꾸01/MAG 꼬이다03/VV + 어/EC 어떻다/VA + 게/EC 벗다/VV + 어야/EC 하다01/VX + ㄹ지/EF 모르다/VV + 겠/EP + 다/EF + ./SF
+진땀/NNG + 을/JKO 흘리다/VV + 고/EC 겨우/MAG 옷01/NNG 하나/NR + 를/JKO 벗다/VV + 어/EC 던지다/VV + 자/EC 또/MAJ 다른/MM 속옷/NNG + 이/JKS 여전히/MAG 진득거리다/VV + 어/EC 진05/NNG + 을/JKO 쭉쭉01/MAG 빼다01/VV + ㄴ다/EF + ./SF
+결국/NNG 옷01/NNG 벗다/VV + 다가/EC 탈진하다01/VV + ㄹ/ETM 대로01/NNB 탈진하다01/VV + 아/EC '/SS + 에라01/IC 모르다/VV + 겠/EP + 다/EF + ./SF
+나03/NP + 가/JKS 언제01/MAG 자유롭다/VA + 게/EC 살다01/VV + 았/EP + 더냐/EF + ./SF
+편하다/VA + 면/EC 되다01/VV + 었/EP + 지/EF + '/SS 하다01/VV + 고/EC 드러눕다/VV + 어/EC 버리다01/VX + ㄴ다/EF + ./SF
+옷01/NNG + 을/JKO 껴입다/VV + 은/ETM 채09/NNB 잠01/NNG + 을/JKO 청하다/VV + 면서/EC + 도/JX 이것/NP + 이/JKS 가장01/MAG 편안하다01/VA + ㄴ/ETM 것01/NNB + 이다/VCP + 라/EF + 고/JKQ 자위05/NNG + 를/JKO 하다01/VV + 아/EC 보다01/VX + 나/EC 아무래도/MAG 뭐/NP + ㄴ가/EF 석연하다/VA + 지/EC 않다/VX + 다/EF + ./SF
+그래도/NV 눈01/NNG + 을/JKO 질끈/MAG 감다01/VV + 고/EC 이것/NP + 이/JKS 최선02/NNG + 이다/VCP + 야/EF 하다01/VV + 고/EC 찜찜하다/VA + 게/EC 잠01/NNG + 이/JKS 들다01/VV + 는데/EC 누구/NP + ㄴ가/EF + 가/JKS 가위01/NNG + 를/JKO 들이밀다02/VV + ㄴ다/EF + ./SF
+놀라다/VV + 아서/EC 바라보다/VV + 니/EC 그01/MM 가위01/NNG + 는/JX 나03/NP + 의/JKG 겹겹이/MAG 싸다01/VV + ㄴ/ETM 옷01/NNG + 들/XSN + 을/JKO 순식간/NNG + 에/JKB 갈가리01/MAG 찢다/VV + 어/EC 버리다01/VX + 고/EC 나03/NP + 의/JKG 심장02/NNG 깊다/VA + 은/ETM 곳01/NNG + 까지/JX 뚫다/VV + 고/EC 들어오다/VV + 아/EC 마음01/NNG + 의/JKG 옷01/NNG + 까지/JX 갈가리01/MAG 찢다/VV + 어/EC 버리다01/VX + ㄴ다/EF + ./SF
+금세01/MAG 몸01/NNG + 과/JC 마음01/NNG + 까지/JX 알몸/NNG + 이/JKC 되다01/VV + 어/EC 시원하다/VA + 어/EC + 하다01/VX + 고/EC 있다01/VX + 는데/EC 아내01/NNG + 가/JKS 이불01/NNG + 을/JKO 덮다/VV + 어/EC 주다01/VX + ㄴ다/EF + ./SF
+감기04/NNG 걸리다01/VV + 니/EC 이불01/NNG 잘02/MAG 덮다/VV + 고/EC 자다01/VV + 라/EF + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+한01/MM 자락01/NNG 꿈01/NNG + 이다/VCP + 다/EF + !/SF
+그러나/MAJ 꿈속/NNG + 에서/JKB + 나마/JX 옷01/NNG + 을/JKO 모두01/MAG 벗다/VV + 었/EP + 다/EF + ./SF
+그리고/MAJ 옷01/NNG + 을/JKO 찢다/VV + 으면/EC 쉽다/VA + 게/EC 벗다/VV + 을/ETM 수02/NNB 있다01/VA + 다/EF + 는/ETM 것01/NNB + 도/JX 배우다01/VV + 었/EP + 다/EF + ./SF
+그렇다/VA + 다면/EC 이제01/NNG + 부터/JX + 는/JX 꿈01/NNG + 에서/JKB 배우다01/VV + ㄴ/ETM 대로01/NNB 현실02/NNG + 에서/JKB + 도/JX 옷01/NNG + 을/JKO 찢다/VV + 어/EC 벗다/VV + 으면/EC 되다01/VV + ㄴ다/EF + ./SF
+겉옷/NNG + 뿐/JX 아니다/VCN + 라/EC 마음01/NNG + 의/JKG 옷01/NNG + 까지/JX 갈가리01@/MAG 찢다/VV + 어/EC 버리다01/VX + 면/EC 되다01/VV + ㄴ다/EF + ./SF
+그러면/MAJ 꿈속/NNG + 에서/JKB + 와/JKB 같이/MAG 시원하다/VA + ㄴ/ETM 순간03/NNG + 을/JKO 현실02/NNG + 에서/JKB + 도/JX 맞이하다/VV + 게/EC 되다01/VV + 리라/EF + ./SF
+옷01/NNG + 을/JKO 벗다/VV + 어/EC 버리다01/VX + 면/EC 솔직하다/VA + 어/EC + 지다04/VX 수02/NNB 있다01/VA + 을/ETM 것01/NNB 같다/VA + 다/EF + ./SF
+솔직하다/VA + 어/EC + 지다04/VX 나03/NP + 의/JKG 영혼02/NNG + 과/JKB 만나다/VV + 고/EC 다른/MM 사람/NNG + 의/JKG 영혼02/NNG + 과/JKB 만나다/VV + 며/EC 부끄러움/NNG 없다01/VA + 고/EC 후회01/NNG 없다01/VA + 는/ETM 삶/NNG + 을/JKO 살다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 을/ETM 것01/NNB 같다/VA + 다/EF + ./SF
+앞/NNG + 으로/JKB + 는/JX 가위01/NNG + 를/JKO 들다04/VV + 고/EC 옷01/NNG + 을/JKO 찢다/VV + 어/EC 버리다01/VX + 는/ETM 삶/NNG + 을/JKO 살다01/VV + 아야/EC + 겠/EP + 다/EF + ./SF
+나03/NP + 를/JKO 틀01/NNG 속01/NNG + 에/JKB 가두다01/VV + 어/EC 놓다01/VX + 으려고/EC 또다시/MAG 어둠/NNG + 의/JKG 옷01/NNG + 을/JKO 입히다/VV + 면/EC 그01/MM 옷01/NNG + 을/JKO 과감히01/MAG 찢다/VV + 어/EC 벗다/VV + 어/EC 버리다01/VX + 어야/EC + 겠/EP + 다/EF + ./SF
+그리고/MAJ 앞/NNG + 으로/JKB + 는/JX 옷01/NNG + 을/JKO 벗다/VV + 는/ETM 데01/NNB 진05/NNG + 을/JKO 빼다01/VV + ㄹ/ETM 것01/NNB + 이/JKC 아니다/VCN + 라/EC 나03/NP + 의/JKG 솔직하다/VA + ㄴ/ETM 모습01/NNG + 이/JKS 무엇/NP + 이다/VCP + ㄴ지/EF + 를/JKO 찾아가다/VV + 는/ETM 데01/NNB 진05/NNG + 을/JKO 빼다01/VV + 어야/EC 하다01/VV + ㄹ/ETM 것01/NNB 같다/VA + 다/EF + ./SF
+그리고/MAJ 그01/MM 노력01/NNG + 은/JX 이제01/NNG + 부터/JX + 다/EF + ./SF
+1994/SN + 년02/NNB 오월01#/NNG 김정일/NNP 사회07/NNG 적응02/NNG + 과/JC 꿈01/NNG 어느01/MM 재벌02/NNG 그룹01/NNG + 의/JKG 총수03/NNG + 가/JKS "/SS + 마누라01/NNG + 와/JC 자식01/NNG + 만/JX 빼다01/VV + 고/EC + 는/JX 모두01/MAG 바꾸다/VV + 어라/EF + !/SF + "/SS + 는/ETM
+말01/NNG + 을/JKO 하다01/VV + 았/EP + 다/EF + ./SF
+이제01/NNG + 는/JX 변하다/VV + 지/EC 않다/VX + 고는/EC 생존하다/VV + ㄹ/ETM 수02/NNB 없다01/VA + 다/EF + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+그01/MM 말01/NNG + 을/JKO 듣다01/VV + 는/ETM 순간03/NNG 왜02/MAG 마누라01/NNG + 와/JC 자식01/NNG + 은/JX 바꾸다/VV + 면/EC 안02/MAG 되다01/VV + 나/EF 하다01/VV + 는/ETM 생각01/NNG + 이/JKS 들다01/VV + 었/EP + 다/EF + ./SF
+진정05/NNG + 으로/JKB 변화하다/VV + 려면/EC 마누라01/NNG + 와/JC 자식01/NNG + 까지/JX 바꾸다/VV + 어야/EC 하다01/VX + 는/ETM 것01/NNB + 이/JKC 아니다/VCN + ㄹ까/EF + ?/SF
+사람/NNG + 이/JKS 변화하다/VV + 는/ETM 데01/NNB 가장01/MAG 껄끄럽다/VA + 은/ETM 고리01/NNG + 가/JKS 있다01/VA + 다면/EC 바로02/MAG 마누라01/NNG + 와/JC 자식01/NNG + 이다/VCP + 다/EF + ./SF
+마누라01/NNG + 와/JC 자식01/NNG + 은/JX 안정되다/VV + ㄴ/ETM 가운데/NNG + 서/JKB 편안하다01/VA + 게/EC 살다01/VV + 거나/EC 성장하다01/VV + 려/EC 하다01/VX + 기/ETN 때문/NNB + 에/JKB 가장07/NNG + 의/JKG 변화/NNG + 나/JX 모험/NNG + 을/JKO 가장01/MAG 두려워하다/VV + ㄴ다/EF + ./SF
+그러나/MAJ 현실적/NNG + 으로/JKB 그01/NP + 들/XSN + 까지/JX 바꿔치다*/VV + 기/ETN 하다01/VV + 았/EP + 다가는/EC 부도덕하다/VA + 다/EF + 는/ETM 소리01/NNG + 부터/JX 파렴치하다/VA + 다/EF + 는/ETM 소리01/NNG + 까지/JX 별별/MM 욕02/NNG + 을/JKO 다03/MAG 먹다02/VV + 을/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+아마01/MAG 그래서/MAJ 그01/MM 재벌02/NNG 총수03/NNG + 도/JX 차마/MAG 마누라01/NNG + 와/JC 자식01/NNG + 까지/JX 바꾸다/VV + 자/EF + 는/ETM 얘기/NNG + 는/JX 못하다/VV + 았/EP + 으리라/EF + ./SF
+그러나/MAJ 변화/NNG + 를/JKO 시도하다03/VV + 는/ETM 사람/NNG + 들/XSN 중04/NNB + 에/JKB + 는/JX 실제로/MAG 마누라01/NNG + 와/JC 자식01/NNG + 까지/JX 바꿔치다*/VV + 기/ETN 하다01/VX + 는/ETM 사람/NNG + 들/XSN + 이/JKS 많다/VA + 다/EF + ./SF
+바람피우다/VV + 는/ETM 사람/NNG + 도/JX 많다/VA + 고/EC + ,/SP 자식01/NNG + 보다/JKB 일01/NNG + 을/JKO 더01/MAG 소중히/MAG 하다01/VV + 는/ETM 사람/NNG + 들/XSN + 도/JX 많다/VA + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+또/MAJ 이05/NP 같다/VA + 은/ETM 외형적/NNG + 이다/VCP + ㄴ/ETM 바꿔치다*/VV + 기/ETN + 까지/JX + 는/JX 안02/MAG 가다01/VV + 더라도/EC 내면적/NNG + 으로/JKB 바꿔치다*/VV + 기/ETN 하다01/VV + 는/ETM 사람/NNG + 들/XSN + 도/JX 많다/VA + 다/EF + ./SF
+마누라01/NNG + 와/JC 자식01/NNG + 에게/JKB 어떤/MM 의무감01/NNG + 을/JKO 갖다01/VV + 기/ETN + 보다/JKB + 는/JX 자기04/NP 인생길/NNG + 에/JKB 모든/MM 것01/NNB + 을/JKO 바치다01/VV + 는/ETM 이기적/NNG + 이다/VCP + ㄴ/ETM 사람/NNG + 들/XSN + 이/JKS 자꾸01/MAG 늘어나다/VV + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+물론01/MAG 정도11/NNG + 의/JKG 차이/NNG + 는/JX 있다01/VA + 지만/EC 여자02/NNG + 도/JX 마찬가지/NNG + 다/EF + ./SF
+외형적/NNG + 으로/JKB + 나/JX 내면적/NNG + 으로/JKB 남편01/NNG + 과/JC 자식01/NNG + 까지/JX 바꾸다/VV + 고/EC 자기04/NP 인생길/NNG + 을/JKO 가다01/VV + 는/ETM 여자02/NNG + 들/XSN + 이/JKS 조금씩/MAG 늘어나다/VV + 고/EC 있다01/VX + 으니/EC 말01/NNG + 이다/VCP + 다/EF + ./SF
+그네03/NP + 들/XSN + 은/JX 남편01/NNG 뒷바라지01/NNG + 나/JC 자식01/NNG 키우다/VV + 는/ETM 것01/NNB + 보다/JKB + 는/JX 일01/NNG + 과/JC 사랑01/NNG + 을/JKO 자기04/NP 인생01/NNG + 의/JKG 목표/NNG + 로/JKB 생각하다/VV + ㄴ다/EF + ./SF
+아무튼/MAG 이제01/NNG + 는/JX 바뀌다/VV + 어야/EC 살다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 는/ETM 세상01/NNG + 이/JKS 오다01/VV + 았/EP + 다/EF + ./SF
+오랫동안/NNG 내려오다/VV + 던/ETM 보수적/NNG + 이다/VCP + ㄴ/ETM 적응02/NNG 양식04/NNG + 은/JX 구태05/NNG + 가/JKC 되다01/VV + 고/EC 빠르다/VA + 고/EC 신속하다02/VA + 게/EC 변신하다01/VV + 아/EC 개성03/NNG + 을/JKO 발휘하다/VV + 는/ETM 자18/NNB + 만/JX + 이/JKS 살아남다/VV + 을/ETM 수02/NNB 있다01/VA + 게/EC 되다01/VV + 었/EP + 다/EF + ./SF
+그러나/MAJ 자신01/NNG + 을/JKO 개성적/NNG + 으로/JKB 바꾸다/VV + 는/ETM 것01/NNB + 은/JX 말01/NNG + 같이/JKB 쉽다/VA + 은/ETM 일01/NNG + 이/JKC 아니다/VCN + 다/EF + ./SF
+소위06/MAG 껍질/NNG + 을/JKO 깨다02/VV + 는/ETM 아픔/NNG + 을/JKO 견디다/VV + 어야/EC 하다01/VX + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+전08/NNG + 에/JKB + 는/JX 권위주의적/NNG + 이다/VCP + 거나/EC 더럽다/VA + 게/EC 굴다01/VV + 는/ETM 직장05/NNG 상사05/NNG + 나/JX 동료/NNG + ,/SP 진부하다/VA + ㄴ/ETM 구조08/NNG 때문/NNB + 에/JKB 스트레스/NNG 받다01/VV + 는/ETM 사람/NNG + 들/XSN + 이/JKS 늘어나다/VV + 았/EP + 으나/EC + ,/SP 앞/NNG + 으로/JKB + 는/JX 개성화/NNG + 에/JKB 성공하다/VV + 지/EC 못하다/VV + 았/EP + 기/ETN 때문/NNB + 에/JKB 스트레스/NNG 받다01/VV + 는/ETM 사람/NNG + 들/XSN + 이/JKS 늘어나다/VV + ㄹ/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+그렇다/VA + 다면/EC 개성화/NNG + 란/JX 무엇/NP + 이다/VCP + 고/EC 개성03/NNG 사회07/NNG + 에서/JKB 낙오하다/VV + 지/EC 않다/VX + 고/EC 잘02/MAG 적응하다02/VV + 아/EC 나가다/VX + 려면/EC 어떻다/VA + 게/EC 하다01/VV + 아야/EC 하다01/VX + ㄹ까/EF + ?/SF
+분석02/NNG 심리학/NNG + 에서/JKB + 는/JX 개성화/NNG + 에/JKB 대하다02/VV + 아/EC 이렇다/VA + 게/EC 얘기하다/VV + 고/EC 있다01/VX + 다/EF + ./SF
+개성화/NNG + 란/JX 자기실현/NNG + 으로/JKB 곧01/MAJ 자기04/NP 전체01/NNG + 의/JKG 인격/NNG + 을/JKO 실현하다/VV + ㅁ/ETN + 이다/VCP + 며/EC 이05/NP + 는/JX 우리03/NP 무의식/NNG + 에서/JKB 우러나오다/VV + 는/ETM 필연적/NNG + 이다/VCP + ㄴ/ETM 요구03/NNG + 다/EF + ./SF
+즉01/MAG 인간01/NNG + 은/JX 누구/NP + 나/JX 태어나다/VV + ㄹ/ETM 때01/NNG + 부터/JX 자기실현/NNG + 을/JKO 하다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 는/ETM 가능성/NNG + 을/JKO 갖다01/VV + 고/EC 있다01/VX + 다/EF + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+따라서/MAJ 개성화/NNG + 란/JX 자기04/NP + 를/JKO 창조적/NNG + 으로/JKB 개발하다/VV + 는/ETM 것01/NNB + 이다/VCP + ㄹ/ETM 뿐01/NNB + 만/JX 아니다/VCN + 라/EC 인간관계/NNG 등05/NNB 전인격/NNG + 을/JKO 발달시키다*/VV + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+다시01/MAG 말하다/VV + 아/EC 개성화/NNG + 가/JKS 진행되다/VV + ㄹ수록/EC 인간01/NNG + 은/JX 독불장군식*/NNG + 의/JKG 고집불통/NNG + 이나/JX 우유부단하다/VA + ㅁ/ETN + 보다/JKB + 는/JX 사회07/NNG + 와/JC 현실02/NNG + ,/SP 자기04/NNG + 에/JKB 임하다02/VV + 아/EC 원만하다/VA + ㄴ/ETM 의식적/MM 태도03/NNG + 를/JKO 견지하다/VV + ㄴ다/EF + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+이05/MM 개성화/NNG + 가/JKS 잘못/MAG 진행되다/VV + ㄹ/ETM 경우03/NNG 인간01/NNG + 은/JX 무의식/NNG + 에/JKB 의하다01/VV + 아/EC 의식03/NNG + 이/JKS 해체되다/VV + 거나/EC 무의식/NNG + 에/JKB 사로잡히다/VV + 는/ETM 정신12/NNG 장애02/NNG + 를/JKO 일으키다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 다/EF + ./SF
+이때/NNG 많이/MAG 나타나다/VV + 는/ETM 증세01/NNG + 가/JKS 바로02/MAG 불안01/NNG + 이다/VCP + 다/EF + ./SF
+직장05/NNG 생활/NNG + 이나/JC 가정생활/NNG + 에/JKB 적응02/NNG + 을/JKO 못하다/VV + 는/ETM 사람/NNG + 들/XSN + 이/JKS 제일04/NNG 흔히/MAG 호소하다01/VV + 는/ETM 증상01/NNG + 이/JKS 바로02/MAG 불안01/NNG + 이다/VCP + 다/EF + ./SF
+갑자기/MAG 아무01/MM 이유04/NNG 없이/MAG 가슴01/NNG + 이/JKS 뛰다01/VV + 고/EC 불안하다/VA + 며/EC 심하다/VA + 면/EC 심장02/NNG + 이/JKS 계속04/MAG 뛰다01/VV + 어/EC 죽다01/VV + 을/ETM 것01/NNB + 만/JX 같다/VA + 다/EF + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+그01/NP + 들/XSN + 의/JKG 불안01/NNG 요소04/NNG + 를/JKO 가만히/MAG 살펴보다/VV + 면/EC + ,/SP 그01/NP + 들/XSN + 은/JX 불안하다/VA + 어/EC + 지다04/VX 생활/NNG 또한/MAJ 뭐/NP + ㄴ가/EF 달라지다/VV + 었/EP + 다/EF + 고/JKQ 얘기하다/VV + ㄴ다/EF + ./SF
+전08/NNG + 에/JKB + 는/JX 그냥/MAG 열심히/MAG 당당하다/VA + 게/EC 살다01/VV + 았/EP + 는데/EC 갑자기/MAG 약하다01/VA + 어/EC + 지다04/VX 전08/NNG + 과/JKB + 는/JX 정반대/NNG + 의/JKG 모습01/NNG + 을/JKO 지니다/VV + 게/EC 되다01/VV + 었/EP + 다/EF + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+그러다/VV + 면서/EC 계속04/MAG 이05/MM 병원02/NNG + ,/SP 저04/MM 병원02/NNG + 을/JKO 다니다/VV + 거나/EC 주위02/NNG 사람/NNG + 들/XSN + 에게/JKB 도움/NNG + 을/JKO 구하다01/VV + 지만/EC 뾰족하다/VA + ㄴ/ETM 답03/NNG + 은/JX 찾다/VV + 을/ETM 수02/NNB 없다01/VA + 다/EF + ./SF
+그렇다/VA + ㄹ/ETM 경우03/NNG 나03/NP + 가/JKS 환자03/NNG + 들/XSN + 에게/JKB 주로01/MAG 하다01/VV + 는/ETM 방법/NNG + 은/JX 우선02/MAG 모든/MM 판단/NNG + 을/JKO 가급적/MAG 스스로/MAG 하다01/VV + 게/EC 하다01/VX + 고/EC 그01/NP + 들/XSN + 의/JKG 꿈01/NNG + 을/JKO 살펴보다/VV + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+답03/NNG + 이/JKS 밖/NNG + 에/JKB 없다01/VA + 고/EC 바로02/MAG 자기04/NP 무의식/NNG + 에/JKB 있다01/VA + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+무의식/NNG + 이/JKS 의식03/NNG + 의/JKG 태도03/NNG + 가/JKS 못마땅하다/VA + 아/EC 반란01/NNG + 을/JKO 일으키다/VV + ㄴ/ETM 것01/NNB + 이/JKS 불안01/NNG + 으로/JKB 나타나다/VV + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+이때/NNG + 는/JX 무의식/NNG + 이/JKS 의식03/NNG + 에게/JKB 무슨/MM 요구03/NNG + 를/JKO 하다01/VV + 고/EC 있다01/VX + 는지/EC + ,/SP 의식03/NNG + 의/JKG 태도03/NNG + 를/JKO 어떻다/VA + 게/EC 수정하다03/VV + 아야/EC 하다01/VX + 는지/EC 무의식/NNG + 을/JKO 잘02/MAG 살펴보다/VV + ㄹ/ETM 필요/NNG + 가/JKS 있다01/VA + 다/EF + ./SF
+꿈01/NNG + 은/JX 무의식/NNG + 으로/JKB 가다01/VV + 는/ETM 왕도03/NNG + 라/EF + 고/JKQ 하다01/VV + ㄹ/ETM 만큼/NNB 무의식/NNG + 을/JKO 살펴보다/VV + 는/ETM 데01/NNB + 는/JX 중요하다02/VA + ㄴ/ETM 수단01/NNG + 이다/VCP + 다/EF + ./SF
+보통/MAG 꿈01/NNG + 에/JKB 대하다02/VV + 아서/EC + 는/JX 쉽다/VA + 게/EC 잊다01/VV + 거나/EC 스치다01/VV + 어/EC 가다01/VX + 지만/EC 의외로/MAG 꿈01/NNG + 은/JX 우리03/NP + 에게/JKB 많다/VA + 은/ETM 것01/NNB + 을/JKO 가르치다01/VV + 어/EC 주다01/VX + ㄴ다/EF + ./SF
+꿈01/NNG + 은/JX 자연적/NNG + 이다/VCP + ㄴ/ETM 현상04/NNG + 으로/JKB 꿈01/NNG + 에/JKB 나타나다/VV + ㄴ/ETM 여러/MM 상22/NNG + 들/XSN + 은/JX 꿈꾸다/VV + ㄴ/ETM 자18/NNB + 의/JKG 심상01/NNG + 의/JKG 일부02/NNG + 가/JKS 인격화하다%/VV + ·/SP 물격화하다/VV + ㄴ/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+특히/MAG 꿈01/NNG + 이/JKS 중요하다02/VA + 고/EC 가치06/NNG 있다01/VA + 는/ETM 것01/NNB + 은/JX 꿈꾸다/VV + ㄴ/ETM 사람/NNG + 에게/JKB 피상적/NNG + 으로/JKB 어떤/MM 사실04/NNG + 이나/JC 심리01/NNG + 를/JKO 보이다02/VV + 어/EC 주다01/VX + 는/ETM 것01/NNB + 만/JX + 이/JKC 아니다/VCN + 라/EC + ,/SP 당시02/NNG 그01/NP + 의/JKG 인식/NNG 단계03/NNG + 에서/JKB 그01/NP + 에게/JKB 적합하다/VA + ㄴ/ETM 방식01/NNG + 으로/JKB 느낌/NNG + 을/JKO 움직이다/VV + 어/EC 그01/NP + 의/JKG 정신12/NNG + 을/JKO 자극하다/VV + ㄴ다/EF + 는/ETM 점10/NNG + 이다/VCP + 다/EF + ./SF
+또/MAJ 꿈01/NNG + 은/JX 꿈꾸다/VV + ㄴ/ETM 사람/NNG 내부04/NNG + 의/JKG 소리01/NNG + 라/EF + 는/ETM 점10/NNG + 에서/JKB 꿈꾸다/VV + ㄴ/ETM 사람/NNG + 이/JKS 맹목적/NNG + 으로/JKB 부정하다06/VV + 거나/EC 무시하다/VV + ㄹ/ETM 수02/NNB 없다01/VA + 기에/EC 꿈01/NNG + 은/JX 무의식/NNG + 을/JKO 의식화하다/VV + 아/EC 자아01/NNG + 에/JKB 동화시키다*/VV + ㄹ/ETM 수02/NNB 있다01/VA + 는/ETM 효과적/NNG + 이다/VCP + ㄴ/ETM 방법/NNG + 으로/JKB 이해되다/VV + 어/EC 오다01/VX + 았/EP + 다/EF + ./SF
+불안01/NNG 증상01/NNG + 이/JKS 심하다/VA + ㄴ/ETM 한01/MM 주부03/NNG + 가/JKS 화장실/NNG 꿈01/NNG + 을/JKO 많이/MAG 꾸다01/VV + ㄴ다/EF + 고/JKQ 호소하다01/VV + 았/EP + 다/EF + ./SF
+그녀/NP + 의/JKG 일상04/NNG + 을/JKO 살펴보다/VV + ㄴ/ETM 결과02/NNG 그녀/NP + 는/JX 일상생활/NNG + 에/JKB 아무01/MM 걱정/NNG + 이/JKS 없다01/VA + 다/EF + 고/JKQ 하다01/VV + ㄹ/ETM 만큼/NNB 편안하다01/VA + ㄴ/ETM 삶/NNG + 을/JKO 유지하다02/VV + 고/EC 있다01/VX + 었/EP + 다/EF + ./SF
+그녀/NP 또한/MAJ 그런01/MM 삶/NNG + 을/JKO 즐기다01/VV + 어/EC 자기04/NP 스스로/MAG 일하다/VV + 거나/EC 자기04/NP 삶/NNG + 을/JKO 갖다01/VV + 겠/EP + 다/EF + 는/ETM 등05/NNB + 의/JKG 마음01/NNG + 은/JX 먹다02/VV + 지/EC + 도/JX 않다/VX + 았/EP + 다/EF + ./SF
+그러다/VV + 다가/EC 언젠가/MAG + 부터/JX 남편01/NNG + 의/JKG 삶/NNG + 에/JKB 너무01/MAG 좌지우지되다/VV + 는/ETM 것01/NNB 같다/VA + 아/EC 마음속/NNG + 으로/JKB 독립하다/VV + 아야/EC + 겠/EP + 다/EF + 고/JKQ 생각하다/VV + 고/EC 있다01/VX + 었/EP + 는데/EC 갑자기/MAG 불안01/NNG + 이/JKS 찾아들다/VV + ㄴ/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+그녀/NP + 의/JKG 불안01/NNG + 은/JX 그녀/NP + 를/JKO 몹시/MAG 유약하다02/VA + 게/EC 만들다/VV + 어/EC 그녀/NP + 는/JX 이제01/MAG 가볍다/VA + 은/ETM 판단/NNG + 까지/JX 남01/NNG + 에게/JKB 의지하다/VV + 게/EC 되다01/VV + 었/EP + 고/EC 스스로/NNG + 도/JX 마음01/NNG + 이/JKS 너무01/MAG 약하다01/VA + 어/EC + 지다04/VX 느끼다02/VV + 었/EP + 다/EF + ./SF
+그녀/NP + 의/JKG 불안01/NNG + 은/JX 어쩌면/MAG 그녀/NP + 가/JKS 남편01/NNG + 으로부터/JKB 정신적/NNG + 으로/JKB 독립하다/VV + 기/ETN + 에/JKB 아직01/MAG + 은/JX 이르다03/VA + 다/EF + 는/ETM 것01/NNB + 을/JKO 보이다02/VV + 어/EC 주다01/VX + 는지/EF + 도/JX 모르다/VV + ㄴ다/EF + ./SF
+그녀/NP + 의/JKG 꿈01/NNG + 은/JX 계속04/MAG 그녀/NP + 가/JKS 지저분하다/VA + ㄴ/ETM 화장실/NNG + 에서/JKB 곤란/NNG + 을/JKO 겪다/VV + 는/ETM 것01/NNB + 을/JKO 보이다02/VV + 어/EC 주다01/VX + 었/EP + 는데/EC 그거/NP + ㄴ/JX 아마도/MAG 그녀/NP + 가/JKS 화장실/NNG 같다/VA + 은/ETM 독립적/NNG + 이다/VCP + ㄴ/ETM 자기04/NP + 만/JX + 의/JKG 공간05/NNG + 을/JKO 누리다01/VV + 기/ETN + 에/JKB + 는/JX 아직01/MAG 뭐/NP + ㄴ가/EF 미숙하다/VA + ㅁ/ETN + 을/JKO 의미하다02/VV + 는지/EF + 도/JX 모르다/VV + ㄴ다/EF + ./SF
+그녀/NP + 는/JX 남편01/NNG + 으로부터/JKB 정신적/NNG + 으로/JKB 독립하다/VV + 는/ETM 데01/NNB 좀02/MAG 더01/MAG 겸허하다/VA + ㄴ/ETM 자세02/NNG + 를/JKO 갖다01/VV + 고/EC 준비/NNG 기간07/NNG + 을/JKO 갖다01/VV + 는/ETM 거01/NNB + 이/JKS 필요하다/VA + ㄹ지/EF + 도/JX 모르다/VV + ㄴ다/EF + ./SF
+너무나/MAG 오랫동안/NNG 남편01/NNG + 에게/JKB 의지하다/VV + 는/ETM 데01/NNB 길들이다/VV + 어/EC + 지다04/VX + 어/EC 오다01/VX + 았/EP + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+꿈01/NNG + 은/JX 우리03/NP + 에게/JKB 많다/VA + 은/ETM 것01/NNB + 을/JKO 가르치다01/VV + 어/EC 주다01/VX + ㄴ다/EF + ./SF
+그러나/MAJ 그01/MM 꿈01/NNG + 을/JKO 알다/VV + 는/ETM 사람/NNG + 은/JX 자신01/NNG 외04/NNB + 에/JKB + 는/JX 아무01/NP + 도/JX 없다01/VA + 다/EF + ./SF
+분석가/NNG + 나/JX 정신12/NNG 치료자*/NNG 환자03/NNG + 의/JKG 꿈01/NNG + 을/JKO 듣다01/VV + 고/EC 해석03/NNG + 을/JKO 하다01/VV + 아도/EC 그것/NP + 은/JX 자기04/NP + 가/JKS 느끼다02/VV + 고/EC 공상하다02/VV + 는/ETM 것01/NNB + 을/JKO 얘기하다/VV + ㄹ/ETM 뿐01/NNB + 이다/VCP + 다/EF + ./SF
+그01/MM 해석03/NNG + 이/JKS 환자03/NNG + 에게/JKB 도움/NNG + 이/JKC 되다01/VV + 려면/EC 환자03/NNG 또한/MAJ 그01/MM 해석03/NNG + 에/JKB 공감/NNG + 을/JKO 하다01/VV + 아야/EC 하다01/VX + ㄴ다/EF + ./SF
+그01/MM 해석03/NNG + 이/JKS 옳다01/VA + 지/EC 않다/VX + 으면/EC 환자03/NNG + 는/JX 어떤/MM 식04/NNB + 으로/JKB + 든/JX 그01/MM 해석03/NNG + 을/JKO 거부하다/VV + 게/EC 되다01/VV + ㄴ다/EF + ./SF
+여러/MM 번04/NNB 자살01/NNG + 을/JKO 기도하다01/VV + ㄴ/ETM 한01/MM 여자02/NNG 환자03/NNG + 가/JKS 정신과/NNG 의사12/NNG + 에게/JKB 저승/NNG 꿈01/NNG + 을/JKO 가져오다/VV + 았/EP + 다/EF + ./SF
+의사12/NNG + 는/JX 그01/MM 환자03/NNG + 가/JKS 너무01/MAG 자살01/NNG 기도01/NNG + 를/JKO 반복하다01/VV + 기에/EC 그01/MM 저승/NNG 꿈01/NNG + 은/JX 단순하다/VA + ㄴ/ETM 것01/NNB + 에/JKB 불과하다/VA + 다/EF + 고/JKQ 해석하다02/VV + 았/EP + 다/EF + ./SF
+그러나/MAJ 그녀/NP + 는/JX 다음01/NNG + 에/JKB 자살01/NNG + 을/JKO 하다01/VV + ㅁ/ETN + 으로써/JKB 그01/MM 의사12/NNG + 의/JKG 해석03/NNG + 이/JKS 틀리다01/VV + 었/EP + 음/ETN + 을/JKO 증명하다/VV + 았/EP + 다/EF + ./SF
+의사12/NNG + 가/JKS 만일01/NNG 그01/MM 꿈01/NNG + 을/JKO 신중하다/VA + 고/EC 솔직하다/VA + 게/EC 다루다01/VV + 었/EP + 다면/EC 그녀/NP + 는/JX 다른/MM 선택/NNG + 을/JKO 하다01/VV + 았/EP + 을지/EF + 도/JX 모르다/VV + ㄴ다/EF + ./SF
+이같이/MAG 꿈01/NNG + 에/JKB 대하다02/VV + ㄴ/ETM 해석03/NNG + 이/JKS 그01/MM 환자03/NNG + 에게/JKB 맞다01/VV + 지/EC 않다/VX + 을/ETM 경우03/NNG 환자03/NNG + 는/JX 본능적/NNG + 으로/JKB 거부하다/VV + 게/EC 되다01/VV + ㄴ다/EF + ./SF
+꿈01/NNG + 의/JKG 소리01/NNG + 만큼/JX 그01/NP + 에게/JKB 절실하다/VA + ㄴ/ETM 목소리/NNG + 는/JX 없다01/VA + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+꿈01/NNG + 은/JX 누구/NP + 에게/JKB + 나/JX 도움/NNG + 이/JKC 되다01/VV + ㄴ다/EF + ./SF
+꿈01/NNG + 은/JX 우리03/NP 마음속/NNG + 의/JKG 소리01/NNG + 를/JKO 의식03/NNG + 에/JKB 전달하다02/VV + 아/EC 정신12/NNG + 의/JKG 균형/NNG + 을/JKO 이루다01/VV + 어/EC 주다01/VX + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+특히/MAG 현실02/NNG 적응02/NNG + 에/JKB 힘들다/VA + 고/EC 뭐/NP + ㄴ가/EF 답답하다/VA + ㄴ/ETM 틀01/NNG 속01/NNG + 에/JKB 갇히다/VV + 어/EC 있다01/VX + 는/ETM 것01/NNB 같다/VA + 은/ETM 사람/NNG + 들/XSN + 은/JX 꿈01/NNG + 을/JKO 주의07/NNG 깊다/VA + 게/EC 들여다보다/VV + ㄹ/ETM 필요/NNG + 가/JKS 있다01/VA + 다/EF + ./SF
+꿈01/NNG + 을/JKO 해석하다02/VV + 고/EC 들여다보다/VV + 는/ETM 방법/NNG + 은/JX 고도08/NNG + 의/JKG 전문08/NNG 지식02/NNG + 을/JKO 요구하다/VV + ㄹ/ETM 것01/NNB 같다/VA + 지만/EC 나03/NP + 의/JKG 생각01/NNG + 으로/JKB + 는/JX 그렇다/VA + 게/EC 복잡하다/VA + ㄹ/ETM 필요/NNG + 는/JX 없다01/VA + 다/EF + 고/JKQ 보다01/VV + ㄴ다/EF + ./SF
+꿈01/NNG + 은/JX 눈01/NNG + 만/JX 감다01/VV + 으면/EC 항상/MAG 새롭다/VA + 게/EC 떠오르다/VV + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+꿈01/NNG + 에/JKB 주의07/NNG + 를/JKO 하다01/VV + 고/EC 꿈01/NNG + 의/JKG 언어01/NNG + 에/JKB 귀01/NNG + 를/JKO 기울이다/VV + 는/ETM 것01/NNB + 만/JX + 으로/JKB + 도/JX 그01/MM 사람/NNG + 의/JKG 일상생활/NNG + 에/JKB + 는/JX 크다01/VA + ㄴ/ETM 도움/NNG + 이/JKC 되다01/VV + ㄴ다/EF + ./SF
+예08/NNG + 를/JKO 들다01/VV + 어/EC 꿈속/NNG + 에서/JKB 정말01/MAG 꼴01/NNG + 도/JX 보다01/VV + 기/ETN 싫다01/VA + 은/ETM 사람/NNG + 하고/JKB 커피/NNG + 를/JKO 같이/MAG 마시다/VV + 거나/EC 말01/NNG + 을/JKO 나누다/VV + 었/EP + 다면/EC 다음01/NNG + 날01/NNG + 은/JX 무조건/MAG 그렇다/VA + 게/EC 하다01/VV + 아/EC 보다01/VX + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+끝01/NNG + 까지/JX 꿈01/NNG + 대로/JX 하다01/VV + 지/EC 않다/VX + 아도/EC 일단01/MAG 시도07/NNG + 만/JX 하다01/VV + 아/EC 보다01/VX + 아도/EC 자기04/NNG 마음01/NNG + 이/JKS 편하다/VA + 고/EC 자유롭다/VA + 어/EC + 지다04/VX + 는/ETM 것01/NNB + 을/JKO 느끼다02/VV + ㄹ/ETM 수02/NNB 있다01/VA + 다/EF + ./SF
+물론01/MAG 꿈01/NNG + 이/JKS 너무01/MAG 많다/VA + 아/EC 잠01/NNG + 을/JKO 못04/MAG 이루다01/VV + ㄹ/ETM 정도11/NNG + 가/JKC 되다01/VV + 거나/EC 악몽/NNG + 에/JKB 반복하다01/VV + 아서/EC 시달리다/VV + 는/ETM 경우03/NNG + 는/JX 약07/NNG + 을/JKO 쓰다03/VV + 어서/EC + 라도/JX 일단01/MAG 꿈01/NNG + 을/JKO 잠재우다/VV + 는/ETM 것01/NNB + 이/JKS 좋다01/VA + 다/EF + ./SF
+일단01/MAG 자아01/NNG + 가/JKS 받아들이다/VV + 기/ETN + 에/JKB + 는/JX 무의식/NNG + 의/JKG 소리01/NNG + 가/JKS 너무01/MAG 크다01/VA + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+그러나/MAJ 그01/MM 외04/NNB + 에/JKB + 는/JX 꿈01/NNG + 을/JKO 항상/MAG 가까이하다/VV + 는/ETM 것01/NNB + 이/JKS 좋다01/VA + 다/EF + ./SF
+꿈01/NNG + 은/JX 의식03/NNG + 의/JKG 일방적/NNG + 이다/VCP + ㄴ/ETM 태도03/NNG + 를/JKO 원만하다/VA + 게/EC 하다01/VX + 아/EC 사회생활/NNG + 에/JKB 도움/NNG + 을/JKO 주다01/VV + 고/EC 더01/MAG 나아가다/VV + 아/EC 그01/MM 사람/NNG + 을/JKO 개성화/NNG + ,/SP 즉01/MAG 자기04/NNG + 를/JKO 실현하다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 는/ETM 방향01/NNG + 으로/JKB 이끌다/VV + 어/EC 주다01/VX + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+꿈01/NNG + 을/JKO 가까이하다/VV + 는/ETM 방법/NNG + 으로/JKB + 는/JX 아침/NNG + 에/JKB 일어나다/VV + 아/EC 꿈01/NNG + 을/JKO 바로02/MAG 적다01/VV + 는/ETM 꿈01/NNG 일기12/NNG + 가/JKS 있다01/VA + 다/EF + ./SF
+꿈01/NNG + 은/JX 조금01/NNG + 만/JX 소홀히/MAG 하다01/VV + 면/EC 증발하다01/VV + 아/EC 버리다01/VX + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+사랑하다/VV + 는/ETM 벗02/NNG + ,/SP 주윤발/NNP + 에게/JKB 벌써/MAG 세월02/NNG + 이/JKS 어떻다/VA + 게/EC 가다01/VV + 았/EP + 는지/EC + 도/JX 모르다/VV + 게/EC 많이/MAG 지나다/VV + 았/EP + 네/EF + ./SF
+나03/NP + 의/JKG 성의05/NNG + 가/JKS 부족하다/VA + 아서/EC + 겠/EP + 지만/EC 너01/NP + 가/JKS 교도소/NNG + 로/JKB 옮기다/VV + ㄴ/ETM 후08/NNG + 로/JKB + 는/JX 연락02/NNG 한번/NNG 못하다/VV + 았/EP + 네/EF + ./SF
+나름/NNB + 대로/JX 노력01/NNG + 은/JX 하다01/VV + 아/EC 보다01/VX + 았/EP + 지만/EC 연락하다02/VV + ㄹ/ETM 길01/NNG + 을/JKO 찾다/VV + 을/ETM 수02/NNB 없다01/VA + 었/EP + 어/EF + ./SF
+그래서/MAJ 이05/MM 지면03/NNG + 을/JKO 통하다/VV + 아서/EC + 나마/JX 편지02/NNG + 를/JKO 보내다/VV + 는/ETM 바03/NNB + 네/EF + ./SF
+나03/NP + ㄴ/JX 요새01/NNG 재미있다/VA + 는/ETM 경험/NNG + 을/JKO 하다01/VV + 네/EF + ./SF
+나03/NP + 가/JKS 경주/NNP + 나/JC 기양이/NNP + ,/SP 성철이/NNP + …/SE + …/SE 걔/NV + 네/XSN + 들/XSN + 만/JX 좋아하다/VV + ㄴ다고/EC 다른/MM 애02/NNG + 들/XSN + 이/JKS 간간이/MAG 시샘하다/VV + 는/ETM 거01/NNB + 야/EF + ./SF
+나03/NP + 는/JX 그냥/MAG 걔/NV + 네/XSN + 들/XSN + 의/JKG 뛰어나다/VA + ㅁ/ETN + 에/JKB 경의03/NNG + 를/JKO 표하다01/VV + ㄹ/ETM 뿐01/NNB + 이다/VCP + ㄴ데/EC 다른/MM 사람/NNG + 들/XSN + 이/JKS 보다01/VV + 기/ETN + 에/JKB + 는/JX 그렇다/VA + 지/EC 않다/VX + 은가/EF 보다01/VX + 아/EF + ./SF
+누구/NP + 가/JKS 누구/NP + 를/JKO 좋아하다/VV + 는/ETM 데01/NNB + 도/JX 남01/NNG + 의/JKG 눈치/NNG + 를/JKO 보다01/VV + 아야/EC 하다01/VX + ㄴ다면/EC 세상01/NNG + 은/JX 참으로/MAG 고달프다/VA + ㄹ/ETM 거01/NNB + 야/EF + ./SF
+그래서/MAJ 나03/NP + ㄴ/JX 앞/NNG + 으로/JKB + 도/JX 뛰어나다/VA + ㄴ/ETM 사람/NNG + 에게/JKB 경의03/NNG + 를/JKO 표하다01/VV + 는/ETM 데01/NNB + 는/JX 남01/NNG + 의/JKG 눈치/NNG + 를/JKO 안02/MAG 보다01/VV + ㄹ/ETM 작정01/NNG + 이다/VCP + 네/EF + ./SF
+나03/NP + ㄴ/JX 자네01/NP + 를/JKO 무척01/MAG 좋아하다/VV + 네/EF + ./SF
+아니01/MAG 좋아하다/VV + ㄴ다/EF + 는/ETM 말01/NNG + 보다/JKB + 는/JX 우리03/NP 인연03/NNG + 이/JKS 무척01/MAG 깊다/VA + 은/ETM 것01/NNB 같다/VA + 다/EF + 는/ETM 말01/NNG + 이/JKS 옳다01/VA + 을/ETM 것01/NNB 같다/VA + 네/EF + ./SF
+겉껍질/NNG + 의/JKG 마주치다/VV + ㅁ/ETN + 은/JX 다소01/MAG 낯설다/VA + 지/EC 모르다/VV + 아도/EC 우리03/NP 정신12/NNG + 의/JKG 만남/NNG + 은/JX 정말01/MAG 진하다01/VA + 고/EC 끈끈하다/VA + 아/EF + ./SF
+구치소/NNG + 에서/JKB 철망02/NNG + 을/JKO 사이01/NNG + 에/JKB 두다01/VV + 고/EC 만나다/VV + 았/EP + 던/ETM 것01/NNB 기억하다02/VV + 지/EF + ?/SF
+그때/NNG 너01/NP + 는/JX 나03/NP + 가/JKS 면회02/NNG 오다01/VV + ㄴ/ETM 줄04/NNB + 로/JKB 직감하다/VV + 았었/EP + 지/EF + ./SF
+오다01/VV + ㄹ/ETM 사람/NNG + 도/JX 없다01/VA + 는데/EC 누구/NP + 가/JKS 면회하다02/VV + 러/EC 오다01/VV + 았/EP + 을까/EF 어리둥절하다/VA + 어/EC + 하다01/VX + 다가/EC 나03/NP + 를/JKO 떠올리다/VV + 었/EP + 던/ETM 거01/NNB + 야/EF + ./SF
+나이01/NNG 차08/NNG + 가/JKS 15/SN + 년02/NNB + 이나/JX 되다01/VV + 는/ETM 나03/NP + 를/JKO + …/SE + …/SE + ./SF
+그때/NNG 나03/NP + ㄴ/JX 난생처음/NNG 구치소/NNG + 라/EF + 는/ETM 데01/NNB + ㄹ/JKO 가다01/VV + ㄴ/ETM 거01/NNB + 이다/VCP + 었/EP + 어/EF + ./SF
+세상01/NNG + 에/JKB 이런01/MM 세계02/NNG + 가/JKS 있다01/VA + 었/EP + 고/EC + ,/SP 이런01/MM 고통받다*/VV + 는/ETM 사람/NNG + 들/XSN + 이/JKS 있다01/VA + 었/EP + 다/EF + 는/ETM 것01/NNB + 을/JKO 그때/NNG 처음/NNG 생생하다/VA + 게/EC 알다/VV + 았/EP + 지/EF + ./SF
+그때/NNG 우리03/NP + 가/JKS 주고받다/VV + 은/ETM 말01/NNG 기억나다/VV + 나/EF + ?/SF
+마지막/NNG 말01/NNG + 이/JKS 되다01/VV + 었/EP + 던/ETM 그01/MM 말01/NNG + 을/JKO + …/SE + …/SE + ./SF
+"/SS + 선생님/NNG + ,/SP 우리03/NP 약속하다/VV + ㄴ/ETM 것01/NNB 잊다01/VV + 으시/EP + 면/EC 안02/MAG 되다01/VV + 어요/EF + ./SF + "/SS
+"/SS + 물론01/NNG + 이다/VCP + 지/EF + ./SF
+너01/NP + 도/JX 변하다/VV + 면/EC 안02/MAG 되다01/VV + 어/EF + ./SF
+절대05/MAG 변하다/VV + 지/EC 말다03/VX + 아/EF + …/SE + …/SE + ./SF + "/SS
+"/SS + 선생님/NNG + ,/SP 앞/NNG + 으로/JKB + ㄴ/JX 보다01/VV + 러/EC 오다01/VV + 지/EC 말다03/VX + 세요/EF + ./SF
+경주/NNP + 야/JKV + ,/SP 영치금/NNG 좀02/MAG 넣다/VV + 고/EC 가다01/VV + 라/EF + !/SF + "/SS
+"/SS + 아니02/IC + ,/SP 나03/NP + 가/JKS 넣다/VV + 을게/EF + ./SF + "/SS
+"/SS + 아니다/VCN + 어요/EF + ,/SP 선생님/NNG + ./SF
+농담01/NNG + 이다/VCP + 에요/EF + ./SF
+저03/NP 돈01/NNG 많다/VA + 아요/EF + ./SF + "/SS
+너01/NP + ㄴ/JX 항상/MAG 의연하다03/VA + 았/EP + 고/EC 남01/NNG + 에게/JKB 부담01/NNG + 을/JKO 안02/MAG 주다01/VV + 려고/EC 하다01/VX + 았/EP + 지/EF + ./SF
+항상/MAG 창조적/NNG + 이다/VCP + 고/EC 독립적/NNG + 이다/VCP + 었/EP + 고/EC 누구/NP + 보다/JKB + 도/JX 명랑하다/VA + 고/EC 순발력/NNG + 이/JKS 좋다01/VA + 았/EP + 어/EF + ./SF
+그러나/MAJ 그01/MM 이면01/NNG + 에/JKB 너01/NP + 한테/JKB 감당하다02/VV + 기/ETN 힘들다/VA + ㄴ/ETM 커다랗다/VA + ㄴ/ETM 외로움/NNG + 과/JC 어려움/NNG + 이/JKS 있다01/VA + 었/EP + 다/EF + 는/ETM 것01/NNB + 은/JX 너01/NP + 를/JKO 알다/VV + 면서/EC + 도/JX 뒤늦다/VA + 게/EC 알다/VV + ㄴ/ETM 일01/NNG + 이다/VCP + 었/EP + 어/EF + ./SF
+그거/NP + ㄹ/JKO 제대로/MAG 실감하다/VV + ㄴ/ETM 것01/NNB + 은/JX 너01/NP + 가/JKS 구치소/NNG + 에/JKB 들어가다01/VV + ㄴ/ETM 뒤01/NNG 너01/NP + 의/JKG 집01/NNG + 에/JKB 가다01/VV + 아/EC 너01/NP + 의/JKG 어머님/NNG + 을/JKO 만나다/VV + 아/EC 뵈다02/VV + ㄹ/ETM 때01/NNG + 이다/VCP + 었/EP + 지/EF + ./SF
+그때/NNG + 의/JKG 경험/NNG + 은/JX 충격적/NNG + 이다/VCP + 었/EP + 네/EF + ./SF
+눕다01/VV + 을/ETM 자리01/NNG 정도11/NNG + 밖에/JX 없다01/VA + 는/ETM 비좁다/VA + 은/ETM 공간05/NNG + 도/JX 마음01/NNG 아프다/VA + 았/EP + 지만/EC + ,/SP 연약하다01/VA + ㄴ/ETM 어머니01/NNG 외04/NNB + 에/JKB + 는/JX 따스하다/VA + 게/EC 사랑01/NNG + 을/JKO 건네주다/VV + ㄹ/ETM 사람/NNG + 이/JKS 없다01/VA + 었/EP + 다/EF + 는/ETM 것01/NNB + 이/JKS 무척01/MAG 마음01/NNG 아프다/VA + 았/EP + 지/EF + ./SF
+나03/NP + 도/JX 어렵다/VA + 게/EC 자라다01/VV + 아/EC 가난하다/VA + ㄴ/ETM 것01/NNB + 에/JKB + 는/JX 별02/MM 부담01/NNG + 을/JKO 안02/MAG 느끼다02/VV + 지만/EC + ,/SP 마음01/NNG 놓다01/VV + 고/EC 안기다01/VV + ㄹ/ETM 부모01/NNG 품01/NNG + 이/JKS 없다01/VA + 었/EP + 다면/EC 나03/NP + 는/JX 아마01/MAG 지금03/NNG + 까지/JX 살다01/VV + 아/EC 있다01/VX + 기/ETN + 에/JKB + 도/JX 벅차다/VA + 았/EP + 을/ETM 거01/NNB + 야/EF + ./SF
+우리03/NP + 가/JKS 처음/NNG 만나다/VV + ㄴ/ETM 것01/NNB + 은/JX 청소년/NNG 회관/NNG 사이코드라마/NNG + 를/JKO 통하다/VV + 아서/EC + 이다/VCP + 었/EP + 지/EF + ./SF
+너01/NP + 는/JX 그날/NNG 드라마/NNG + 의/JKG 주인공/NNG + 이/JKC 되다01/VV + 어서/EC 모두01/NNG + 가/JKS 감탄하다/VV + ㄹ/ETM 만하다/VX + ㄴ/ETM 훌륭하다/VA + ㄴ/ETM 연기10/NNG + 를/JKO 보이다02/VV + 어/EC 주다01/VX + 었/EP + 지/EF + ./SF
+그때/NNG 너01/NP + 의/JKG 이름/NNG + 은/JX 주윤발/NNP + 이다/VCP + 었/EP + 어/EF + ./SF
+나03/NP + ㄴ/JX 너01/NP + 가/JKS 그립다/VA + 을/ETM 때01/NNG + ㄴ/JX 그때/NNG + 를/JKO 떠올리다/VV + 곤/EC 하다01/VX + 아/EF + ./SF
+그래서/MAJ 얼마/NNG 전08/NNG + 에/JKB + 는/JX 그때/NNG + 의/JKG 순간03/NNG + 들/XSN + 을/JKO 글/NNG + 로/JKB 모두01/MAG 옮기다/VV + 어/EC 보다01/VX + 았/EP + 네/EF + ./SF
+그01/MM 생생하다/VA + ㄴ/ETM 순간03/NNG + 들/XSN + 을/JKO + …/SE + …/SE + ./SF
+(/SS + 사이코드라마/NNG + 가/JKS 시작되다01/VV + 었/EP + 으나/EC 15/SN + 분08/NNB + 이/JKS 넘다01/VV + 도록/EC 아무01/NP + 도/JX 무대06/NNG + 에/JKB 올라오다/VV + 지/EC 않다/VX + 는다/EF + ./SF
+우여곡절/NNG 끝01/NNG + 에/JKB 무대06/NNG 위01/NNG + 의/JKG 비다01/VV + ㄴ/ETM 의자03/NNG + 에/JKB 한01/MM 청소년/NNG + 이/JKS 올라오다/VV + 아/EC 앉다/VV + 는다/EF + ./SF + )/SS
+연출가/NNG + :/SP 안녕하다/VA + 세요/EF + ?/SF
+성함/NNG + 이/JKS 어떻다/VA + 게/EC 되다01/VV + 세요/EF + ?/SF
+청소년/NNG + :/SP 주윤발/NNP + 이다/VCP + 오/EF + ./SF
+연출가/NNG + :/SP 별명01/NNG + 은/JX 어떻다/VA + 게/EC 되다01/VV + 세요/EF + ?/SF
+청소년/NNG + :/SP 유덕화/NNP + 요/JX + ./SF
+연출가/NNG + :/SP 저기01/NP + 요/JX + ?/SF
+우리03/NP + 가/JKS 이05/MM 무대06/NNG + 에서/JKB 10/SN + 대06/NNB 청소년/NNG 여러분/NP + 들/XSN + 을/JKO 초청하다/VV + 았/EP + 는데/EC 아무01/NP + 도/JX 안02/MAG 나오다/VV + 았/EP + 거든/EF + 요/JX + ?/SF
+그거/NP + ㄹ/JKO 어떻다/VA + 게/EC 느끼다02/VV + 시/EP + 었/EP + 어요/EF + ?/SF
+주윤발/NA + :/SP 답답하다/VA + 아서/EC 나오다/VV + 았/EP + 어요/EF + ./SF
+나03/NP + 가/JKS + …/SE + …/SE + ./SF
+연출가/NNG + :/SP 답답하다/VA + 죠/EF + ./SF
+주윤발/NA + :/SP 예06/IC + ./SF
+연출가/NNG + :/SP 지금03/MAG 당장02/NNG 자기04/NP 느낌/NNG + 이/JKS 있다01/VA + 으면/EC 아무거*/NNG + 나/JX 하다01/VV + 아/EC 보다01/VX + 세요/EF + ./SF
+주윤발/NA + :/SP 지금03/MAG 당장02/NNG + 요/JX + ?/SF
+솔직히/MAG 쪽팔리다/VV + 죠/EF + ./SF
+아무01/NP + 도/JX 없다01/VA + 다/EF + 고/JKQ 생각하다/VV + 라/EF + 지만/EC 사람/NNG + 들/XSN + 이/JKS 이렇다/VA + 게/EC 많다/VA + 은데/EC 나03/NP 혼자01/NNG 떠들다01/VV + 어야/EC 하다01/VX + 는데/EC + …/SE + …/SE + ./SF
+너01/NP + 는/JX 그날/NNG 영화감독/NNG + 으로/JKB + ,/SP 영화배우/NNG + 로/JKB + ,/SP 기자05/NNG + 로/JKB 많다/VA + 은/ETM 역할/NNG + 을/JKO 훌륭하다/VA + 게/EC 해내다/VV + 어/EC 많다/VA + 은/ETM 갈채/NNG + 를/JKO 받다01/VV + 았/EP + 지/EF + ./SF
+그리고/MAJ 그다음/NNG 주26/NNG + 부터/JX + 는/JX 아예/MAG 우리03/NP 팀01/NNG + 에/JKB 들어오다/VV + 아/EC 함께/MAG 어울리다/VV + 었/EP + 지/EF + ./SF
+그01/MM 후08/NNG 너01/NP + 는/JX 누구/NP + 보다/JKB + 도/JX 뛰어나다/VA + 다/EF + 는/ETM 소리01/NNG + 를/JKO 듣다01/VV + 으면서/EC 열심히/MAG 비행02/NNG 청소년/NNG 사이코드라마/NNG + ,/SP 정신12/NNG 병원02/NNG 사이코드라마/NNG + 를/JKO 돌아다니다/VV + 면서/EC 봉사03/NNG + 를/JKO 하다01/VV + 다가/EC 어느01/MM 날01/NNG 없다01/VA + 어/EC + 지다04/VX 우리03/NP + 는/JX 모두01/MAG 의아하다/VA + 어/EC + 하다01/VX + 며/EC 수소문하다/VV + 았/EP + 지만/EC 결국/NNG 너01/NP + 를/JKO 찾다/VV + 게/EC 되다01/VV + ㄴ/ETM 곳01/NNG + 은/JX 구치소/NNG + 이다/VCP + 었/EP + 어/EF + ./SF
+너01/NP + 의/JKG 죄명/NNG 앞/NNG + 에/JKB + 는/JX '/SS + 특수02/NNG + '/SS 자14/NNG + 가/JKS 들다01/VV + 어/EC 있다01/VX + 어/EC 아무01/NP + 도/JX 어찌하다/VV + ㄹ/ETM 수02/NNB 없다01/VA + 다/EF + 는/ETM 것01/NNB + 을/JKO 알다/VV + 게/EC 되다01/VV + 기/ETN + 까지/JX + 는/JX 오랜/MM 시간04/NNG + 이/JKS 걸리다01/VV + 지/EC 않다/VX + 았/EP + 어/EF + ./SF
+그리고/MAJ 그01/MM 범죄/NNG + 는/JX 오래전/NNG 일01/NNG + 이다/VCP + 라/EF + 는/ETM 것01/NNB + 도/JX 알다/VV + 게/EC 되다01/VV + 었/EP + 고/EC + …/SE + …/SE + ./SF
+너01/NP + 를/JKO 생각하다/VV + 면/EC 지금03/NNG + 의/JKG 너01/NP + 의/JKG 처지/NNG + 가/JKS 먼저/MAG 떠오르다/VV + 아/EC 괜히/MAG 감상적/NNG + 이/JKC 되다01/VV + 네/EF + ./SF
+그래서/MAJ 오늘/MAG 배우다01/VV + ㄴ/ETM 유머/NNG 몇/MM 가지04/NNB + 를/JKO 들려주다/VV + 고/EC 일단01/MAG 이05/MM 편지02/NNG + 를/JKO 부치다02@/VV + 겠/EP + 네/EF + ./SF
+티코/NNP + 가/JKS 길01/NNG + 을/JKO 가다01/VV + 다/EC 멈추다/VV + 었/EP + 을/ETM 때01/NNG 가다01/VV + 게/EC 하다01/VX + 는/ETM 세01/MM 가지04/NNB 방법/NNG + 1/SN + ./SF + `/SS
+배01/NNG + 에/JKB 있다01/VA + 는/ETM 태엽/NNG + 을/JKO 감다03/VV + 아/EC 주다01/VX + ㄴ다/EF + ./SF
+2/SN + ./SF + 뒤꽁무니/NNG + 를/JKO
+잡다01/VV + 고/EC 당기다01/VV + 었/EP + 다가/EC 놓다01/VV + 는다/EF + ./SF
+3/SN + ./SF + 바퀴01/NNG + 에/JKB
+붙다/VV + 은/ETM 껌/NNG + 을/JKO 떼다01/VV + 어/EC 주다01/VX + ㄴ다/EF + ./SF
+마음01/NNG + 의/JKG 문05/NNG + 을/JKO 열다02/VV + 다/EC 구름01/NNG 한01/MM 점10/NNB 없다01/VA + 는/ETM 파랗다/VA + ㄴ/ETM 하늘01/NNG + 에서/JKB 카메라/NNG + 가/JKS 천천히/MAG 내려오다/VV + 면/EC 우거지다/VV + ㄴ/ETM 수풀/NNG 사이01/NNG + 로/JKB 잔잔하다01/VA + 게/EC 흘러내리다/VV + 는/ETM 계곡01/NNG + 의/JKG 맑다01/VA + 은/ETM 물01/NNG + !/SF
+흐르다01/VV + 는/ETM 물01/NNG + 을/JKO 따르다01/VV + 아/EC 잠시/MAG 가다01/VV + 다/EC 보다01/VX + 니/EC 얕다/VA + 은/ETM 시냇가/NNG 계곡01/NNG + 에서/JKB 학창01/NNG 시절01/NNG + 의/JKG 젊다/VA + 은/ETM 김/NNP 과장07/NNG + 이/JKS 유치원/NNG 아이01/NNG + 들/XSN + 과/JKB 놀다01/VV + 고/EC 있다01/VX + 다/EF + ./SF
+계곡01/NNG 바위01/NNG 위01/NNG + 로/JKB 아이01/NNG + 들/XSN + 을/JKO 올리다01/VV + 어/EC 주다01/VX + 기/ETN + 도/JX 하다01/VX + 고/EC 물싸움/NNG + 을/JKO 하다01/VV + 기/ETN + 도/JX 하다01/VX + 는/ETM 김/NNP 과장07/NNG + ./SF
+우거지다/VV + ㄴ/ETM 수풀/NNG 사이01/NNG + 로/JKB 가끔/MAG + 씩/XSN 쏟아지다/VV + 어/EC 들어오다/VV + 는/ETM 햇살/NNG + 이/JKS 따갑다/VA + 게/EC 그01/NP + 들/XSN + 을/JKO 찌르다/VV + 고/EC 있다01/VX + 다/EF + ./SF
+입/NNG + 에/JKB 가득01/MAG 웃음/NNG + 을/JKO 머금다/VV + 고/EC 애02/NNG + 들/XSN + 과/JKB 노닥거리다/VV + 던/ETM 김/NNP 과장07/NNG + ,/SP 문득01/MAG 시선03/NNG + 을/JKO 돌리다04/VV + 어/EC 시냇가/NNG 한구석/NNG + 을/JKO 바라보다/VV + ㄴ다/EF + ./SF
+남01/NNG + 들/XSN + 과/JKB 떨어지다/VV + ㄴ/ETM 한적하다01/VA + ㄴ/ETM 곳01/NNG + 에/JKB 하얗다/VA + ㄴ/ETM 옷01/NNG + 의/JKG 여자02/NNG 아이01/NNG 하나/NR + 가/JKS 혼자01/NNG 쭈그리다/VV + 고/EC 앉다/VV + 아/EC 놀다01/VV + 고/EC 있다01/VX + 다/EF + ./SF
+김/NNP 과장07/NNG + ,/SP 같이/MAG 데리다/VV + 고/EC 놀다01/VV + ㄹ/ETM 양02/NNB + 으로/JKB 무심히/MAG 그01/MM 아이01/NNG + 에게/JKB 다가가다/VV + ㄴ다/EF + ./SF
+그01/MM 아이01/NNG + 는/JX 하얗다/VA + 다/EC 못하다/VX + 아/EC 투명하다02/VA + 기/ETN + 까지/JX 하다01/VX + ㄴ/ETM 곱다02/VA + 은/ETM 얼굴01/NNG + 이다/VCP + 었/EP + 는데/EC 모래알/NNG 하나/NR 티끌/NNG 하나/NR + 를/JKO 무척01/MAG 소중히/MAG 다루다01/VV + 며/EC 놀다01/VV + 았/EP + 다/EF + ./SF
+김/NNP 과장07/NNG + ,/SP 그01/MM 해맑다/VA + 고/EC 예쁘다/VA + ㄴ/ETM 모습01/NNG + 에/JKB 자기04/NP + 도/JX 모르다/VV + 게/EC 이끌리다/VV + 어/EC 곁01/NNG + 에/JKB 가다01/VV + 아서/EC 조용히/MAG 앉다/VV + 는다/EF + ./SF
+하도01/MAG 재미있다/VA + 게/EC 놀다01/VV + 는/ETM 아이01/NNG + 의/JKG 모습01/NNG + 에/JKB 무심코/MAG 그01/MM 손끝/NNG 모래알/NNG + 을/JKO 따라가다/VV + 아/EC 보다01/VX + ㄴ다/EF + ./SF
+(/SS + 김/NNP 과장07/NNG + 의/JKG 시야03/NNG + )/SS 아이01/NNG + 의/JKG 손가락/NNG 끝01/NNG 모래알/NNG + 이/JKS 파랗다/VA + ㄴ/ETM 하늘01/NNG + 을/JKO 배경01/NNG + 으로/JKB 고정되다/VV + 자/EC 갑자기/MAG 파랗다/VA + ㄴ/ETM 하늘01/NNG + 에서/JKB 아주01/MAG 작다01/VA + 은/ETM 은가루/NNG 같다/VA + 은/ETM 것01/NNB + 들/XSN + 이/JKS 반짝이다/VV + 더니/EC 그01/MM 은가루/NNG 빛/NNG + 이/JKS 점점01/MAG 커지다/VV + 며/EC 다가오다/VV + ㄴ다/EF + ./SF
+어느01/MM 순간03/NNG + 에/JKB 그01/MM 은가루/NNG + 가/JKS 클로즈업되다/VV + 면서/EC 팽창하다/VV + 는/ETM 듯01/NNB 벌어지다01/VV + ㄴ다/EF + ./SF
+그01/MM 안01/NNG + 에서/JKB 그림자/NNG + 처럼/JKB 어렴풋이/MAG 드러나다/VV + 는/ETM 동화07/NNG 속01/NNG + 의/JKG 궁전05/NNG + !/SF
+임금님/NNG + 과/JC 공주01/NNG + ,/SP 왕자01/NNG + 들/XSN + 이/JKS 한가로이/MAG 앉다/VV + 아/EC 다정하다/VA + ㄴ/ETM 대화06/NNG + 를/JKO 나누다/VV + 는/ETM 듯01/NNB + …/SE + …/SE + ./SF
+(/SS + 현실02/NNG + )/SS 김/NNP 과장07/NNG + ,/SP 깜짝02/MAG 놀라다/VV + 며/EC 눈01/NNG + 을/JKO 급히/MAG 감다01/VV + 고/EC 고개01/NNG + 를/JKO 깜빡/MAG 흔들다/VV + 어/EC 대다01/VX + ㄴ다/EF + ./SF
+잠시/NNG 후08/NNG 황홀하다/VA + ㄴ/ETM 기이하다02/VA + ㅁ/ETN 속01/NNG + 에서/JKB 눈01/NNG + 을/JKO 다시01/MAG 뜨다05/VV + 어/EC 보다01/VX + 니/EC 그01/MM 아이01/NNG + 는/JX 성숙하다/VV + ㄴ/ETM 여인01/NNG + 이다/VCP + ㄴ/ETM 양02/NNB 미소05/NNG 짓다01/VV + 으며/EC 김/NNP 과장07/NNG + 을/JKO 바라보다/VV + 고/EC 있다01/VX + 다/EF + ./SF
+왠지/MAG 모르다/VV + 게/EC 가슴01/NNG + 이/JKS 두근거리다/VV + 며/EC 수줍다/VA + 게/EC 얼굴01/NNG + 이/JKS 달아오르다/VV + 는/ETM 김/NNP 과장07/NNG + ./SF
+이때/NNG 김/NNP 과장07/NNG + 의/JKG 귀01/NNG + 를/JKO 때리다01/VV + 는/ETM 여인01/NNG + 의/JKG 목소리/NNG + ./SF
+"/SS + 얘02/IC + ,/SP 여기01/NP + 서/JKB 뭐/NP 하다01/VV + 고/EC 있다01/VX + 니/EF + ?/SF
+다른/MM 애02/NNG + 들/XSN + 하고/JKB 같이/MAG 놀다01/VV + 지/EC 않다/VX + 고/EC + …/SE + …/SE 유치원/NNG 선생01/NNG + 이/JKS 아이01/NNG + 에게/JKB 다가가다/VV + 아/EC 아이01/NNG + 를/JKO 조심스럽다/VA + 게/EC 안다01/VV + 아/EC 일으키다/VV + 어서/EC 다른/MM 애02/NNG + 들/XSN + 이/JKS 있다01/VA + 는/ETM 곳01/NNG + 으로/JKB 데려가다/VV + ㄴ다/EF + ./SF
+유치원/NNG 선생01/NNG + 이/JKS 김/NNP 과장07/NNG + 을/JKO 돌아보다/VV + 며/EC "/SS + 자폐아/NNG + 이다/VCP + 에요/EF + "/SS 하다01/VV + 고/EC 말하다/VV + ㄴ다/EF + ./SF
+유치원/NNG 선생01/NNG + 이/JKS 이끌다/VV + 는/ETM 대로01/NNB 순순히01/MAG 따라가다/VV + 는/ETM 아이01/NNG + ./SF
+그01/MM 뒷머리/NNG + 에/JKB 꽂다/VV + 은/ETM 미색01/NNG 나비03/NNG 리본/NNG + 이/JKS 유난히/MAG + 도/JX 시리다01/VA + 도록/EC 맑다01/VA + 고/EC 투명하다02/VA + 다/EF + ./SF
+필자02/NNG + 가/JKS 쓰다01/VV + 고/EC 있다01/VX + 는/ETM 시나리오/NNG + 의/JKG 한01/MM 장면04/NNG + 이다/VCP + 다/EF + ./SF
+이05/MM 자폐아/NNG + 는/JX 실제로/MAG 있다01/VA + 었/EP + 던/ETM 경우03/NNG + 로/JKB 이05/MM 아이01/NNG + 는/JX 아마도/MAG 10/SN + 년02/NNB + ,/SP 20/SN + 년02/NNB + 이/JKS 흐르다01/VV + 어도/EC 계속04/MAG 손끝/NNG 모래알/NNG + 만/JX 좇다01/VV + 으면서/EC 동화07/NNG 속01/NNG + 의/JKG 궁전05/NNG + 이다/VCP + 라/EF + 는/ETM 환경02/NNG + 에서/JKB 헤어나다/VV + 지/EC 못하다/VX + ㄹ/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+사람/NNG + 들/XSN + 은/JX 보통/MAG 어떤/MM 경우03/NNG + 에/JKB 자폐증/NNG + 에/JKB 걸리다01/VV + ㄹ까/EF + ?/SF
+대체로/MAG 마음01/NNG + 이/JKS 아프다/VA + ㄹ/ETM 때01/NNG 그러하다/VA + 지/EC 않다/VX + 을까/EF + ?/SF
+아프다/VA + ㄴ/ETM 마음01/NNG + 은/JX 달래다01/VV + ㄹ/ETM 길01/NNG + 이/JKS 없다01/VA + 다/EF + ./SF
+아프다/VA + ㄴ/ETM 마음01/NNG + 은/JX 어떠하다/VA + ㄴ/ETM 돈01/NNG + 과/JC 명예01/NNG + 를/JKO 갖다01/VV + 고서/EC + 도/JX 회복하다/VV + ㄹ/ETM 수02/NNB + 가/JKS 없다01/VA + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+현대01/NNG + 같이/JKB 가지다/VV + ㄴ/ETM 것01/NNB + 으로/JKB 경쟁하다/VV + 는/ETM 사회07/NNG + 에서/JKB + ㄴ/JX 아프다/VA + ㄴ/ETM 마음01/NNG + 은/JX 더더욱/MAG 치유되다/VV + ㄹ/ETM 길01/NNG + 이/JKS 없다01/VA + 다/EF + ./SF
+현대01/NNG 사회07/NNG + 에서/JKB 마음01/NNG + 을/JKO 열다02/VV + 고/EC 인간적/NNG + 으로/JKB 대하다02/VV + 려/EC + 는/ETM 자18/NNB + 는/JX 언제나/MAG 이용01/NNG + 만/JX 당하다01/VV + 고/EC 손해/NNG + 를/JKO 보다01/VV + 며/EC 결국/NNG + 은/JX 마음01/NNG + 에/JKB 치명적/NNG + 이다/VCP + ㄴ/ETM 상처02/NNG + 를/JKO 입다01/VV + 고/EC 말다03/VX + ㄴ다/EF + ./SF
+마음01/NNG + 은/JX 인간01/NNG 깊숙이/MAG 있다01/VV + 기에/EC 피부02/NNG + 의/JKG 상처02/NNG + 에서/JKB 오다01/VV + 는/ETM 아픔/NNG + 보다/JKB 더01/MAG 진하다01/VA + 고/EC 오래가다/VV + ㄴ다/EF + ./SF
+그렇다/VA + 니/EC 자연01/MAG 한번/NNG 마음01/NNG + 이/JKS 아프다/VA + 아/EC 보다01/VX + ㄴ/ETM 자18/NNB + 는/JX 마음01/NNG 상하다02/VV + 기/ETN + 보다/JKB + 는/JX 차라리/MAG 마음01/NNG + 을/JKO 가두다01/VV + 어/EC 버리다01/VX + 는/ETM 편04/NNB + 이/JKS 훨씬/MAG 낫다02/VA + 다/EF + 는/ETM 것01/NNB + 을/JKO 반사적/NNG + 으로/JKB 알다/VV + ㄴ다/EF + ./SF
+아무01/NP + 도/JX 믿다/VV + 지/EC 않다/VX + 고/EC 자신01/NNG + 의/JKG 둥우리/NNG 속01/NNG + 에서/JKB 혼자01/NNG 아득바득하다/VV + 면/EC 최소한/NNG 마음01/NNG + 이/JKS 아프다/VA + ㄹ/ETM 여지02/NNG + 는/JX 없다01/VA + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+정신12/NNG 병동/NNG + 을/JKO 거닐다/VV + 다/EC 보다01/VX + 면/EC 처음/NNG 보다01/VV + 는/ETM 환자03/NNG + 들/XSN + 이나/JC 다른/MM 담당/NNG 선생님/NNG + 의/JKG 환자03/NNG + 들/XSN + 이/JKS 자주01/MAG 다정하다/VA + 게/EC 말01/NNG + 을/JKO 걸다01/VV + 거나/EC 알다/VV + 는/ETM 체02/NNB + 를/JKO 하다01/VV + ㄴ다/EF + ./SF
+소위06/MAG '/SS + 자아01/NNG 경계04/NNG + 의/JKG 상실05/NNG + '/SS + 이라/JKQ + 는/ETM 증상01/NNG + 을/JKO 보이다02/VV + 어/EC 주다01/VX + 는/ETM 환자03/NNG + 들/XSN + 이다/VCP + ㄴ데/EC 그01/NP + 들/XSN + 은/JX 자기04/NP + 와/JC 남01/NNG 사이01/NNG + 를/JKO 잘02/MAG 구분하다03/VV + 지/EC 못하다/VX + ㄴ다/EF + ./SF
+그래서/MAJ 남01/NNG + 에게서/JKB 조금01/NNG + 만/JX 자기04/NNG + 와/JKB 유사하다03/VA + 거나/EC 다정하다/VA + ㄴ/ETM 느낌/NNG + 을/JKO 갖다01/VV + 게/EC 되다01/VV + 면/EC 쉽다/VA + 게/EC 믿다/VV + 어/EC 버리다01/VX + 어/EC 마음01/NNG + 을/JKO 열다02/VV + 고/EC 정20/NNG + 을/JKO 주다01/VV + 다가/EC 결국/NNG 치명적/NNG + 이다/VCP + ㄴ/ETM 마음01/NNG + 의/JKG 상처02/NNG + 를/JKO 받다01/VV + 고/EC 그01/MM 상처02/NNG + 를/JKO 달래다01/VV + 기/ETN 위하다01/VV + 아/EC 사회07/NNG + 와/JKB 격리되다/VV + ㄴ/ETM 한적하다01/VA + ㄴ/ETM 정신12/NNG 병원02/NNG + 에/JKB 오다01/VV + 아/EC 있다01/VX + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+아프다/VA + ㄴ/ETM 마음01/NNG + 은/JX 마음01/NNG + 으로/JKB 치유하다01/VV + 아야/EC 하다01/VX + 는데/EC 사회07/NNG + 가/JKS 각박하다/VA + 고/EC 정20/NNG + 이/JKS 없다01/VA + 을수록/EC 마음01/NNG + 으로/JKB 치유되다/VV + ㄹ/ETM 길01/NNG + 은/JX 멀다02/VA + 기/ETN + 만/JX 하다01/VX + 다/EF + ./SF
+이런01/MM 사회07/NNG 구조08/NNG + 에서/JKB 형성되다/VV + ㄴ/ETM 인간01/NNG + 들/XSN + 은/JX 대체로/MAG 어떤/MM 유형07/NNG + 이다/VCP + ㄹ까/EF + ?/SF
+극단적/NNG + 으로/JKB 보다01/VV + ㄴ다면/EC 다음01/NNG + 과/JKB 같다/VA + 지/EC 않다/VX + 을까/EF + ?/SF
+겉01/NNG + 으로/JKB + 는/JX 부드럽다/VA + 고/EC 온화하다01/VA + 나/EC 어느01/MM 정도11/NNG 이상05/NNG + 으로/JKB + ㄴ/JX 절대05/MAG 정20/NNG + 을/JKO 주다01/VV + 지/EC 않다/VX + 는다/EF + ./SF
+특히/MAG 인생01/NNG 경험/NNG + 이/JKS 많다/VA + 을수록/EC 이런01/MM 현상04/NNG + 은/JX 더욱/MAG 두드러지다/VV + ㄴ다/EF + ./SF
+겉01/NNG + 으로/JKB 드러나다/VV + 는/ETM 부드럽다/VA + 음/ETN + 에/JKB 정감03/NNG + 을/JKO 느끼다02/VV + 어/EC 마음01/NNG + 을/JKO 열다02/VV + 고/EC 들어가다01/VV + 았/EP + 다간/EC 어느01/MM 순간03/NNG 반드시/MAG 얼음01/NNG + 같이/JKB 냉혹하다/VA + ㄴ/ETM 벽06/NNG + 에/JKB 부딪히다/VV + 고/EC 말다03/VX + ㄴ다/EF + ./SF
+그01/NP + 는/JX 절대로/MAG 자기04/NP + 가/JKS 책임지다/VV + 거나/EC 손해/NNG 보다01/VV + 려고/EC 하다01/VX + 지/EC 않다/VX + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+사실04/MAG 이렇다/VA + 게/EC 살다01/VV + 면/EC 마음01/NNG + 에/JKB 상처02/NNG + 를/JKO 입다01/VV + 을/ETM 길01/NNG + 은/JX 없다01/VA + 고/EC 겉보기/NNG + 에/JKB + 는/JX 마음01/NNG + 의/JKG 문05/NNG + 을/JKO 열다02/VV + 고/EC 살다01/VV + 는/ETM 셈01/NNB + 이다/VCP + 다/EF + ./SF
+실제로/MAG 이런01/MM 사람/NNG + 들/XSN + 은/JX 많다/VA + 은/ETM 책01/NNG + 을/JKO 읽다/VV + 으면서/EC 적당히/MAG 자기04/NP + 를/JKO 치장하다01/VV + 고/EC 즐기다01/VV + ㄹ/ETM 줄04/NNB + 도/JX 알다/VV + ㄴ다/EF + ./SF
+집01/NNG + 도/JX 재산/NNG + 도/JX 다채롭다/VA + 은/ETM 즐거움/NNG + 도/JX 행복02/NNG + 도/JX 그01/NP + 의/JKG 주위02/NNG + 에/JKB + 는/JX 다03/MAG 갖추다/VV + 어/EC + 지다04/VX 있다01/VX + 다/EF + ./SF
+그러나/MAJ 이같이/MAG 살다01/VV + 면서/EC 실제로/MAG + 는/JX 정20/NNG 없이/MAG 살벌하다/VA + 고/EC 상대방02/NNG + 에게/JKB 마음01/NNG + 의/JKG 벽06/NNG + 을/JKO 쌓다/VV + 으며/EC 자기04/NP + ,/SP 자기04/NP 집안01/NNG + ,/SP 자기04/NP 식구01/NNG + 만/JX 과잉보호하다/VV + 는/ETM 분위기/NNG + 는/JX 정신12/NNG 건강03/NNG + 의/JKG 측면/NNG + 에서/JKB 보다01/VV + 면/EC 정신병/NNG + 으로/JKB 돌진하다/VV + 는/ETM 길01/NNG + 이다/VCP + 다/EF + ./SF
+이런01/MM 삶/NNG 속01/NNG + 에/JKB + 는/JX 영혼02/NNG + 과/JC 진정하다01/VA + ㄴ/ETM 자유03/NNG + 가/JKS 없다01/VA + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+정신12/NNG + 을/JKO 떠나다/VV + ㄴ/ETM 물질적/NNG + 이다/VCP + ㄴ/ETM 측면/NNG + 에서/JKB 보다01/VV + 면/EC 눈앞/NNG + 에/JKB 확실히/MAG 이득/NNG + 이/JKS 쌓이다/VV + ㄴ다/EF + 고/JKQ 계산하다/VV + ㄹ지/EC 모르다/VV + 나/EC 이면01/NNG + 에/JKB + 는/JX 모든/MM 것01/NNB + 을/JKO 한순간/NNG + 에/JKB 날리다02/VV + 어/EC 버리다01/VX + ㄹ/ETM 수02/NNB 있다01/VA + 는/ETM 정신병/NNG + 을/JKO 쌓다/VV + 고/EC 있다01/VX + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+그런01/MM 삶/NNG + 과/JC + ,/SP 눈앞/NNG + 의/JKG 비다01/VV + ㄴ/ETM 공간05/NNG + 에서/JKB 임금님/NNG + 과/JC 공주01/NNG + 를/JKO 만나다/VV + 면서/EC 환상02/NNG 속01/NNG + 에/JKB 살다01/VV + 는/ETM 자폐아/NNG + 의/JKG 삶/NNG + 은/JX 무슨/MM 차이/NNG + 가/JKS 있다01/VA + 을까/EF + ?/SF
+실제로/MAG 자폐아/NNG + 는/JX 자기04/NP + 만/JX + 의/JKG 공간05/NNG 속01/NNG + 에서/JKB 즐기다01/VV + 다가/EC 대개03/NNG + 는/JX 빨리/MAG 죽다01/VV + 고/EC 말다03/VX + ㄴ다/EF + ./SF
+정신12/NNG 치료/NNG + 는/JX 아프다/VA + 아서/EC 닫히다/VV + 어/EC 있다01/VX + 는/ETM 환자03/NNG + 의/JKG 여리다/VA + ㄴ/ETM 마음01/NNG + 을/JKO 다시01/MAG 열다02/VV + 어서/EC 냉혹하다/VA + ㄴ/ETM 사회07/NNG + 에/JKB 노출하다/VV + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+그01/NP + 들/XSN + 의/JKG 마음01/NNG + 이/JKS 아프다/VA + 다고/EC 하다01/VV + 아서/EC 계속04/MAG 가두다01/VV + 어/EC 놓다01/VX + 고/EC 어루만지다/VV + 기/ETN + 만/JX 하다01/VX + 다가/EC + 는/JX 자폐아/NNG + 같이/JKB 암흑/NNG + 의/JKG 공상10/NNG 속01/NNG + 에/JKB 한없이/MAG 묻히다02/VV + 어/EC 버리다01/VX + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+마음01/NNG + 이/JKS 아프다/VA + 다고/EC 삶/NNG 속01/NNG + 에서/JKB 철저하다/VA + 게/EC 마음01/NNG + 을/JKO 닫다02/VV + 으면서/EC 자폐적*/NNG + 으로/JKB 살아가다/VV + 는/ETM 사람/NNG + 들/XSN + 은/JX 삶/NNG 이면01/NNG + 에/JKB 죽음01/NNG + 이/JKS 있다01/VA + 고/EC 그01/MM 죽음01/NNG + 의/JKG 그림자/NNG + 는/JX 삶/NNG + 의/JKG 자세02/NNG + 에/JKB 따르다01/VV + 아/EC 언제나/MAG 쉽다/VA + 게/EC 다가오다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 다/EF + 는/ETM 사실04/NNG + 을/JKO 잊다01/VV + 지/EC 말다03/VX + 아야/EC 하다01/VX + ㄴ다/EF + ./SF
+살다01/VV + 아/EC 있다01/VX + 는/ETM 죽음01/NNG + !/SF
+그것/NP + 이/JKS 바로02/MAG 정신병/NNG + 이다/VCP + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+그림자/NNG 축제01/NNG (/SS + 오늘/NNG + 은/JX 20/SN + 년02/NNB + 마다/JX 한01/MM 번04/NNB + 씩/XSN 열리다02/VV + 는/ETM 그림자/NNG 축제01/NNG 날01/NNG + 이다/VCP + 다/EF + ./SF
+별01/NNG + 도/JX 달05/NNG + 도/JX 뜨다01/VV + 지/EC 않다/VX + 는/ETM 밤01/NNG + 이다/VCP + 기/ETN + 에/JKB 오늘/NNG + 만/JX + 은/JX 그림자/NNG + 들/XSN + 도/JX 빛/NNG + 으로부터/JKB 자유롭다/VA + 을/ETM 수02/NNB 있다01/VA + 다/EF + ./SF
+그림자/NNG + 들/XSN + 은/JX 커다랗다/VA + ㄴ/ETM 가마솥/NNG + 에/JKB 그림자/NNG + 를/JKO 집어넣다/VV + 어/EC 삶다/VV + 기/ETN + 도/JX 하다01/VX + 고/EC 가마솥/NNG 주위02/NNG + 를/JKO 돌다/VV + 며/EC 노래01/NNG + 를/JKO 부르다01/VV + 기/ETN + 도/JX 하다01/VX + ㄴ다/EF + ./SF
+새까맣다/VA + ㄴ/ETM 망토/NNG + 를/JKO 두르다/VV + ㄴ/ETM 그림자/NNG 왕04/NNG + 이/JKS 위엄/NNG 있다01/VV + 게/EC 나서다/VV + ㄴ다/EF + ./SF + )/SS
+그림자왕/NA + :/SP 자04/IC + ,/SP 우리03/NP 20/SN + 년02/NNB 만01/NNB + 에/JKB 만나다/VV + 았/EP + 으니/EC 그동안/NNG 있다01/VA + 었/EP + 던/ETM 일01/NNG + 들/XSN + 로/JKB 밤새02/NNG 회포02/NNG + 를/JKO 풀다/VV + 어/EC 보다01/VX + ㅂ시다/EF + ./SF
+누구/NP + 가/JKS 먼저/MAG 나서다/VV + 어서/EC 이05/MM 밤01/NNG + 을/JKO 즐겁다/VA + 게/EC 하다01/VX + 아/EC 주다01/VX + 시/EP + 겠/EP + 습니까/EF + ?/SF
+그림자/NNG + (/SS + 1/SN + )/SS + :/SP 저03/NP + 가/JKS 먼저/MAG 노래01/NNG + 를/JKO 부르다01/VV + 어/EC 흥04/NNG + 을/JKO 돋우다01/VV + 어/EC 보다01/VX + 겠/EP + 습니다/EF + ./SF
+나이01/NNG + 가/JKS 들다01/VV + 면/EC 요술/NNG + 의/JKG 힘01/NNG + 은/JX 약하다01/VA + 어/EC + 지다04/VX 현실02/NNG + 의/JKG 힘01/NNG + 이/JKS 강하다02/VA + 어/EC + 지다04/VX 하다01/VV + 고/EC 싶다/VX + 은/ETM 것01/NNB + 은/JX 멀리01/MAG 가다01/VV + 고/EC 하다01/VV + 기/ETN 싫다01/VA + 은/ETM 것01/NNB + 들/XSN + 만/JX 다가오다/VV + 지/EF + ./SF
+그림자/NNG + (/SS + 2/SN + )/SS + :/SP 과거03/NNG + 는/JX 연기09/NNG + 와/JKB 같다/VA + 은/ETM 것01/NNB + ./SF
+미래02/NNG + 는/JX 뭉그적뭉그적/MAG 다가오다/VV + 아/EC + 도/JX 지나가다/VV + ㄴ/ETM 것01/NNB + 은/JX 순식간/NNG + 에/JKB 흩어지다/VV + 어/EC 버리다01/VX + 어/EF + ./SF
+흐르다01/VV + 는/ETM 연기09/NNG 속01/NNG + 에/JKB 그래도/NV 남다01/VV + 는/ETM 것01/NNB + 은/JX 사랑01/NNG + 뿐/JX + !/SF
+사랑01/NNG + 이/JKS 없다01/VA + 는/ETM 과거03/NNG + 는/JX 모두01/MAG 다03/MAG 흩어지다/VV + 고/EC 말다03/VX + 니까/EC + ./SF
+그러나/MAJ 인간01/NNG 세상01/NNG + 에서/JKB 그01/MM 누구/NP + 가/JKS 장담하다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 다/EF + 는/ETM 말01/NNG + 이다/VCP + ㄴ가/EF + !/SF
+사랑하다/VV + 는/ETM 여인01/NNG + 과/JKB 일생01/NNG + 을/JKO 함께/MAG 하다01/VV + 았/EP + 다/EF + 고/JKQ + …/SE + …/SE + ./SF
+누구/NP + 가/JKS 자신하다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 는가/EF + !/SF
+사랑하다/VV + 는/ETM 사람/NNG + 과/JKB 일생01/NNG + 을/JKO 함께/MAG 하다01/VV + 았/EP + 다/EF + 고/JKQ + …/SE + …/SE + ./SF
+사랑01/NNG + 도/JX 한줄기/NNG 연기09/NNG + 에/JKB 불과하다/VA + ㄴ/ETM 것01/NNB + ./SF
+과거03/NNG + 에/JKB 파묻히다/VV + 면/EC 덧없이/MAG 흩어지다/VV + 고/EC 미래02/NNG + 에/JKB + ㄴ/ETM 다시01/MAG 새롭다/VA + 은/ETM 사랑01/NNG + 이/JKS 나타나다/VV + 아/EC 그01/NP + 를/JKO 사로잡다/VV + 지/EF + …/SE + …/SE + ./SF
+그것/NP + 이/JKS 사랑01/NNG + 의/JKG 진실02/NNG + 이다/VCP + ㄴ/ETM 것01/NNB + 을/JKO + …/SE + …/SE + ./SF
+그것/NP + 이/JKS 삶/NNG + 의/JKG 필연01/NNG + 이다/VCP + ㄴ/ETM 것01/NNB + 을/JKO + …/SE + …/SE + ./SF
+(/SS + 그림자/NNG + 들/XSN + ,/SP 박수02/NNG + ./SF + )/SS
+그림자왕/NA + :/SP 뭐/NP + ㄴ가/EF 그01/MM 노래01/NNG + 에/JKB + ㄴ/JX 사연04/NNG + 이/JKS 깃들이다/VV + 어/EC 있다01/VX + 는/ETM 것01/NNB 같다/VA + 은데/EC 얘기하다/VV + 아/EC 주다01/VX + ㄹ/ETM 수02/NNB 있다01/VA + 겠/EP + 소/EF + ?/SF
+그림자/NNG + (/SS + 2/SN + )/SS + :/SP 하도01/MAG 변덕스럽다/VA + ㄴ/ETM 사람/NNG + 들/XSN + 이/JKS 많다/VA + 아서/EC 짓다01/VV + 어/EC 보다01/VX + 았/EP + 습니다/EF + ./SF
+어제01/NNG + 까지/JX 죽다01/VV + 네/EF 살다01/VV + 네/EF 사랑01/NNG + 을/JKO 맹세하다/VV + ㄴ/ETM 사람/NNG + 이다/VCP + ㄹ수록/EC 헤어지다/VV + 면/EC 더01/MAG 밝히다/VV + 니까/EC + 요/JX + ./SF
+어째/NV 인간01/NNG + 들/XSN + 은/JX 그렇다/VA + 게/EC 잘02/MAG 변하다/VV + 는/ETM 거01/NNB + ㄹ까/EF + 요/JX + ?/SF
+그림자/NNG + (/SS + 1/SN + )/SS + :/SP 생명/NNG + 이/JKS 짧다/VA + 아서/EC 그래/NV + ./SF
+삶/NNG + 이나/JX 죽음01/NNG + 이나/JX 다03/MAG 마찬가지/NNG + ㄴ데/EC 그것/NP + 을/JKO 못04/MAG 깨닫다/VV + 고/EC 조급하다03/VA + 게/EC 인생01/NNG + 을/JKO 살다01/VV + 지/EF + ./SF
+그림자왕/NA + :/SP 역시01/MAJ 우리03/NP + 들/XSN + 끼리/XSN 모이다01/VV + 어도/EC 인간01/NNG 얘기/NNG + 부터/JX 하다01/VV + 는군/EF + 요/JX + ./SF
+그림자/NNG + (/SS + 2/SN + )/SS + :/SP 인간01/NNG 세상01/NNG + 만큼/JX 재미있다/VA + 는/ETM 곳01/NNG + 도/JX 없다01/VA + 으니까/EC + 요/JX + ./SF
+저03/NP + 가/JKS 호랑이/NNG + ,/SP 나무01/NNG + ,/SP 파도/NNG 등05/NNB 별별/MM 그림자/NNG + 를/JKO 다03/MAG 하다01/VV + 아/EC 보다01/VX + 았/EP + 지만/EC 요즘/NNG + 같이/JKB 재미있다/VA + 기/ETN + 는/JX 처음/NNG + 이다/VCP + ㅂ니다/EF + ./SF
+그림자/NNG + (/SS + 3/SN + )/SS + :/SP 나03/NP + 가/JKS 모시다/VV + 고/EC 있다01/VX + 는/ETM 주인01/NNG + 은/JX 여자02/NNG + 이다/VCP + ㄴ데/EC 또/MAJ 너무01/MAG 웃기다/VV + 어요/EF + ./SF
+자라다01/VV + ㄹ/ETM 때01/NNG + 부터/JX 도화살/NNG + 이/JKS 끼다02/VV + 었/EP + 다/EF + 는/ETM 말01/NNG + 을/JKO 자주01/MAG 듣다01/VV + 어/EC 평생/NNG 경계하다02/VV + 고/EC 살다01/VV + 았/EP + 는데/EC 결국/NNG 스스로/MAG 그01/MM 길01/NNG + 에/JKB 들어서다/VV + 고/EC 말다03/VX + 았/EP + 지/EF 뭐/NP + 이다/VCP + 에요/EF + ?/SF
+그림자/NNG + (/SS + 1/SN + )/SS + :/SP 어떻다/VA + 게/EC + 요/JX + ?/SF
+그림자/NNG + (/SS + 3/SN + )/SS + :/SP 남자02/NNG + 들/XSN + 을/JKO 안02/MAG 만나다/VV + 려고/EC 한사코/MAG 남자02/NNG + 와/JKB + 의/JKG 접촉/NNG + 을/JKO 피하다/VV + 고/EC 살다01/VV + 았/EP + 는데/EC 남자02/NNG + 를/JKO 피하다/VV + 아/EC 살다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 나/EF + 요/JX + ./SF
+취직/NNG + 을/JKO 하다01/VV + 아도/EC 집적거리다/VV + 지/EF + ,/SP 거리01/NNG + 를/JKO 걷다02/VV + 어도/EC 집적거리다/VV + 지/EF + ,/SP 결국/NNG 집01/NNG + 에/JKB + 만/JX 틀어박히다/VV + 어/EC 살다01/VV + 았/EP + 는데/EC 돈01/NNG + 도/JX 떨어지다/VV + 고/EC 도망가다/VV + ㄹ/ETM 곳01/NNG + 도/JX 없다01/VA + 어/EC + 지다04/VX 스스로/MAG 룸살롱/NNG + 으로/JKB 들어가다01/VV + 았/EP + 지/EF 뭐/NP + 이다/VCP + 에요/EF + ./SF
+그림자/NNG + (/SS + 1/SN + )/SS + :/SP 결국/NNG 마음속/NNG + 의/JKG 그림자/NNG + 가/JKS 이기다01/VV + ㄴ/ETM 거01/NNB + 로군/EF + ./SF
+그림자/NNG + (/SS + 3/SN + )/SS + :/SP 그림자/NNG + 를/JKO 무시하다/VV + 면/EC 결국/NNG 그렇다/VA + 게/EC 되다01/VV + ㄴ다니까/EF + ./SF
+사람/NNG + 들/XSN + 은/JX 평소/NNG + 에/JKB 그림자/NNG + 와/JKB 어울리다/VV + 어/EC 살다01/VV + 아야/EC 하다01/VX + ㄴ다/EF + 는/ETM 거01/NNB + ㄹ/JKO 잘02/MAG 모르다/VV + 아/EF + ./SF
+그림자왕/NA + :/SP 인간01/NNG + 들/XSN + 은/JX 항상/MAG 어리석다/VA + 지/EF + ./SF
+그래서/MAJ 자기04/NNG 암시01/NNG + 에/JKB 쉽다/VA + 게/EC 빠지다02/VV + 지/EF + ./SF
+인간01/NNG + 들/XSN + 에게/JKB 미래02/NNG + 에/JKB 대하다02/VV + ㄴ/ETM 얘기/NNG + 를/JKO 함부로/MAG 하다01/VV + 면/EC 안02/MAG 되다01/VV + 어/EF + ./SF
+자04/IC + ,/SP 우리03/NP 어리석다/VA + 은/ETM 인간01/NNG + 에/JKB 대하다02/VV + ㄴ/ETM 얘기/NNG + 는/JX 그만02/MAG 하다01/VV + 고/EC 이05/MM 짧다/VA + 은/ETM 밤01/NNG + 이/JKS 아침/NNG 이슬/NNG + 로/JKB 마치다02/VV + 기/ETN 전08/NNG + 에/JKB 마음껏/MAG 즐기다01/VV + 어/EC 보다01/VX + ㅂ시다/EF + ./SF
+(/SS + 그림자/NNG + 들/XSN + ,/SP 어둠/NNG + 과/JKB 하나/NNG + 가/JKC 되다01/VV + 어/EC 격렬하다/VA + 게/EC 춤01/NNG + 을/JKO 추다02/VV + ㄴ다/EF + ./SF + )/SS
+그림자/NNG + (/SS + 1/SN + )/SS + :/SP 나이01/NNG + 가/JKS 들다01/VV + 면/EC 요술/NNG + 의/JKG 힘01/NNG + 은/JX 약하다01/VA + 어/EC + 지다04/VX 현실02/NNG + 의/JKG 힘01/NNG + 이/JKS 강하다02/VA + 어/EC + 지다04/VX 하다01/VV + 고/EC 싶다/VX + 은/ETM 것01/NNB + 은/JX 멀리01/MAG 가다01/VV + 고/EC 하다01/VX + 기/ETN 싫다01/VA + 은/ETM 것01/NNB + 들/XSN + 만/JX 다가오다/VV + 지/EF + ./SF
+(/SS + 그림자/NNG + (/SS + 2/SN + )/SS + 가/JKS 노래01/NNG + 를/JKO 받다01/VV + 는다/EF + ./SF
+그림자/NNG 왕04/NNG + 이/JKS 나타나다/VV + 아/EC 소란하다/VA + ㄴ/ETM 실내/NNG + 를/JKO 정돈하다02/VV + ㄴ다/EF + ./SF + )/SS
+허위의식/NNG 대학01/NNG + 을/JKO 떠나다/VV + 아서/EC 생활하다/VV + ㄴ/ETM 지02/NNB + 도/JX 벌써/MAG 오랜/MM 세월02/NNG + 이/JKS 흐르다01/VV + 었/EP + 다/EF + ./SF
+정녕03/MAG 안02/MAG 잊다01/VV + 겠/EP + 다/EF + 고/JKQ + ,/SP 사랑하다/VV + 겠/EP + 다/EF + 고/JKQ 다짐하다/VV + 았/EP + 던/ETM 순간순간/NNG + 들/XSN + 은/JX 어느덧/MAG 희미하다01/VA + 어/EC + 지다04/VX 하루하루/MAG 바쁘다/VA + ㄴ/ETM 생활인/NNG + 이/JKC 되다01/VV + 고/EC 말다03/VX + 았/EP + 다/EF + ./SF
+그러나/MAJ 학창01/NNG 시절01/NNG + 의/JKG 꿈01/NNG + 과/JC 희망/NNG + 까지/JX 잃어버리다/VV + ㄴ/ETM 것01/NNB + 은/JX 아니다/VCN + 다/EF + ./SF
+그때/NNG + 의/JKG 꿈01/NNG + 은/JX 날01/NNG + 이/JKS 가다01/VV + ㄹ수록/EC 더욱더/MAG 강렬하다02/VA + 게/EC 불타오르다/VV + 고/EC 있다01/VX + 다/EF + ./SF
+학창01/NNG 시절01/NNG + 은/JX 나03/NP + 에게/JKB + 는/JX 기다리다/VV + ㅁ/ETN + 과/JC 기다리다/VV + ㅁ/ETN + 의/JKG 세월02/NNG + 이다/VCP + 었/EP + 다/EF + ./SF
+무엇/NP + 을/JKO 기다리다/VV + 는지/EF + ,/SP 진정02/MAG 원하다02/VV + 는/ETM 것01/NNB + 이/JKS 무엇/NP + 이다/VCP + ㄴ지/EF + 도/JX 모르다/VV + 면서/EC 많다/VA + 은/ETM 세월02/NNG + 을/JKO 기다리다/VV + ㅁ/ETN + 과/JC 홀로/MAG 되다01/VV + ㅁ/ETN 속01/NNG + 에서/JKB 보내다/VV + 었/EP + 다/EF + ./SF
+결국/NNG 얻다01/VV + 어/EC + 지다04/VX 지금03/NNG + !/SF
+이제01/NNG + 는/JX 나03/NP + 가/JKS 진정05/NNG + 으로/JKB 원하다02/VV + 는/ETM 것01/NNB + 을/JKO 추구하다01/VV + 며/EC 살다01/VV + 아야/EC 하다01/VX + ㄴ다/EF + ./SF
+이제01/NNG + 는/JX 그01/MM 누구/NP + 가/JKS 나03/NP + 에게/JKB 눈치/NNG + 를/JKO 주다01/VV + 지/EC + 도/JX 지도하다/VV + 지/EC + 도/JX 않다/VX + 을/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+또/MAJ 설령01/MAG 누구/NP + 가/JKS 그러다/VV + ㄴ다/EF 하다01/VV + 아도/EC 다시01/MAG + 는/JX 안02/MAG 받다01/VV + 을/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+본과/NNG 시절01/NNG 학교/NNG 잔디밭/NNG + 에/JKB 눕다01/VV + 어/EC 이런01/MM 글/NNG + 을/JKO 쓰다01/VV + ㄴ/ETM 적03/NNB + 이/JKS 있다01/VA + 다/EF + ./SF
+1981/SN + ./SF
+10/SN + ./SF
+21/SN + ./SF + (/SS + 수07/NNG + )/SS
+미소05/NNG 짓다01/VV + 고/EC 싶다/VX + 어도/EC 인사02/NNG + 를/JKO 나누다/VV + ㄹ/ETM 사람/NNG + 이/JKS 없다01/VA + 어/EC 고개01/NNG + 를/JKO 숙이다/VV + ㄴ/ETM 채09/NNB + 로/JKB 교실/NNG + 을/JKO 나서다/VV + 었/EP + 다/EF + ./SF
+길01/NNG 가다01/VV + 다/EC 만나다/VV + ㄴ/ETM 벗02/NNG + 과/JC 의대03/NNG 생활/NNG + 의/JKG 고질적/NNG + 이다/VCP + ㄴ/ETM 외로움/NNG + 에/JKB 대하다02/VV + 아/EC 얘기/NNG + 를/JKO 나누다/VV + 어도/EC 허롭다*/VA + 게/EC 또/MAJ 다른/MM 외로움/NNG + 이/JKS 찾아오다/VV + ㄴ다/EF + ./SF
+본교01/NNG + 를/JKO 찾아오다/VV + 아/EC 거닐다/VV + 면서/EC 어떤/MM 이질감*/NNG + 이/JKS 온몸/NNG + 을/JKO 둘러싸다/VV + 는/ETM 것01/NNB + 을/JKO 느끼다02/VV + ㄴ다/EF + ./SF
+잔디밭/NNG + 에서/JKB 어떤/MM 서클/NNG 회원/NNG + 들/XSN + 이/JKS 즐겁다/VA + 게/EC 대화06/NNG + 를/JKO 나누다/VV + 고/EC 있다01/VX + 다/EF + ./SF
+그01/MM 옆/NNG + 에/JKB 드러눕다/VV + 어/EC 누구/NP + 나/JX 홀로/MAG + 이다/VCP + ㄹ/ETM 수02/NNB + 밖에/JX 없다01/VA + 는/ETM 잠01/NNG 속01/NNG + 으로/JKB 빠지다02/VV + 어/EC 들다01/VV + ㄴ다/EF + ./SF + …/SE + …/SE
+인간01/NNG + 이란/JX 홀로/MAG + 이다/VCP + ㄹ/ETM 때01/NNG 이렇다/VA + 게/EC 약하다01/VA + ㄴ/ETM 것01/NNB + 이다/VCP + ㄹ까/EF + ?/SF
+서클/NNG + 에서/JKB + 의/JKG 화려하다/VA + ㄴ/ETM 언변/NNG + ,/SP 지리산/NNP 정상11/NNG + 에서/JKB + 의/JKG 캠프파이어/NNG + ,/SP 바닷가/NNG + 에서/JKB + 의/JKG 모래성/NNG 쌓다/VV + 기/ETN + …/SE + …/SE + ./SF
+어느01/MM 하나/NR 그01/MM 극치04/NNG + 까지/JX 누리다01/VV + 지/EC 않다/VX + 은/ETM 것01/NNB + 이/JKS 없다01/VA + 었/EP + 다/EF + ./SF
+그러나/MAJ 어느01/MM 것01/NNB + 도/JX 나03/NP + 를/JKO 안주시키다*/VV + ㄹ/ETM 수02/NNB + ㄴ/JX 없다01/VA + 었/EP + 다/EF + ./SF
+산악01/NNG 반11/NNG + 에서/JKB + 는/JX 어리석다/VA + 은/ETM 고착/NNG + 을/JKO 견디다/VV + ㄹ/ETM 수02/NNB 없다01/VA + 었/EP + 고/EC + ,/SP 봉사03/NNG 서클/NNG + 에서/JKB 전시04/NNG 효과적/NNG + 이다/VCP + ㄴ/ETM 낭만/NNG 추구01/NNG + 가/JKS 싫다01/VA + 었/EP + 고/EC + ,/SP 껍질/NNG + 을/JKO 못04/MAG 벗다/VV + 는/ETM 운동권/NNG + 의/JKG 이기적/NNG + 이다/VCP + ㄴ/ETM 어리석다/VA + 음/ETN + 이/JKS 싫다01/VA + 었/EP + 다/EF + ./SF
+하지만/MAJ 그01/NP + 들/XSN + 을/JKO 모두01/MAG 떠나다/VV + ㄴ/ETM 지금03/MAG 나03/NP + 는/JX 어떠하다/VA + ㄴ가/EF + ./SF
+그01/MM 화려하다/VA + 아/EC 보이다01/VV + 는/ETM 젊음/NNG + 의/JKG 낭만/NNG + 이/JKS 얼마나/MAG 공허하다02/VA + 고/EC 사람/NNG + 을/JKO 분열되다/VV + ㄴ/ETM 고독02/NNG + 으로/JKB 몰아넣다/VV + 는지/EC 똑똑히/MAG 알다/VV + 면서/EC + 도/JX 그01/NP + 들/XSN 주위02/NNG + 를/JKO 부럽다/VA + 은/ETM 듯01/NNB 맴돌다/VV + 고/EC 있다01/VX + 지/EC 않다/VX + 은가/EF + !/SF
+싸늘하다/VA + ㄴ/ETM 공기06/NNG + 가/JKS 유달리/MAG 무겁다/VA + 어/EC + 지다04/VX + 는/ETM 올해/NNG + 다/EF + ./SF
+인간01/NNG + 이/JKS 근원적*/NNG + 으로/JKB 외롭다/VA + 은/ETM 것01/NNB + 이다/VCP + 라면/EC 모든/MM 문제06/NNG + 는/JX 간단히/MAG 해결되다/VV + 는/ETM 것01/NNB + 이/JKC 아니다/VCN + ㄹ까/EF + ?/SF
+인간성/NNG + 에/JKB 대하다02/VV + ㄴ/ETM 이상09/NNG + 을/JKO 망상01/NNG + 으로/JKB 치우다01/VV + 어/EC 버리다01/VX + 면/EC 이05/MM 한01/MM 가닥/NNG 고뇌/NNG + 는/JX 사라지다/VV + 지/EC 않다/VX + 을까/EF + ?/SF
+그러나/MAJ 이05/MM 지독하다/VA + ㄴ/ETM 외로움/NNG + 은/JX 차츰/MAG 견디다/VV + 기/ETN + 가/JKS 어렵다/VA + 고/EC 비굴하다/VA + ㄴ/ETM 웃음/NNG + 과/JC 짜증/NNG 서리다01/VV + ㄴ/ETM 신경질/NNG + 이/JKS 몸01/NNG + 에/JKB 뱀/NNG + 을/JKO 느끼다02/VV + 기/ETN 시작하다01/VV + 는/ETM 요즘/NNG + 이다/VCP + 다/EF + ./SF
+귀01/NNG + 에/JKB 들리다03/VV + 는/ETM 감미롭다/VA + 은/ETM 팝송/NNG + 이나/JC 열망01/NNG + 으로/JKB 수놓다/VV + 아/EC + 지다04/VX + ㄴ/ETM 많다/VA + 은/ETM 시13/NNG + 들/XSN + 이/JKS 전부05/MAG 홀로/MAG + 이다/VCP + ㄹ/ETM 수02/NNB + 밖에/JX 없다01/VA + 는/ETM 인간01/NNG + 의/JKG 홀로/MAG + 만/JX + 의/JKG 외침01/NNG + 으로/JKB 여기다/VV + 어/EC + 지다04/VX + ㄴ다/EF + ./SF
+가슴속/NNG + 에/JKB + ㄴ/JX 어리석다/VA + 은/ETM 고뇌/NNG + 와/JC 얼어붙다/VV + 은/ETM 냉기03/NNG + 가/JKS 가득하다01/VA + 고/EC + ,/SP 입가/NNG + 에/JKB + ㄴ/JX 냉소적/NNG + 이다/VCP + ㄴ/ETM 자조03/NNG + 와/JC 원인02/NNG 모르다/VV + ㄹ/ETM 비웃음/NNG + 이/JKS 그려지다*/VV + 고/EC + ,/SP 발길/NNG + 은/JX 모두01/NNG + 와/JKB 단절되다03/VV + ㄴ/ETM 자기04/NP + 만/JX + 의/JKG 이기적/NNG + 이다/VCP + ㄴ/ETM 모래성/NNG + 으로/JKB 향하다/VV + 어/EC + 지다04/VX 나03/NP + 는/JX 그야말로/MAG 오늘/NNG + 의/JKG 명륜골/NNP + 이/JKS 낳다01/VV + 은/ETM 무덤/NNG + 의/JKG 수호신/NNG 스핑크스/NNP + 이다/VCP + ㄴ가/EF + ?/SF
+그01/MM 오랜/MM 학창01/NNG 시절01/NNG + 을/JKO 기다리다/VV + ㅁ/ETN 속01/NNG + 에서/JKB 보내다/VV + ㄴ/ETM 것01/NNB + 은/JX 무엇/NP 때문/NNB + 이다/VCP + 었/EP + 을까/EF + ?/SF
+그거/NP + ㄴ/JX 바로02/MAG 나03/NP + 를/JKO 둘러싸다/VV + ㄴ/ETM 수많다/VA + 은/ETM 허위의식/NNG 때문/NNB + 이다/VCP + 었/EP + 다/EF + ./SF
+의사12/NNG + 는/JX 의당/MAG 이렇다/VA + 게/EC 살다01/VV + 아야/EC 하다01/VX + 고/EC + ,/SP 이렇다/VA + 게/EC 저렇다/VA + 게/EC 살다01/VV + 아야/EC 성공하다/VV + ㄴ/ETM 삶/NNG + 이다/VCP + 라/EF + 는/ETM 강하다02/VA + ㄴ/ETM 허위의식/NNG + 들/XSN + ./SF
+거부하다/VV + 면/EC 당장02/NNG + 에/JKB 위태롭다/VA + 기/ETN + 라도/JX 하다01/VV + ㄹ/ETM 양02/NNB 그것/NP + 들/XSN + 은/JX 크다01/VA + 고/EC 강하다02/VA + 고/EC 일관성/NNG 있다01/VV + 게/EC 엄습하다/VV + 아/EC 오다01/VX + 았/EP + 다/EF + ./SF
+그때/NNG 그것/NP + 들/XSN + 은/JX 너무01/MAG + 도/JX 강하다02/VA + 았/EP + 다/EF + ./SF
+그래서/MAJ 맞서다/VV + ㄹ/ETM 수02/NNB + 가/JKS 없다01/VA + 었/EP + 다/EF + ./SF
+그러나/MAJ 이제01/NNG + 는/JX 분명히/MAG 알다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 고/EC + ,/SP 똑바로/MAG 보다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 다/EF + ./SF
+그것/NP + 들/XSN + 은/JX 바로02/MAG 어둠/NNG + 이다/VCP + 라/EF + 는/ETM 것01/NNB + 을/JKO + …/SE + …/SE + ./SF
+현재02/NNG + 를/JKO 담보03/NNG + 로/JKB 확실하다/VA + ㄴ/ETM 미래02/NNG + 를/JKO 얻다01/VV + 으라/EF + 는/ETM 악마02/NNG + 의/JKG 흥정/NNG + 이다/VCP + 라/EF + 는/ETM 것01/NNB + 을/JKO + …/SE + …/SE + ./SF
+확실하다/VA + ㅁ/ETN + 을/JKO 보장하다01/VV + 는/ETM 듯하다/VX + ㄴ/ETM 그러하다/VA + ㄴ/ETM 허위의식/NNG + 들/XSN 속01/NNG + 에서/JKB 얻다01/VV + 게/EC 되다01/VV + 는/ETM 것01/NNB + 은/JX 항상/MAG 불안01/NNG + 뿐/JX + 이다/VCP + ㄴ/ETM 우유부단하다/VA + ㄴ/ETM 삶/NNG + 이다/VCP + 라/EF + 는/ETM 것01/NNB + 을/JKO + …/SE + …/SE + ./SF
+확실하다/VA + ㄴ/ETM 것01/NNB + 은/JX 처음/NNG + 부터/JX 아무것/NNG + 도/JX 없다01/VA + 고/EC 미래02/NNG + 에/JKB + 도/JX 없다01/VA + 다/EF + ./SF
+오직01/MAG 있다01/VA + 다면/EC 순간순간/MAG 자기04/NP + 가/JKS 선택하다/VV + 는/ETM 자기04/NP + 만/JX + 의/JKG 삶/NNG + 이/JKS 있다01/VA + 을/ETM 뿐01/NNB + 이다/VCP + 다/EF + ./SF
+이제01/MAG 세월02/NNG + 이/JKS 흐르다01/VV + 어/EC 안암동/NNP + 으로/JKB 캠퍼스/NNG + 를/JKO 옮기다/VV + ㄴ/ETM 지금03/NNG + ,/SP 후배06/NNG + 들/XSN + 의/JKG 학창01/NNG 생활/NNG + 은/JX 어떻다/VA + ㄴ지/EF 참으로/MAG 궁금하다01/VA + 다/EF + ./SF
+행여/MAG 안암동/NNP + 에서/JKB + 도/JX 그01/MM 수많다/VA + 은/ETM 허위의식/NNG + 들/XSN + 이/JKS 또다시/MAG 습관/NNG + 처럼/JKB 기승02/NNG + 을/JKO 부리다02/VV + 고/EC 있다01/VX + 는/ETM 거01/NNB + ㄴ/JX 아니다/VCN + ㄴ지/EF + ,/SP 또다시/MAG 한구석/NNG + 에서/JKB 무덤/NNG + 의/JKG 수호신/NNG 스핑크스/NNP + 가/JKS 자라다01/VV + 고/EC 있다01/VX + 는/ETM 거01/NNB + ㄴ/JX 아니다/VCN + ㄴ지/EF 궁금하다01/VA + 기/ETN + 만/JX 하다01/VX + ㄹ/ETM 뿐01/NNB + 이다/VCP + 다/EF + ./SF
+무심지도극*/NNG 무대06/NNG 위01/NNG + 에/JKB 한01/MM 환자03/NNG + 가/JKS 올라오다/VV + 았/EP + 다/EF + ./SF
+그01/NP + 는/JX 뭐/NP + ㄹ/JKO 어떻다/VA + 게/EC 하다01/VV + 아야/EC 하다01/VX + ㄹ지/EC 어리둥절하다/VA + 어/EC + 하다01/VX + 며/EC 나03/NP + 를/JKO 바라보다/VV + ㄴ다/EF + ./SF
+그러나/MAJ 나03/NP 또한/MAJ 그01/MM 못지않다/VA + 게/EC 어리둥절하다/VA + 다/EF + ./SF
+그러나/MAJ 용기02/NNG + 를/JKO 잃다/VV + 어서/EC + 는/JX 안02/MAG 되다01/VV + ㄴ다/EF + ./SF
+그01/NP + 와/JC 나03/NP + ,/SP 그룹01/NNG 사이01/NNG + 에/JKB 어색하다02/VA + ㄴ/ETM 침묵/NNG + 과/JC 긴장/NNG + 이/JKS 흐르다01/VV + ㄴ다/EF + ./SF
+그01/MM 긴장/NNG + 이/JKS 무르익다/VV + 을/ETM 때01/NNG + 쯤/XSN 나03/NP + 의/JKG 속01/NNG + 에서/JKB 울리다01/VV + 어/EC 나오다/VV + 는/ETM 소리01/NNG + 가/JKS 있다01/VA + 다/EF + ./SF
+나03/NP + 는/JX 무조건/MAG 무대06/NNG 위01/NNG + 로/JKB 올라가다/VV + ㄴ다/EF + ./SF
+그리고/MAJ 그01/MM 순간03/NNG + 에/JKB 그01/NP + 와/JKB 만나다/VV + 아/EC 사이코드라마/NNG + 를/JKO 시작하다01/VV + ㄴ다/EF + ./SF
+사이코드라마/NNG + 에/JKB 한번/NNG 참여하다/VV + 아/EC 보다01/VX + ㄴ/ETM 사람/NNG + 들/XSN + 은/JX 대개03/MAG 다03/MAG 사이코드라마/NNG + 에/JKB 매료되다/VV + ㄴ다/EF + ./SF
+대학생/NNG + 들/XSN + 은/JX 사이코드라마/NNG + 를/JKO 아편01/NNG + 이다/VCP + 라/EF 하다01/VV + 기/ETN + 도/JX 하다01/VV + 고/EC + ,/SP 어떤/MM 연극인/NNG + 들/XSN + 은/JX "/SS + 동숭동/NNP + 에서/JKB 하다01/VV + 는/ETM 어떤/MM 연극/NNG + 보다/JKB 사이코드라마/NNG + 가/JKS 재미있다/VA + 다/EF + "/SS + ,/SP "/SS + 사이코드라마/NNG + 를/JKO 한번/NNG 보다01/VV + 니/EC 다른/MM 연극/NNG + 들/XSN + 은/JX 재미01/NNG + 가/JKS 없다01/VA + 어/EC 못04/MAG 보다01/VV + 겠/EP + 다/EF + "/SS + 고/JKQ + 까지/JX 하다01/VV + ㄴ다/EF + ./SF
+나03/NP 또한/MAJ 사이코드라마/NNG + 를/JKO 하다01/VV + 다/EC 보다01/VX + 니/EC 나03/NP + 가/JKS 접하다01/VV + ㄴ/ETM 어떠하다/VA + ㄴ/ETM 학파/NNG + 의/JKG 구구절절하다/VA + ㄴ/ETM 얘기/NNG + 보다/JKB 사이코드라마/NNG + 가/JKS 더01/MAG 매력/NNG + 을/JKO 주다01/VV + ㄴ다/EF + ./SF
+사이코드라마/NNG + 의/JKG 매력/NNG + 은/JX 어디01/NP + 에/JKB 있다01/VA + 는/ETM 것01/NNB + ㄹ까/EF + ?/SF
+작두01/NNG + 를/JKO 타다02/VV + 고/EC 무당01/NNG + 이/JKS 춤01/NNG + 을/JKO 추다02/VV + ㄴ다/EF + ./SF
+그01/NP + 는/JX 칼날/NNG 위01/NNG + 에서/JKB 신09/NNG + 의/JKG 뜻/NNG + 을/JKO 받다01/VV + 고/EC 공수01/NNG + 를/JKO 하다01/VV + ㄴ다/EF + ./SF
+그런데/MAJ 무어01/NP + ㄴ가/EF 석연하다/VA + 지/EC 않다/VX + 는/ETM 느낌/NNG + 이/JKS 자신01/NNG + 을/JKO 휘감다/VV + 는다/EF + ./SF
+무당01/NNG + 은/JX 지체04/NNG 없이/MAG 일갈/NNG + 을/JKO 하다01/VV + ㄴ다/EF + ./SF
+"/SS + 게03/NP 누구/NP + 냐/EF + ,/SP 썩01/MAG 나서다/VV + 거라/EF + ,/SP 이05/MM 자리01/NNG + 를/JKO 부정하다04@/VA + 게/EC 하다01/VX + ㄴ/ETM 자18/NNB + 가/JKS + …/SE + …/SE + ./SF + "/SS
+구경꾼/NNG 가운데/NNG 한01/MM 사람/NNG + 이/JKS 비틀거리다/VV + 며/EC 나오다/VV + 아/EC 엎드리다/VV + 어/EC 자기04/NP + 의/JKG 죄03/NNG + 를/JKO 고백하다/VV + ㄴ다/EF + ./SF
+무당01/NNG + 은/JX 그제서야*/MAG 기분01/NNG + 이/JKS 홀가분하다/VA + 어/EC + 지다04/VX + ㅁ/ETN + 을/JKO 느끼다02/VV + 며/EC 계속04/MAG 신09/NNG + 의/JKG 뜻/NNG + 을/JKO 받다01/VV + 는다/EF + ./SF
+이때/NNG 일갈/NNG + 을/JKO 하다01/VV + 지/EC 않다/VX + 으면/EC 작두날/NNG + 에/JKB 발01/NNG + 이/JKS 베이다/VV + ㄴ다/EF + 고/JKQ 하다01/VV + ㄴ다/EF + ./SF
+이05/NP + 는/JX 김금화/NNP 만신01/NNG + 의/JKG 일화04/NNG + 다/EF + ./SF
+이러하다/VA + ㄴ/ETM 굿01/NNG + 은/JX 고도08/NNG + 의/JKG 사이코드라마/NNG + 로/JKB 앞/NNG + 으로/JKB 우리03/NP + 의/JKG 사이코드라마/NNG + 가/JKS 지향하다01/VV + 아/EC 나가다/VX + 아야/EC 하다01/VX + ㄹ/ETM 수준/NNG + 이다/VCP + 라/EF + 고/JKQ 생각하다/VV + ㄴ다/EF + ./SF
+나03/NP + 의/JKG 경험/NNG + 으로/JKB + 는/JX 사이코드라마/NNG + 의/JKG 매력/NNG + 은/JX 미지05/NNG + 의/JKG 상황02/NNG + 에/JKB 자신01/NNG + 을/JKO 던지다/VV + ㅁ/ETN + (/SS + spontaneity/SL + )/SS + 에/JKB 있다01/VA + 다/EF + ./SF
+아무01/NP + 도/JX 알다/VV + ㄹ/ETM 수02/NNB 없다01/VA + 는/ETM + ,/SP 시시각각/NNG 다가오다/VV + 는/ETM 미래02/NNG + (/SS + here/SL &/SW now/SL + )/SS + 라/EF + 는/ETM 짙다02/VA + 은/ETM 안개/NNG 끼다02/VV + ㄴ/ETM 길01/NNG + 을/JKO 아무런/MM 등불/NNG + 도/JX 지침02/NNG + 도/JX 없이/MAG 그저/MAG 마음속/NNG 깊다/VA + 은/ETM 곳01/NNG + 에서/JKB 울리다01/VV + 어/EC 나오다/VV + 는/ETM 신09/NNG + 의/JKG 소리01/NNG + 를/JKO 따르다01/VV + 아/EC 결국/NNG + 은/JX 신09/NNG + 이/JKS 구원하다02/VV + 아/EC 주다01/VX + ㄹ/ETM 것01/NNB + 만/JX + 을/JKO 믿다/VV + 으며/EC 겸손하다/VA + 게/EC 더듬다/VV + 어/EC 찾아가다/VV + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+여기01/NP + 에/JKB + 는/JX 의지하다/VV + ㄹ/ETM 만하다/VX + ㄴ/ETM 아무런/MM 기법01/NNG + 도/JX 원칙/NNG + 도/JX 없다01/VA + 다/EF + ./SF
+나03/NP + 가/JKS 만일01/NNG 어떤/MM 예정되다/VV + ㄴ/ETM 의도02/NNG + 를/JKO 갖다01/VV + 고/EC 주연자/NNG + 와/JKB 부대끼다/VV + 면/EC + ,/SP 대개03/MAG 그01/MM 상황02/NNG + 은/JX 빗나가다/VV + 고/EC 나03/NP + 는/JX 그01/MM 인간01/NNG + 과/JKB 만나다/VV + ㄹ/ETM 수02/NNB + 가/JKS 없다01/VA + 다/EF + ./SF
+그01/MM 과정03/NNG + 은/JX 아무01/NP + 도/JX 예측하다/VV + ㄹ/ETM 수02/NNB 없다01/VA + 는/ETM 것01/NNB + 이다/VCP + 기에/EC + ,/SP 그러나/MAJ 궁극적/NNG + 으로/JKB + 는/JX 구원05/NNG + 이다/VCP + 라/EF + 는/ETM 해결02/NNG + 을/JKO 안기다02/VV + 어/EC 주다01/VX + 기에/EC + (/SS + catharsis/SL + )/SS 추리04/NNG 극05/NNG + 을/JKO 풀다/VV + 어/EC 나가다/VX + 는/ETM 듯하다/VX + ㄴ/ETM 스릴/NNG + 과/JC 재미01/NNG + 를/JKO 주다01/VV + ㄴ다/EF + ./SF
+사이코드라마/NNG + 의/JKG 원리02/NNG 속01/NNG + 에/JKB + 는/JX 인간01/NNG + 이/JKS 가지다/VV + 어야/EC 하다01/VX + ㄹ/ETM 기본적/NNG + 이다/VCP + ㄴ/ETM 자세02/NNG + 가/JKS 있다01/VA + 다/EF + ./SF
+인간01/NNG + 은/JX 미래02/NNG + 에/JKB 대하다02/VV + 아/EC 아무것/NNG + 도/JX 주장하다01/VV + ㄹ/ETM 수02/NNB 없다01/VA + 고/EC + ,/SP 단지04/MAJ 겸허하다/VA + 게/EC 기다리다/VV + 며/EC 노력하다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 을/ETM 뿐01/NNB + 이다/VCP + 라/EF + 는/ETM + …/SE + …/SE + ./SF
+나03/NP + 는/JX 사이코드라마/NNG + 를/JKO 하다01/VV + 면서/EC 모레노/NNP + 가/JKS 만들다/VV + ㄴ/ETM '/SS + 사이코드라마/NNG + '/SS + 라/JKQ + 는/ETM 용어02/NNG + 에/JKB 대하다02/VV + 아/EC 상당히/MAG 거부감*/NNG + 을/JKO 느끼다02/VV + 어/EC 오다01/VX + 았/EP + 다/EF + ./SF
+왜냐하면/MAJ 사이코드라마/NNG + 는/JX 태고01/NNG 때01/NNG + 부터/JX 있다01/VV + 어/EC 오다01/VX + ㄴ/ETM 것01/NNB + 으로/JKB 모레노/NNP + 가/JKS 발견하다01/VV + 고/EC 창시하다/VV + ㄴ/ETM 것01/NNB + 이/JKC 아니다/VCN + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+그러나/MAJ 아무리/MAG 다른/MM 말01/NNG + 들/XSN + 을/JKO 생각하다/VV + 아/EC 보다01/VX + 아도/EC 그만하다/VA + ㄴ/ETM 느낌/NNG + 을/JKO 주다01/VV + 는/ETM 용어02/NNG + 를/JKO 발견하다01/VV + ㄹ/ETM 수02/NNB 없다01/VA + 었/EP + 다/EF + ./SF
+그래도/NV 굳이/MAG 다른/MM 새롭다/VA + 은/ETM 용어02/NNG + 를/JKO 찾다/VV + 는다면/EC 무심지도극*/NNG + (/SS + 無心之道劇/SH + )/SS + 이다/VCP + 라/EF + 고/JKQ + 나/JX 하다01/VV + ㄹ까/EF + ./SF
+현대01/NNG + 의/JKG 메디아/NNP + 들/XSN 인간01/NNG + 의/JKG 분노/NNG + 는/JX 어떻다/VA + 게/EC 결말/NNG + 을/JKO 맺다/VV + 을까/EF + ?/SF
+</SS + 로미오와줄리엣/NNP + >/SS + 은/JX "/SS + 이05/NP + 보다/JKB 더01/MAG 불행하다/VA + ㄴ/ETM 얘기/NNG + 가/JKS 세상01/NNG + 에/JKB 또/MAJ 어디01/NP 있다01/VA + 으랴/EF + "/SS + 로/JKB 막05/NNG + 을/JKO 내리다01/VV + 고/EC + ,/SP </SS + 메디아/NNP + >/SS + 에서/JKB + 는/JX 남편01/NNG + 에게/JKB 버림받다/VV + 고/EC 돌아가다/VV + ㄹ/ETM 데01/NNB 없다01/VA + 는/ETM 메디아/NNP + 를/JKO 천하01/NNG + 에/JKB 가엾다/VA + 고/EC 불쌍하다/VA + ㄴ/ETM 여인01/NNG + 으로/JKB 묘사하다/VV + 았/EP + 다/EF + ./SF
+그러나/MAJ 두01/MM 작품01/NNG + 을/JKO 한결같이/MAG 비극/NNG + 으로/JKB 매듭짓다/VV + 는/ETM 것01/NNB + 은/JX 부모01/NNG + 의/JKG 분노/NNG 때문/NNB + 에/JKB 애꿎다/VA + 게/EC 희생당하다*/VV + 는/ETM 자식01/NNG + 들/XSN + 이다/VCP + 다/EF + ./SF
+캐퓰리트/NNP + 와/JC 몬테규/NNP + 가/XSN + 의/JKG 반목01/NNG 때문/NNB + 에/JKB 사랑01/NNG + 을/JKO 이루다01/VV + 지/EC 못하다/VX + 고/EC 자살하다01/VV + 는/ETM 두01/MM 젊은이/NNG + ,/SP 야슨/NNP + 과/JC 메디아/NNP + 의/JKG 반목01/NNG 때문/NNB + 에/JKB 살해당하다*/VV + 는/ETM 두01/MM 아이01/NNG + 들/XSN + !/SF
+</SS + 메디아/NNP + >/SS + 에서/JKB + 는/JX 어머니01/NNG + 가/JKS 자식01/NNG + 을/JKO 죽이다01/VV + 는/ETM 장면04/NNG + 까지/JX 묘사하다/VV + 아/EC 그01/MM 불행/NNG + 을/JKO 더욱/MAG 섬뜩하다/VA + 게/EC 하다01/VX + ㄴ다/EF + ./SF
+인간01/NNG + 을/JKO 불행/NNG + 으로/JKB 몰아넣다/VV + 는/ETM 것01/NNB + 은/JX 무엇/NP + 이다/VCP + ㄹ까/EF + ?/SF
+바로02/MAG 이05/NP + 처럼/JKB 주체01/NNG + 를/JKO 못하다/VV + 는/ETM + ,/SP 풀다/VV + ㄹ/ETM 수02/NNB 없다01/VA + 는/ETM 분노/NNG + 가/JKC 아니다/VCN + ㄹ까/EF + ?/SF
+언젠가/MAG </SS + 적과의동침/NNP + >/SS + 이라/JKQ + 는/ETM 영화01/NNG + 를/JKO 보다01/VV + 고/EC 영화01/NNG + 보다/JKB + 는/JX 제목02/NNG + 에/JKB 감명/NNG + 을/JKO 받다01/VV + 은/ETM 적03/NNB + 이/JKS 있다01/VA + 다/EF + ./SF
+인간01/NNG + 들/XSN + 은/JX 적13/NNG + 과/JKB + 도/JX 동침하다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 어야/EC 보다02/MAG 성숙하다/VV + ㄴ/ETM 한01/MM + 걸음/NNG 내디디다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 다/EF + ./SF
+그러나/MAJ 보통/NNG 사람/NNG + 들/XSN + 은/JX 이05/NP + 를/JKO 상상07/NNG + 도/JX 하다01/VV + ㄹ/ETM 수02/NNB 없다01/VA + 다/EF + ./SF
+밉다/VA + 은/ETM 사람/NNG + 은/JX 꼴01/NNG + 도/JX 보다01/VV + 기/ETN 싫다01/VA + 고/EC 가능하다/VA + ㄴ/ETM 한06/NNG 최선02/NNG + 을/JKO 다하다/VV + 아서/EC 그01/NP + 의/JKG 마음01/NNG + 을/JKO 아프다/VA + 게/EC 하다01/VX + 아/EC 주다01/VX + 고/EC 싶다/VX + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+그러나/MAJ 적13/NNG + 과/JKB 손01/NNG + 을/JKO 잡다01/VV + 을/ETM 수02/NNB 있다01/VA + 는/ETM 사람/NNG + 만/JX + 이/JKS 이05/MM 고달프다/VA + ㄴ/ETM 인생사*/NNG + 를/JKO 지혜롭다/VA + 게/EC 헤치다/VV + 어/EC 가다01/VX + ㄹ/ETM 수02/NNB 있다01/VA + 다/EF + ./SF
+적13/NNG + 이란/JX 다르다01/VA + ㅁ/ETN 아니다/VCN + ㄴ/ETM 자기04/NNG + 의/JKG 무의식/NNG 속01/NNG + 에/JKB 드리워지다/VV + ㄴ/ETM 의식03/NNG + 의/JKG 그림자/NNG + 이다/VCP + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+</SS + 메디아/NNP + >/SS + 는/JX 비록01/MAG 그리스/NNP 시대02/NNG + 의/JKG 비극/NNG + 이다/VCP + 기/ETN + ㄴ/JX 하다01/VV + 지만/EC 오늘/NNG + 을/JKO 살다01/VV + 는/ETM 우리03/NP + 들/XSN + 에게/JKB + 도/JX 필연적/NNG + 으로/JKB 있다01/VA + 을/ETM 수02/NNB + 밖에/JX 없다01/VA + 는/ETM 어떤/MM 심리01/NNG + 를/JKO 공감하다/VV + 게/EC 하다01/VX + 아/EC 주다01/VX + ㄴ다/EF + ./SF
+사랑01/NNG + 에/JKB 배신당하다*/VV + 고/EC 참혹하다/VA + ㄴ/ETM 일01/NNG + 을/JKO 저지르다/VV + 는/ETM 메디아/NNP + !/SF
+잘살다/VV + 는/ETM 것01/NNB + 보다/JKB + 는/JX 사랑01/NNG + 을/JKO 더01/MAG 소중히/MAG 하다01/VV + 고/EC + ,/SP 배신당하다*/VV + 았/EP + 을/ETM 때01/NNG + 는/JX 자기04/NP + 가/JKS 아프다/VA + ㄴ/ETM 만큼/NNB 똑같이/MAG 복수하다03/VV + 고자/EC 하다01/VV + 는/ETM 심리01/NNG + !/SF
+이런01/MM 마음01/NNG + 은/JX 정도11/NNG 차이/NNG + 는/JX 있다01/VA + 을지언정/EC 누구/NP + 에게/JKB + 나/JX 다03/MAG 존재하다/VV + ㄹ/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+언젠가/MAG 부인01/NNG + 이/JKS 바람01/NNG + 을/JKO 피우다01/VV + 자/EC 그01/MM 상대04/NNG + 를/JKO 칼01/NNG + 로/JKB 찌르다/VV + 고/EC 토막01/NNG 살인하다/VV + 아/EC 내버리다/VV + ㄴ/ETM 사건01/NNG + 이/JKS 신문10/NNG 지상10/NNG + 에/JKB 크다01/VA + 게/EC 보도되다/VV + ㄴ/ETM 적03/NNB + 이/JKS 있다01/VA + 다/EF + ./SF
+이05/NP + 들/XSN + 이/JKS 바로02/MAG 현대01/NNG + 의/JKG 메디아/NNP + 다/EF + ./SF
+그러나/MAJ 이런01/MM 일01/NNG + 은/JX 사회적/NNG + 으로/JKB 용납되다/VV + 지/EC 않다/VX + 기에/EC 보통/NNG 사람/NNG + 들/XSN + 은/JX 자기04/NNG 마음속/NNG + 의/JKG 메디아/NNP + 를/JKO 꼭꼭01/MAG 누르다01/VV + 고/EC 살다01/VV + ㄴ다/EF + ./SF
+그렇다/VA + 다면/EC 어떤/MM 사람/NNG + 들/XSN + 이/JKS 소중하다/VA + ㄴ/ETM 다른/MM 것01/NNB + 들/XSN + 은/JX 모두01/MAG 다03/MAG 팽개치다/VV + 어/EC 두다01/VX + 고/EC 그런01/MM 잔혹하다/VA + ㄴ/ETM 심리01/NNG + 에/JKB 말려들다/VV + 게/EC 되다01/VV + 고/EC 말다03/VX + 는/ETM 거01/NNB + ㄹ까/EF + ./SF
+그리고/MAJ 그01/MM 잔혹하다/VA + ㄴ/ETM 심리01/NNG + 의/JKG 배경01/NNG + 은/JX 어디01/NP + 에/JKB 있다01/VA + 는/ETM 거01/NNB + ㄹ까/EF + ?/SF
+코러스/NNG + :/SP 아기01/NNG + 들/XSN + 은/JX 어미01/NNG + 의/JKG 손01/NNG + 에/JKB 죽다01/VV + 었/EP + 습니다/EF + ./SF
+야슨/NA + :/SP 아니02/IC + ,/SP 그거/NP + 이/JKS 정말01/NNG + 이다/VCP + ㄴ가/EF + ?/SF
+아아01/IC + ,/SP 이05/MM 천하에/IC 사악하다01/VA + ㄴ/ETM 인간01/NNG + ./SF
+저03/NP + 가/JKS 낳다01/VV + 은/ETM 자식01/NNG + 을/JKO 저03/NP + 의/JKG 손01/NNG + 으로/JKB 칼01/NNG + 을/JKO 휘두르다01/VV + 어/EC 죽이다01/VV + 다니/EF + …/SE + …/SE + ./SF
+메디아/NNP + :/SP 그01/MM 아이01/NNG + 들/XSN + 은/JX 아비01/NNG + 의/JKG 죄03/NNG + 에/JKB 걸리다01/VV + 어/EC 죽음01/NNG + 을/JKO 당하다01/VV + ㄴ/ETM 것01/NNB + 이다/VCP + 오/EF + ./SF
+야슨/NA + :/SP 무슨/MM 소리01/NNG + ./SF
+그01/MM 아이01/NNG + 들/XSN + 을/JKO 죽이다01/VV + ㄴ/ETM 것01/NNB + 은/JX 나03/NP + 의/JKG 손01/NNG + 이/JKC 아니다/VCN + 야/EF + ./SF
+메디아/NNP + :/SP 하지만/MAJ 당신02/NP + 의/JKG 그01/MM 오만02/NNG + ,/SP 그리고/MAJ 새장가/NNG + …/SE + …/SE + ./SF
+야슨/NA + :/SP 바로02/MAG 그거/NP + 이/JKS 밉다/VA + 어서/EC 아이01/NNG + 들/XSN + 을/JKO 해치다/VV + 기/ETN + 로/JKB 작정하다01/VV + 았/EP + 다/EF + ㄴ/ETM 말01/NNG + 이다/VCP + ㄴ가/EF + ?/SF
+메디아/NNP + :/SP 그01/MM 고통/NNG + 을/JKO 아무렇다/VA + 게/EC + 나/JX 생각하다/VV + ㄹ/ETM 여자02/NNG + 가/JKS 어디01/NP 있다01/VA + 을까/EF + ?/SF
+그렇다/VA + 다/EF + ./SF
+인간01/NNG + 의/JKG 오만02/NNG + 과/JC 욕심/NNG + 이/JKS 참혹하다/VA + ㄴ/ETM 비극/NNG + 의/JKG 씨앗/NNG + 을/JKO 잉태하다/VV + ㄴ다/EF + ./SF
+욕심/NNG + 은/JX 죄악/NNG + 을/JKO 낳다01/VV + 고/EC 죄악/NNG + 은/JX 죽음01/NNG + 을/JKO 부르다01/VV + 나니/EC + …/SE + …/SE + ./SF
+그리고/MAJ 억제하다/VV + ㄹ/ETM 수02/NNB 없이/MAG 치밀다/VV + 어/EC 오르다/VV + 는/ETM 그01/MM 분노/NNG + 가/JKS 또/MAJ 인간01/NNG + 을/JKO 극한01/NNG + 의/JKG 불행/NNG + 으로/JKB 몰아가다/VV + ㄴ다/EF + ./SF
+어쩌면/MAG 이05/MM 작품01/NNG + 은/JX 인간01/NNG + 이/JKS 땅01/NNG 위01/NNG + 에서/JKB 살다01/VV + 려면/EC 겸허하다/VA + 아야/EC 하다01/VX + 고/EC 또/MAJ 분노/NNG + 를/JKO 잘02/MAG 다스리다/VV + 어야/EC 하다01/VX + ㅁ/ETN + 을/JKO 일깨우다02/VV + 어/EC 주다01/VX + 는지/EF + 도/JX 모르다/VV + ㄴ다/EF + ./SF
+그러나/MAJ 인간01/NNG + 은/JX 오만02/NNG + 과/JC 분노/NNG + 를/JKO 이기다01/VV + ㄹ/ETM 수02/NNB 없다01/VA + 는/ETM 약하다01/VA + ㄴ/ETM 존재/NNG + 이다/VCP + 기에/EC 사랑01/NNG + 의/JKG 배신02/NNG + 에/JKB 대하다02/VV + ㄴ/ETM 분노/NNG + 는/JX 결국/NNG 피02/NNG + 를/JKO 보다01/VV + 아야/EC 그치다/VV + 고/EC 말다03/VV + 는/ETM 거01/NNB + ㄹ까/EF + ?/SF
+그러나/MAJ 이05/MM 작품01/NNG + 의/JKG 말미02/NNG + 는/JX 인간01/NNG + 으로서/JKB 가지다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 는/ETM 성숙하다/VV + ㄴ/ETM 해결책/NNG + 도/JX 제시하다01/VV + 아/EC 주다01/VX + ㄴ다/EF + ./SF
+오만하다/VA + 고/EC 나약하다/VA + ㄴ/ETM 인간01/NNG + 에게/JKB 겸허하다/VA + ㄴ/ETM 자기04/NNG 본성02/NNG + 을/JKO 일깨우다02/VV + 어/EC 주다01/VX + 고/EC 분노/NNG + 의/JKG 자제02/NNG + 를/JKO 엄숙하다/VA + 게/EC 경고하다02/VV + ㄴ다/EF + ./SF
+아르테미스/NNP + :/SP 메디아/NNP + ,/SP 너01/NP + 의/JKG 피02/NNG 묻다01/VV + 은/ETM 손01/NNG + 을/JKO 보다01/VV + 아/EF + ./SF
+이제01/MAG 남다01/VV + 은/ETM 것01/NNB + 은/JX 무엇/NP + 이다/VCP + 지/EF + ?/SF
+다른/MM 곳01/NNG + 으로/JKB 헤라/NNP + (/SS 사랑01/NNG + )/SS + 를/JKO 따르다01/VV + 아/EC 도망가다/VV + ㄴ다고/EC 새롭다/VA + 은/ETM 땅01/NNG + 이/JKS 펼치다02/VV + 어/EC + 지다04/VX + ㄹ/ETM 것01/NNB + 이다/VCP + 라/EF + 고/JKQ 생각하다/VV + 나/EF + ?/SF
+너01/NP + 가/JKS 그렇다/VA + 게/EC 너01/NP + 의/JKG 목숨/NNG + 처럼/JKB 생각하다/VV + 던/ETM 저04/MM 야슨/NNP + 을/JKO 보다01/VV + 아/EF + ./SF
+과연01/MAG 저04/MM 야슨/NNP + 은/JX 너01/NP + 가/JKS 모든/MM 것01/NNB + 을/JKO 던지다/VV + 어/EC 버리다01/VX + 고/EC 찾아내다/VV + ㄴ/ETM 안식처/NNG + 더냐/EF + ./SF
+처음/NNG + 엔/JKB 너01/NP + ㄴ/JX 그렇다/VA + 게/EC 잔혹하다/VA + ㄴ/ETM 인간01/NNG + 이/JKC 아니다/VCN + 었/EP + 어/EF + ./SF
+야슨/NNP + 이/JKS 나타나다/VV + ㄴ/ETM 후08/NNG 헤라/NNP + 의/JKG 마수05/NNG + 에/JKB 걸리다01/VV + 어/EC 올바르다/VA + ㄴ/ETM 사리08/NNG 판단/NNG + 을/JKO 하다01/VV + 지/EC 못하다/VX + 고/EC 있다01/VX + 어/EF + ./SF
+메디아/NNP + ,/SP 생각하다/VV + 아/EC 보다01/VX + 아/EF + ./SF
+아이01/NNG + 들/XSN + 이나/JC 너01/NP + 나/JC 공주01/NNG + 가/JKS 모두01/MAG 피해자/NNG + 야/EF + ./SF
+삶/NNG + 과/JC 희망/NNG + 은/JX 너01/NP + 에게/JKB 주어지다/VV + 는/ETM 것01/NNB + 이/JKC 아니다/VCN + 고/EC 바로02/MAG 너01/NP + 의/JKG 자신01/NNG + 의/JKG 의지06/NNG + 와/JC 노력01/NNG + 으로/JKB 하나하나/MAG 세우다01/VV + 어/EC 나가다/VX + 는/ETM 거01/NNB + 야/EF + ./SF
+이제01/NNG + 는/JX 털다/VV + 고/EC 일어나다/VV + 거라/EF + ./SF
+훌훌01/MAG 털다/VV + 고/EC 한01/MM 사람/NNG + 의/JKG 어미01/NNG + 도/JX 아내01/NNG + 이다/VCP + 기/ETN + 도/JX 전08/NNG + 에/JKB 새롭다/VA + 은/ETM 그림01/NNG + 을/JKO 그리다02/VV + 는/ETM 거01/NNB + 야/EF + ./SF
+한01/MM 인간01/NNG + 으로/JKB 이05/MM 땅01/NNG + 에/JKB 굳다/VA + 게/EC 백지상태/NNG + 에서/JKB 뿌리박다/VV + 고/EC 서다01/VV + 어/EC 있다01/VX + 는/ETM 그림01/NNG + 을/JKO + …/SE + …/SE + ./SF
+누구/NP + 나/JX 이05/MM 연극/NNG + 을/JKO 보다01/VV + 고/EC 나다01/VX + 면/EC 한번/NNG + 쯤/XSN 가슴01/NNG + 에/JKB 손01/NNG + 을/JKO 얹다/VV + 고/EC 생각하다/VV + 아/EC 보다01/VX + 아야/EC 하다01/VX + ㄹ/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+나03/NP + 는/JX 혹시01/MAG 현대01/NNG + 의/JKG 메디아/NNP + 가/JKC 아니다/VCN + ㄴ지/EF + …/SE + …/SE + ./SF
+나03/NP + 는/JX 야슨/NNP + 같이/JKB 현실적/NNG + 이/JKC 되다01/VV + 어/EC 메디아/NNP 같다/VA + 은/ETM 연인06/NNG + 을/JKO 만들다/VV + 고/EC 있다01/VX + 는/ETM 것01/NNB + 은/JX 아니다/VCN + ㄴ지/EF + …/SE + …/SE + ./SF
+나03/NP + 는/JX 혹시01/MAG 나03/NP + 의/JKG 분노/NNG + 를/JKO 잘못/MAG 다스리다/VV + 어/EC 나03/NP + 의/JKG 자식01/NNG + 들/XSN + 에게/JKB + 까지/JX 치명적/NNG + 이다/VCP + ㄴ/ETM 상해03/NNG + 를/JKO 입히다/VV + 고/EC 말다03/VX + 는/ETM 것01/NNB + 은/JX 아니다/VCN + ㄴ지/EF + …/SE + …/SE + ./SF
+어디01/NP 용하다01/VA + ㄴ/ETM 점쟁이/NNG 없다01/VA + 을까/EF 나03/NP + 는/JX 실제로/MAG 점03/NNG + 을/JKO 치다02/VV + 어/EC 보다01/VX + ㄴ/ETM 적03/NNB + 이/JKS 없다01/VA + 다/EF + ./SF
+딱03/MAG 한01/MM 번04/NNB 동료/NNG + 들/XSN + 과/JKB 소녀02/NNG 점쟁이/NNG + 를/JKO 만나다/VV + 러/EC 가다01/VV + ㄴ/ETM 적03/NNB + 은/JX 있다01/VA + 지만/EC 그때/NNG + 도/JX 호기심/NNG + 으로/JKB 가다01/VV + ㄴ/ETM 거01/NNB + 지/EC 특별히/MAG 점치다01/VV + ㄹ/ETM 일01/NNG + 이/JKS 있다01/VA + 어서/EC 가다01/VV + ㄴ/ETM 것01/NNB + 은/JX 아니다/VCN + 었/EP + 다/EF + ./SF
+그래서/MAJ 그렇다/VA + ㄴ지/EC 점괘01/NNG + 가/JKS 안02/MAG 나오다/VV + 아/EC 소녀02/NNG 점쟁이/NNG + 와/JC 굿01/NNG + 에/JKB 관하다02/VV + ㄴ/ETM 얘기/NNG + 만/JX 실컷/MAG 하다01/VV + 다가/EC 오다01/VV + 았/EP + 다/EF + ./SF
+그렇지만/MAJ 나03/NP + 는/JX 점03/NNG + 의/JKG 원리02/NNG + 에/JKB 따르다01/VV + 아/EC 살아가다/VV + 고/EC 있다01/VX + 다/EF + ./SF
+전08/NNG + 에/JKB + 는/JX 물론01/MAG 안02/MAG 그랬/NV + 지만/EC 정신과/NNG 의사12/NNG + 를/JKO 하다01/VV + 면서/EC + ,/SP 특히/MAG 융/NNP 심리학/NNG + 을/JKO 접하다01/VV + 고/EC 사이코드라마/NNG + 를/JKO 하다01/VV + 면서/EC + 부터/JX 나03/NP + 는/JX 점03/NNG + 의/JKG 원리02/NNG + 에/JKB 맹종하다/VV + 다시피/EC 살아가다/VV + 고/EC 있다01/VX + 다/EF + ./SF
+나03/NP + 의/JKG 뜻/NNG + 보다/JKB + 는/JX 신09/NNG + 의/JKG 뜻/NNG + 에/JKB 따르다01/VV + 아/EC 살아가다/VV + 기/ETN 때문/NNB + 이다/VCP + 다/EF + ./SF
+신09/NNG + 의/JKG 뜻/NNG 하다01/VV + 면/EC 거창하다/VA + 지만/EC 다르다01/VA + ㅁ/ETN 아니다/VCN + ㄴ/ETM 무의식/NNG + 의/JKG 소리01/NNG + 에/JKB 겸허히/MAG 귀01/NNG + 를/JKO 기울이다/VV + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+무의식/NNG + 의/JKG 소리01/NNG + 는/JX 의식03/NNG + 에/JKB 상징/NNG + 으로/JKB 전달되다/VV + ㄴ다/EF + 고/JKQ 하다01/VV + ㄴ다/EF + ./SF
+그01/MM 상징/NNG + 을/JKO 인간01/NNG + 의/JKG 머리01/NNG + 로/JKB 풀다/VV + ㄹ/ETM 재간02/NNG + 은/JX 없다01/VA + 다/EF + ./SF
+그냥/MAG 겸허히/MAG 그01/NP + 에/JKB 담기다01/VV + ㄴ/ETM 느낌/NNG + 을/JKO 따르다01/VV + ㄹ/ETM 뿐01/NNB + 이다/VCP + 다/EF + ./SF
+그01/MM 상징/NNG + 을/JKO 심리학/NNG + 에서/JKB + 는/JX 점03/NNG + 으로/JKB + 도/JX 이해하다02/VV + ㄴ다/EF + ./SF
+구체적/NNG + 으로/JKB 점03/NNG + 의/JKG 원리02/NNG + 에/JKB 따르다01/VV + 는/ETM 방식01/NNG + 을/JKO 설명하다/VV + 면/EC 이러하다/VA + 다/EF + ./SF
+우선02/MAG 아침/NNG + 에/JKB 일어나다/VV + 면/EC 열03/MM 일01/NNG 제치다01/VV + 고/EC 꿈01/NNG + 부터/JX 적다01/VV + 는다/EF + ./SF
+꿈01/NNG + 을/JKO 적다01/VV + 는/ETM 것01/NNB + 이/JKS 절대05/MAG 우선07/NNG + 이다/VCP + 다/EF + ./SF
+그렇다/VA + 다고/EC 나03/NP + 가/JKS 그01/MM 꿈01/NNG + 을/JKO 자꾸01/MAG 되씹다/VV + 어/EC 보다01/VX + 는/ETM 것01/NNB + 도/JX 아니다/VCN + 다/EF + ./SF
+무조건/MAG 무의식/NNG + 의/JKG 소리01/NNG + 를/JKO 듣다01/VV + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+꿈01/NNG + 의/JKG 소리01/NNG + 에/JKB 귀01/NNG + 를/JKO 기울이다/VV + 고/EC 그01/MM 안01/NNG + 에/JKB 담기다01/VV + ㄴ/ETM 뜻/NNG + 을/JKO 겸허히/MAG 따르다01/VV + 려/EC + 는/ETM 자세02/NNG + 만/JX + 으로/JKB + 도/JX 꿈01/NNG + 은/JX 나03/NP + 에게/JKB 많다/VA + 은/ETM 것01/NNB + 을/JKO 가르치다01/VV + 어/EC 주다01/VX + 고/EC 나03/NP + 의/JKG 삶/NNG + 을/JKO 풍요롭다/VA + 게/EC 하다01/VX + 아/EC 주다01/VX + ㄴ다/EF + ./SF
+오늘/NNG + 은/JX 아버님/NNG + 으로부터/JKB 보호01/NNG + 를/JKO 받다01/VV + 고/EC 돈01/NNG + 을/JKO 받다01/VV + 아/EC 북한/NNP 같다/VA + 은/ETM 곳01/NNG + 에서/JKB 탈출하다02/VV + 는/ETM 꿈01/NNG + 을/JKO 꾸다01/VV + 었/EP + 는데/EC + ,/SP 일어나다/VV + 아/EC 꿈01/NNG + 을/JKO 적다01/VV + 자마자/EC 아버님/NNG 방07/NNG + 으로/JKB 들어가다01/VV + 았/EP + 다/EF + ./SF
+아버님/NNG + 은/JX 나03/NP + 에/JKB 대하다02/VV + ㄴ/ETM 간섭/NNG + 이/JKS 심하다/VA + 아/EC 나03/NP + 는/JX 항상/MAG 거리감/NNG + 을/JKO 두다01/VV + 고/EC 대하다02/VV + 았/EP + 는데/EC 그날/NNG + 은/JX 무조건/MAG 아버님/NNG + 이/JKS 고맙다01/VA + 었/EP + 다/EF + ./SF
+그래서/MAJ 용돈/NNG + 을/JKO 드리다01/VV + 고/EC 방07/NNG + 을/JKO 나오다/VV + 았/EP + 는데/EC 그렇다/VA + 게/EC 홀가분하다/VA + ㄹ/ETM 수02/NNB 없다01/VA + 었/EP + 다/EF + ./SF
+오랫동안/NNG 긴장되다/VV + 었/EP + 던/ETM 아버님/NNG + 과/JKB + 의/JKG 관계05/NNG + 가/JKS 풀리다/VV + 는/ETM 것01/NNB 같다/VA + 았/EP + 다/EF + ./SF
+나03/NP + 는/JX 이러하다/VA + ㄴ/ETM 것01/NNB + 도/JX 일종03/NNG + 의/JKG 점괘01/NNG + 에/JKB 따르다01/VV + 는/ETM 것01/NNB + 이다/VCP + 라/EF + 고/JKQ 생각하다/VV + ㄴ다/EF + ./SF
+점03/NNG + 이다/VCP + 라/EF + 는/ETM 것01/NNB 자체02/NNG + 가/JKS 무의식/NNG + 의/JKG 소리01/NNG + 를/JKO 의식03/NNG + 에/JKB 강하다02/VA + 게/EC 전달하다02/VV + 아/EC 주다01/VX + 는/ETM 것01/NNB + 이다/VCP + 기에/EC 꿈01/NNG + 의/JKG 소리01/NNG + 와/JKB 다르다01/VA + ㄹ/ETM 것01/NNB + 이/JKS 없다01/VA + 다/EF + ./SF
+사이코드라마/NNG + 를/JKO 하다01/VV + ㄹ/ETM 때01/NNG + 는/JX 더욱/MAG 그렇다/VA + 다/EF + ./SF
+무대06/NNG + 에/JKB 연출자/NNG + 로/JKB 서다01/VV + 게/EC 되다01/VV + 면/EC 나03/NP + 는/JX 그때/NNG + 부터/JX 무당01/NNG + 이다/VCP + 다/EF + ./SF
+무대06/NNG + 에/JKB 서다01/VV + ㄴ/ETM 주연자/NNG 외04/NNB + 에/JKB + 는/JX 아무것/NNG + 도/JX 보이다01/VV + 지/EC 않다/VX + 는다/EF + ./SF
+조명06/NNG 탓/NNG + 도/JX 있다01/VA + 겠/EP + 지만/EC 일단01/MAG 주연자/NNG 이외01/NNG + 는/JX 무시하다/VV + ㄴ다/EF + ./SF
+그리고/MAJ 주연자/NNG + 에게/JKB 집중하다02/VV + ㄴ/ETM 상태01/NNG + 에서/JKB 나03/NP + 의/JKG 속01/NNG + 에서/JKB 순수하다02/VA + 게/EC 울리다01/VV + 어/EC 나오다/VV + 는/ETM 느낌/NNG + 의/JKG 소리01/NNG + 에/JKB 귀01/NNG + 를/JKO 기울이다/VV + 고/EC 타이밍/NNG + 을/JKO 놓치다/VV + 지/EC 않다/VX + 고/EC 무대06/NNG + 에서/JKB 실행02/NNG + 에/JKB 옮기다/VV + ㄴ다/EF + ./SF
+그01/MM 소리01/NNG + 가/JKS 아무리/MAG 얼토당토않다/VA + 은/ETM 상황02/NNG + 이다/VCP + 더라도/EC 무조건/MAG 무대06/NNG + 의/JKG 그01/MM 상황02/NNG + 에/JKB 도전하다01/VV + ㄴ다/EF + ./SF
+그러면/MAJ 대개03/NNG + 는/JX 그01/MM 사람/NNG + 의/JKG 마음01/NNG + 의/JKG 흐름/NNG + 을/JKO 따라가다/VV + 는/ETM 것01/NNB + 이/JKC 되다01/VV + 어/EC 한01/MM 바퀴01/NNB 원12/NNG + 을/JKO 돌다/VV + 아/EC 카타르시스/NNG + 에/JKB 도달하다01/VV + 게/EC 되다01/VV + ㄴ다/EF + ./SF
+가끔/MAG + 씩/XSN 대학생/NNG + 들/XSN + 이/JKS 사이코드라마/NNG + 의/JKG 매력/NNG + 이/JKS 무엇/NP + 이다/VCP + 냐/EF + 고/JKQ 묻다01/VV + 어/EC 오다01/VX + 면/EC 나03/NP + 는/JX 간단히/MAG 대답하다/VV + ㄴ다/EF + ./SF
+그것/NP + 은/JX 굿01/NNG + 의/JKG 매력/NNG + 과/JKB 같다/VA + 은/ETM 것01/NNB + 이다/VCP + 라/EF + 고/JKQ + ./SF
+꿈01/NNG + 을/JKO 따르다01/VV + 고/EC 사이코드라마/NNG + 를/JKO 하다01/VV + 는/ETM 것01/NNB 외04/NNB + 에/JKB + 도/JX 나03/NP + 의/JKG 일상04/NNG + 은/JX 거의01/MAG 점03/NNG + 의/JKG 원리02/NNG + 에/JKB 지배되다/VV + 고/EC 있다01/VX + 다/EF + ./SF
+예08/NNG + 를/JKO 들다01/VV + 어/EC 사람/NNG + 을/JKO 만나다/VV + 거나/EC 칼럼/NNG + 을/JKO 쓰다01/VV + 거나/EC 작품01/NNG + 을/JKO 쓰다01/VV + ㄹ/ETM 때01/NNG 가장01/MAG 중요시하다/VV + 는/ETM 거01/NNB + 이/JKS 느낌/NNG + 이다/VCP + 다/EF + ./SF
+느낌/NNG + 이/JKS 떠오르다/VV + 면/EC 그01/NP + 에/JKB 무조건/MAG 따르다01/VV + ㄴ다/EF + ./SF
+머리01/NNG + 를/JKO 복잡하다/VA + 게/EC 쓰다03/VV + 거나/EC 이것저것/NNG 따지다01/VV + 지/EC 않다/VX + 는다/EF + ./SF
+글/NNG + 을/JKO 쓰다01/VV + ㄹ/ETM 때01/NNG + 도/JX 마음속/NNG + 에서/JKB 떠오르다/VV + 는/ETM 말01/NNG + 부터/JX 무조건/MAG 먼저/MAG 쓰다01/VV + 고/EC 그01/MM 말01/NNG + 을/JKO 중심01/NNG + 으로/JKB 숨기다/VV + 어/EC + 지다04/VX + ㄴ/ETM 의미02/NNG + 나/JC 구성07/NNG + 을/JKO 찾다/VV + 는다/EF + ./SF
+이05/MM 느낌/NNG + 이다/VCP + 라/EF + ㄴ/ETM 것01/NNB + 도/JX 바로02/MAG 무의식/NNG + 의/JKG 근원/NNG + 에서/JKB 의식03/NNG + 에/JKB 울리다01/VV + 어/EC 나오다/VV + 는/ETM 소리01/NNG + 로/JKB 점괘01/NNG 같다/VA + 은/ETM 상징성/NNG + 을/JKO 갖다01/VV + 고/EC 있다01/VX + 다/EF + ./SF
+그러나/MAJ 점03/NNG 즉01/MAG 무의식/NNG + 의/JKG 상징적/MM 소리01/NNG + 에/JKB 귀01/NNG 기울이다/VV + ㄹ/ETM 때01/NNG + 는/JX 겸허하다/VA + 아야지/EC 자기중심적/NNG + 으로/JKB 귀01/NNG 기울이다/VV + 다가/EC + 는/JX 정신병/NNG + 으로/JKB 발전하다01/VV + ㄹ/ETM 수02/NNB + 도/JX 있다01/VA + 다/EF + ./SF
+자기04/NP + 가/JKS 혹시01/MAG 메시아01/NNG + 가/JKC 아니다/VCN + ㄴ가/EF 하다01/VV + 는/ETM 생각01/NNG + 에/JKB 사로잡히다/VV + 어/EC 길01/NNG + 을/JKO 떠돌다/VV + 던/ETM 한01/MM 대학생/NNG + 이/JKS 육교02/NNG 위01/NNG + 에서/JKB 점쟁이/NNG + 를/JKO 만나다/VV + 았/EP + 다/EF + ./SF
+그01/NP + 는/JX 점쟁이/NNG + 가/JKS 자기04/NP + 를/JKO 어떻다/VA + 게/EC 알아보다/VV + 는지/EF 궁금하다01/VA + 아/EC 점03/NNG + 을/JKO 보다01/VV + 았/EP + 다/EF + ./SF
+그러다/VV + 자/EC 점쟁이/NNG + 는/JX 상징적/NNG + 이다/VCP + 기/ETN + ㄴ/JX 하다01/VX + 지만/EC 그01/NP + 를/JKO 메시아01/NNG + 로/JKB 암시하다01/VV + 는/ETM 것01/NNB + 이다/VCP + 었/EP + 다/EF + ./SF
+그01/NP + 는/JX '/SS + 역시01/MAJ 나03/NP + 는/JX 메시아01/NNG + 구나/EF + !/SF + '/SS
+하다01/VV + 는/ETM 들뜨다/VV + ㄴ/ETM 기분01/NNG + 에/JKB 역술01/NNG 책01/NNG + 을/JKO 넘기다/VV + 어/EC 보다01/VX + 니/EC 거기01/NP + 에/JKB + 는/JX 사천왕/NNG + 이/JKS 나오다/VV + 았/EP + 다/EF + ./SF
+그01/NP + 는/JX 점쟁이/NNG + 에게/JKB 이05/NP + 들/XSN + 보다/JKB 더01/MAG 높다/VA + 은/ETM 인물/NNG + 이/JKS 있다01/VA + 지/EC 않다/VX + 냐/EF + 고/JKQ 엄숙하다/VA + 게/EC 묻다03/VV + 었/EP + 고/EC + ,/SP 점쟁이/NNG + 는/JX 우물우물02/MAG 시인하다01/VV + 았/EP + 다/EF + ./SF
+그01/NP + 는/JX 자기04/NP + 가/JKS 메시아01/NNG + 라/EF + 고/JKQ 더욱/MAG 확신01/NNG + 을/JKO 갖다01/VV + 게/EC 되다01/VV + 자/EC 주위02/NNG + 에서/JKB + 는/JX 기적03/NNG 같다/VA + 은/ETM 일01/NNG + 들/XSN + 이/JKS 일어나다/VV + 기/ETN 시작하다01/VV + 았/EP + 다/EF + ./SF
+그01/NP + 가/JKS 메시아01/NNG + 이다/VCP + ㅁ/ETN + 을/JKO 확증하다/VV + 아/EC 주다01/VX + 는/ETM 일련01/NNG + 의/JKG 환각02/NNG + 들/XSN + 이/JKS 교묘하다/VA + 게/EC 발생하다/VV + 는/ETM 것01/NNB + 이다/VCP + 었/EP + 다/EF + ./SF
+얼마/NNG 후08/NNG 그01/NP + 는/JX 자기04/NP + 가/JKS 메시아01/NNG + 라/EF + 고/JKQ 떠들다01/VV + 다가/EC 정신12/NNG 병원02/NNG + 에/JKB 입원하다01/VV + 았/EP + 다/EF + ./SF
+그01/NP + 는/JX 곧01/MAJ 퇴원하다/VV + 았/EP + 는데/EC 퇴원01/NNG 후08/NNG + 에/JKB + 도/JX 자신01/NNG + 의/JKG 환각02/NNG 체험/NNG + 에/JKB 대하다02/VV + 아서/EC + 만/JX + 은/JX 내내01/MAG 궁금하다01/VA + 았/EP + 다/EF + ./SF
+어떻다/VA + 게/EC 주위02/NNG + 에서/JKB 자기04/NP + 를/JKO 메시아01/NNG + 로/JKB 암시하다01/VV + 는/ETM 상징적/NNG + 이다/VCP + ㄴ/ETM 일01/NNG + 들/XSN + 이/JKS 그렇다/VA + 게/EC 많이/MAG 일어나다/VV + 았/EP + 는지/EC + ,/SP 육교02/NNG 위01/NNG + 의/JKG 점쟁이/NNG + 는/JX 어떻다/VA + 게/EC 자기04/NP + 를/JKO 메시아01/NNG + 로/JKB 알아보다/VV + 았/EP + 는지/EF + ,/SP 그리고/MAJ 역술01/NNG 책01/NNG + 을/JKO 넘기다/VV + 었/EP + 을/ETM 때01/NNG 왜02/MAG 자기04/NP + 를/JKO 메시아01/NNG + 로/JKB 상징하다/VV + 는/ETM 그림01/NNG + 이/JKS 나오다/VV + 았/EP + 는지/EF + …/SE + …/SE 등등01/NNB + 이/JKS 궁금하다01/VA + 았/EP + 다/EF + ./SF
+특히/MAG 환각02/NNG 속01/NNG + 에서/JKB 자기04/NP + 가/JKS 예측하다/VV + 고/EC 추측하다/VV + 는/ETM 것01/NNB + 들/XSN + 이/JKS 실제로/MAG 발생하다/VV + 는/ETM 것01/NNB + 은/JX + (/SS 나뭇잎/NNG + 이/JKS 떨어지다/VV + ㄴ다/EF + 고/JKQ 생각하다/VV + 면/EC 나뭇잎/NNG + 이/JKS 떨어지다/VV + 고/EC + ,/SP 저04/MM 사람/NNG + 이/JKS 나03/NP + 를/JKO 돌아보다/VV + ㄹ/ETM 것01/NNB + 이다/VCP + 라/EF + 고/JKQ 생각하다/VV + 면/EC 돌아보다/VV + 고/EC + ,/SP 길01/NNG 건너다/VV + ㄹ/ETM 때01/NNG 파랗다/VA + ㄴ/ETM 불01/NNG + 이/JKS 켜다01/VV + 어/EC + 지다04/VX + 는/ETM 등05/NNB + )/SS 아무리/MAG 우연02/NNG + 의/JKG 일치01/NNG + 로/JKB 돌리다04/VV + 려고/EC 하다01/VX + 아도/EC 되다01/VV + 지/EC 않다/VX + 았/EP + 다/EF + ./SF
+물론01/MAG 그런01/MM 일01/NNG + 들/XSN + 을/JKO 별것/NNG 아니다/VCN + 라/EF + 고/JKQ 치부하다03/VV + ㄹ/ETM 수02/NNB + 도/JX 있다01/VA + 고/EC 자기중심적/NNG + 이다/VCP + ㄴ/ETM 해석03/NNG + 이다/VCP + 라/EF + 고/JKQ 보다01/VV + ㄹ/ETM 수02/NNB + 도/JX 있다01/VA + 겠/EP + 지만/EC 단순히/MAG 넘기다/VV + 기/ETN + 에/JKB + 는/JX 너무01/MAG + 도/JX 인상적/NNG + 이다/VCP + 었/EP + 고/EC 신기하다01/VA + 았/EP + 으며/EC 이해06/NNG 안02/MAG 되다01/VV + 는/ETM 점10/NNG + 들/XSN + 이/JKS 많다/VA + 았/EP + 다/EF + ./SF
+이때/NNG 그01/NP + 가/JKS 그01/MM 의아하다/VA + ㅁ/ETN + 에/JKB 깊이02/MAG 사로잡히다/VV + 어/EC '/SS + 그래01/IC + ,/SP 아무리/MAG 생각하다/VV + 아도/EC 나03/NP + 는/JX 역시01/MAJ 메시아01/NNG + 야/EF + '/SS + 라/JKQ + 는/ETM 식04/NNG + 으로/JKB 망상01/NNG + 을/JKO 다시01/MAG 하다01/VV + 면/EC 재발하다/VV + 게/EC 되다01/VV + ㄴ다/EF + ./SF
+그러나/MAJ 그01/NP + 가/JKS 처음/NNG + 부터/JX 신기하다01/VA + ㄴ/ETM 일01/NNG + 에/JKB 접하다01/VV + 았/EP + 을/ETM 때01/NNG 자기04/NP + 가/JKS 메시아01/NNG + 라/EF + 고/JKQ 생각하다/VV + 지/EC 않다/VX + 고/EC 세상01/NNG + 은/JX 참으로/MAG 신비롭다/VA + 고/EC 조화롭다/VA + 은/ETM 것01/NNB + 이다/VCP + 구나/EF + ,/SP 역시01/MAJ 신09/NNG + 이/JKS 짓다01/VV + 은/ETM 세계02/NNG + 는/JX 아름답다/VA + 은/ETM 것01/NNB + 이다/VCP + 구나/EF 하다01/VV + 고/EC 생각하다/VV + 았/EP + 다면/EC 정신12/NNG 병원02/NNG 신세01/NNG + 까지/JX + 는/JX 안02/MAG 지다05/VV + 었/EP + 을/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+우리03/NP 정신12/NNG 속01/NNG + 에/JKB + 는/JX 인간01/NNG + 의/JKG 이성08/NNG + 이나/JC 언어01/NNG + 를/JKO 뛰어넘다/VV + 는/ETM 힘01/NNG + 들/XSN + 이/JKS 존재하다/VV + ㄴ다/EF + ./SF
+그01/MM 힘01/NNG + 들/XSN + 은/JX 심지어/MAG + 는/JX 시간04/NNG + 과/JC 공간05/NNG + 까지/JX 뛰어넘다/VV + 어/EC 앞날/NNG + 을/JKO 예측하다/VV + 거나/EC 짐작하다/VV + 게/EC 하다01/VX + ㄹ/ETM 수02/NNB + 도/JX 있다01/VA + 고/EC 세계02/NNG + 를/JKO 자기중심적/NNG + 으로/JKB 개편하다/VV + 기/ETN + 도/JX 하다01/VX + ㄴ다/EF + ./SF
+그01/MM 힘01/NNG + 은/JX 바로02/MAG 무의식/NNG + 의/JKG 힘01/NNG + 이다/VCP + 다/EF + ./SF
+꿈01/NNG + 이나/JX 점술/NNG + 로써/JKB 앞날/NNG + 을/JKO 예측하다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 는/ETM 것01/NNB + 은/JX 모두01/MAG 무의식/NNG + 의/JKG 힘01/NNG 때문/NNB + 이다/VCP + 다/EF + ./SF
+꿈01/NNG + 과/JC 점술/NNG + 은/JX 의식03/NNG + 의/JKG 원칙/NNG + 과/JKB + 는/JX 별도01/NNG + 로/JKB 작용하다01/VV + ㄴ다/EF + ./SF
+의식03/NNG + 은/JX 인과율/NNG + ,/SP 즉01/MAG 원인02/NNG + 이/JKS 있다01/VA + 어야/EC 결과02/NNG + 가/JKS 있다01/VA + 는/ETM 데01/NNB 반하다03/VV + 아/EC 무의식/NNG + 은/JX 인과성/NNG 이외01/NNG + 의/JKG 다양하다01/VA + ㄴ/ETM 현상04/NNG + 도/JX 포용하다/VV + ㄴ다/EF + ./SF
+소위06/MAG 우연02/NNG + 이/JKS 그것/NP + 이다/VCP + 다/EF + ./SF
+이05/NP + 에/JKB 대하다02/VV + 아/EC 합리적/NNG + 으로/JKB 이해하다02/VV + 기/ETN 시작하다01/VV + ㄴ/ETM 사람/NNG + 은/JX 바로02/MAG 분석02/NNG 심리학/NNG + 의/JKG 창시자/NNG 융/NNP + 이다/VCP + 다/EF + ./SF
+융/NNP + 은/JX 우리03/NP 주위02/NNG + 에서/JKB 일어나다/VV + 는/ETM 우연02/NNG + 의/JKG 현상04/NNG 속01/NNG + 에/JKB + 는/JX 인과03/NNG 법칙/NNG + 과/JKB + 는/JX 다르다01/VA + ㄴ/ETM '/SS + 동시성/NNG 원리02/NNG + '/SS + 가/JKS 있다01/VA + 다/EF + 고/JKQ 보다01/VV + 았/EP + 다/EF + ./SF
+그01/MM 동시성/NNG 원리02/NNG + 는/JX 시간04/NNG + 과/JC 공간05/NNG + 을/JKO 뛰어넘다/VV + 기에/EC 기적03/NNG 같다/VA + 은/ETM 신비롭다/VA + 음/ETN + 이/JKS 있다01/VA + 으며/EC 그01/MM 바탕01/NNG + 에/JKB + 는/JX 무의식/NNG + 의/JKG 힘01/NNG + 이/JKS 존재하다/VV + ㄴ다/EF + 고/JKQ 보다01/VV + ㄴ다/EF + ./SF
+그01/MM 무의식/NNG + 은/JX 선험적/MM 지식02/NNG + 을/JKO 갖다01/VV + 고/EC 있다01/VX + 고/EC + ,/SP 인과율/NNG + 을/JKO 무시하다/VV + 고/EC 현상04/NNG + 을/JKO 직접/MAG 파악하다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 는/ETM 힘01/NNG + 을/JKO 갖다01/VV + 고/EC 있다01/VX + 으며/EC 시공02/NNG + 의/JKG 영향04/NNG + 을/JKO 받다01/VV + 지/EC 않다/VX + 는다/EF + ./SF
+융/NNP + 은/JX 그러하다/VA + ㄴ/ETM 무의식/NNG + 의/JKG 세계02/NNG + 를/JKO 가장01/MAG 잘02/MAG 표상하다*/VV + ㄴ/ETM 문헌/NNG + 이/JKS 바로02/MAG 주역/NNP + 이다/VCP + 라/EF + 고/JKQ 보다01/VV + 았/EP + 다/EF + ./SF
+주역/NNP + 은/JX 인간01/NNG + 과/JC 우주02/NNG + 의/JKG 일체02/NNG + ,/SP 양19/NNG + 과/JC 음07/NNG + (/SS 남성01/NNG + 과/JC 여성01/NNG + 의/JKG 원리02/NNG + )/SS + 의/JKG 대극03/NNG + 을/JKO 보충하다/VV + 아/EC 주다01/VX + 는/ETM 한01/MM 쌍02/NNG + 이다/VCP + 라/EF + 는/ETM 가설04/NNG + 에/JKB 기초06/NNG + 를/JKO 두다01/VV + 었/EP + 다/EF + ./SF
+이05/MM 괘02/NNG + 들/XSN + 은/JX 음양02/NNG + 의/JKG 가능하다/VA + ㄴ/ETM 모든/MM 조합01/NNG + 을/JKO 포함하다02/VV + 고/EC 있다01/VX + 다/EF + ./SF
+직선01/NNG + (/SS + ―/SS + )/SS + 은/JX 양19/NNG + ,/SP 남자02/NNG + 를/JKO 나타내다/VV + 고/EC + ,/SP 끊어지다/VV + ㄴ/ETM 선14/NNG + (/SS + --/SS + )/SS + 은/JX 음07/NNG + ,/SP 즉01/MAG 여자02/NNG + 를/JKO 나타내다/VV + ㄴ다/EF + ./SF
+각01/MM 괘02/NNG + 는/JX 인간01/NNG + 이나/JC 우주02/NNG + 의/JKG 상황02/NNG 변화/NNG + 를/JKO 기술하다01/VV + 고/EC 그01/MM 후08/NNG + 에/JKB 따르다01/VV + ㄹ/ETM 행동/NNG + 을/JKO 비유법/NNG + 으로/JKB 제시하다01/VV + 아/EC 주다01/VX + 고/EC 있다01/VX + 다/EF + ./SF
+융/NNP 심리학/NNG + 에서/JKB + 는/JX 우리03/NP + 의/JKG 마음01/NNG + 과/JC 자연01/NNG 사이01/NNG + 에/JKB 의미02/NNG 있다01/VA + 는/ETM 우연02/NNG + 의/JKG 일치01/NNG + 가/JKS 존재하다/VV + ㄴ다/EF + 고/JKQ 보다01/VX + ㄴ다/EF + ./SF
+사람/NNG + 이/JKS 의식적/NNG + 이다/VCP + ㄴ/ETM 모든/MM 노력01/NNG + 으로/JKB + 도/JX 알다/VV + ㄹ/ETM 수02/NNB 없다01/VA + 고/EC 결정하다01/VV + ㄹ/ETM 수02/NNB 없다01/VA + 는/ETM 절망적/NNG + 이다/VCP + ㄴ/ETM 상황02/NNG + 에/JKB 처하다/VV + ㄹ/ETM 때01/NNG 우리03/NP + 의/JKG 무의식/NNG + 은/JX 활성화하다/VV + 고/EC 이것/NP + 이/JKS 시공02/NNG + 의/JKG 한계/NNG + 를/JKO 뛰어넘다/VV + 어/EC 외부02/NNG 자연01/NNG + 과/JKB 교통하다/VV + ㄴ다/EF + ./SF
+무의식/NNG + 은/JX 의식03/NNG + 보다/JKB + 는/JX 오랜/MM 역사04/NNG 속01/NNG + 에서/JKB 형성되다/VV + ㄴ/ETM 것01/NNB + 이다/VCP + 므로/EC 의식03/NNG + 이/JKS 알다/VV + 는/ETM 것01/NNB + 보다/JKB 많다/VA + 은/ETM 것01/NNB + 을/JKO 알다/VV + 고/EC 또한/MAJ 지각하다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 다/EF + ./SF
+융/NNP + 은/JX 이05/NP + 를/JKO 무의식/NNG + 의/JKG 절대지/NNG + (/SS + 知/SH + )/SS + 라/EF + 고/JKQ 하다01/VV + 았/EP + 다/EF + ./SF
+곤경/NNG + 에/JKB 처하다/VV + ㄴ/ETM 사람/NNG + 이/JKS + ,/SP 즉01/MAG 의식03/NNG + 이/JKS 한계/NNG + 에/JKB 도달하다01/VV + 았/EP + 을/ETM 때01/NNG 진지하다/VA + ㄴ/ETM 마음01/NNG + 으로/JKB 질문/NNG + 을/JKO 던지다/VV + 어/EC 점03/NNG + 을/JKO 치다02/VV + 었/EP + 을/ETM 때01/NNG 무의식/NNG + 의/JKG 절대지/NNG + 가/JKS 드러나다/VV + 면서/EC 앞날/NNG + 의/JKG 예측/NNG + 이/JKS 가능하다/VA + 어/EC + 지다04/VX 것01/NNB + 이다/VCP + 다/EF + ./SF
+점03/NNG + 은/JX 점치다01/VV + 는/ETM 순간03/NNG + 에/JKB 그01/NP + 가/JKS 갖다01/VV + 고/EC 있다01/VX + 는/ETM 본질적/NNG + 이다/VCP + ㄴ/ETM 무의식/NNG + 의/JKG 소리01/NNG + 를/JKO 가르치다01/VV + 어/EC 주다01/VX + ㄴ다/EF + ./SF
+즉01/MAG 의식03/NNG + 이/JKS 한계/NNG + 에/JKB 도달하다01/VV + 았/EP + 을/ETM 때01/NNG 무의식/NNG + 이/JKS 강화되다/VV + 어/EC 의식03/NNG + 으로/JKB 흐르다01/VV + 어/EC 들어가다01/VV + 아/EC 의식03/NNG + 에/JKB 영향04/NNG + 을/JKO 주다01/VV + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+점03/NNG + 은/JX 무의식/NNG + 이/JKS 능력02/NNG + 을/JKO 발휘하다/VV + ㄹ/ETM 수02/NNB 있다01/VA + 도록/EC 의식03/NNG + 을/JKO 무08/NNG + (/SS + 無/SH + )/SS + 로/JKB 만들다/VV + 는/ETM 방법/NNG + 이다/VCP + 며/EC + ,/SP 바로02/MAG 의식03/NNG + 을/JKO 비우다01/VV + 고/EC 정지시키다*/VV + 어/EC 무의식/NNG + 이/JKS 동시성/NNG 원리02/NNG + 로써/JKB 삶/NNG + 의/JKG 본질02/NNG + 을/JKO 직접/MAG 포착하다/VV + 게/EC 하다01/VX + 는/ETM 것01/NNB + 이다/VCP + 다/EF + ./SF
+그러나/MAJ 그01/MM 점03/NNG + 의/JKG 해답/NNG + 은/JX 그01/MM 사람/NNG + 의/JKG 개성적/NNG + 이다/VCP + ㄴ/ETM 발전01/NNG + 에/JKB 도움/NNG + 을/JKO 주다01/VV + 는/ETM 것01/NNB + 이다/VCP + 지/EC 현실적/NNG + 이다/VCP + ㄴ/ETM 길흉화복/NNG + 에/JKB 영향04/NNG + 을/JKO 주다01/VV + 는/ETM 것01/NNB + 은/JX 아니다/VCN + 라/EF + 고/JKQ 하다01/VV + ㄴ다/EF + ./SF
+그래서/MAJ 주역/NNP + 을/JKO 지혜02/NNG + 의/JKG 책01/NNG + 이다/VCP + 라/EF + 고/JKQ + 도/JX 부르다01/VV + ㄴ다/EF + ./SF
+주역/NNP + 은/JX 끊임없이/MAG 변하다/VV + 는/ETM 우주02/NNG 가운데/NNG + 서/JKB 영원하다/VA + ㄴ/ETM 가치06/NNG + 를/JKO 강조하다/VV + 며/EC + ,/SP 내적01/MM 가치06/NNG + 를/JKO 중요시하다/VV + ㄹ/ETM 것01/NNB + 을/JKO 강력히/MAG 충고하다/VV + 면서/EC + 도/JX 한편/NNG + 으로/JKB + 는/JX 현실02/NNG + 에/JKB 적절히/MAG 대처하다02/VV + ㄹ/ETM 것01/NNB + 을/JKO 권하다/VV + ㄴ다/EF + ./SF
+점03/NNG + 은/JX 극한01/NNG 상황02/NNG + 에/JKB 가다01/VV + 았/EP + 을/ETM 때01/NNG 딱03/MAG 한01/MM 번04/NNB + 만/JX 보다01/VV + 는/ETM 것01/NNB + 이/JKS 좋다01/VA + 다/EF + ./SF
+그리고/MAJ 점03/NNG + 이다/VCP + 라/EF + 는/ETM 것01/NNB + 은/JX 꼭03/MAG 점쟁이/NNG + 를/JKO 찾아가다/VV + 아야/EC 보다01/VV + ㄹ/ETM 수02/NNB 있다01/VA + 는/ETM 것01/NNB + 이/JKC 아니다/VCN + 라/EC 주역/NNP + 을/JKO 갖다01/VV + 다/EC 놓다01/VV + 고/EC 간단히/MAG 혼자01/NNG + 서/JKS + 도/JX 하다01/VV + 아/EC 보다01/VX + ㄹ/ETM 수02/NNB 있다01/VA + 다/EF + ./SF
+우선02/MAG 점03/NNG + 을/JKO 치다02/VV + 기/ETN 전08/NNG + 에/JKB 마음속/NNG + 으로/JKB 먼저/MAG 질문/NNG + 을/JKO 하다01/VV + ㄴ다/EF + ./SF
+융/NNP 심리학자/NNG + 이다/VCP + ㄴ/ETM 요셉핸더슨/NNP + 은/JX 이때/NNG 다음01/NNG + 과/JKB 같이/MAG 질문하다/VV + ㄹ/ETM 것01/NNB + 을/JKO 충고하다/VV + ㄴ다/EF + ./SF
