@@ -15,8 +15,13 @@ print('2', no_punct_alice)
 the_changed_alice = alice.replace('the', 'THE')
 print('3', the_changed_alice)
 
+# “the”만 “THE”로 바꾸기 (cf. then)
+
+only_the_changed_alice = alice.replace(' the ', ' THE ')
+print('4', only_the_changed_alice)
+
 # 띄어쓰기로 분할하기
 
 tokenized_alice = alice.split()
 
-print('4', tokenized_alice)
+print('5', tokenized_alice)
