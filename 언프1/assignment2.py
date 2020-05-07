@@ -63,8 +63,9 @@ print('\n', unique_word_list, '\n')
 # 4. 3의 목록을 오름차순으로 정렬
 
 sorted_alice = sorted(unique_word_list)
+unique_word_list.sort() # 원본이 바뀌었기에 따로 변수에 저장하면 안나옴
 
 print("########################################")
 print("#### 4. 3의 목록을 오름차순으로 정렬 ####")
 print("########################################")
-print('\n', sorted_alice, '\n')
+print('\n', unique_word_list, '\n')
