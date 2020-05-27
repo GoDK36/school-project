@@ -17,9 +17,9 @@ def inflection(word):
             res = word[:-1] + 'ves'
             print(res)
 
-# inflection(input("Which word do you want to change? "))
+inflection(input("Which word do you want to change? "))
 
-def plural(word=input("Which word do you want to change? ")):
+def plural(word):
     if word[-1] == 'y':
         res = word[:-1] + 'ies'
         print(res)
@@ -36,4 +36,4 @@ def plural(word=input("Which word do you want to change? ")):
         res = word + 's'
         print(res)
 
-plural()                ## irregular는 따로 사전이 필요할듯합니다....
+# plural(input("Which word do you want to change? "))                ## irregular는 따로 사전이 필요할듯합니다....
