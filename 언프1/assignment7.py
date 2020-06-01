@@ -5,10 +5,6 @@ alice = file.read()
 
 # 소문자화
 lower_alice = alice.lower()
-print("\n##################")
-print("#### 소문자화 ####")
-print("##################\n")
-print(lower_alice)
 
 #기호 모두 삭제
 del_punc_alice = lower_alice.replace(",", '')
@@ -16,11 +12,6 @@ del_punc_alice = del_punc_alice.replace('\'', '')
 del_punc_alice = del_punc_alice.replace('.', '')
 del_punc_alice = del_punc_alice.replace('"', '')
 wrd_alice = del_punc_alice.split()
-print("\n########################")
-print("#### 기호 모두 삭제 ####")
-print("########################\n")
-print(wrd_alice)
-
 
 # unique word 만들기
 unique_word_list = list(set(wrd_alice))
@@ -30,12 +21,6 @@ unique_word_list.sort()
 alice_dict = {}
 for word in unique_word_list:
     alice_dict[word] = wrd_alice.count(word)
-
-
-print("\n##########################")
-print("#### 빈도 수 딕셔너리 ####")
-print("##########################\n")
-print(alice_dict)
 
 # alice_word_list.txt에 저장
 
