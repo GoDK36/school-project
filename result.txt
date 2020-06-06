@@ -1,0 +1,21 @@
+(S
+  (NP (Pron I))
+  (VP
+    (VP (V saw) (NP (Det the) (N man)))
+    (PP (P with) (NP (Det a) (N telescope)))))
+
+(S
+  (NP (Pron I))
+  (VP
+    (V saw)
+    (NP (Det the) (N man))
+    (PP (P with) (NP (Det a) (N telescope)))))
+
+(S
+  (NP (Pron I))
+  (VP
+    (V saw)
+    (NP
+      (NP (Det the) (N man))
+      (PP (P with) (NP (Det a) (N telescope))))))
+
