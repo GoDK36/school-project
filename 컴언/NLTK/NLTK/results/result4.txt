@@ -1,0 +1,12 @@
+(S
+  (PP
+    (P While)
+    (S
+      (NP (Nom (Pron you)))
+      (VP (V were) (VP (V taking) (NP (Det a) (Nom (N nap)))))))
+  (Punc ,)
+  (S
+    (NP (Nom (Pron I)))
+    (VP (V was) (VP (V working) (NP (Nom (N overtime)))))
+    (Punc .)))
+

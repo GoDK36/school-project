@@ -1,0 +1,83 @@
+(S
+  (NP (Det The) (Nom (N professor)))
+  (VP
+    (V permitted)
+    (NP
+      (NP
+        (NP (Det the) (Nom (N students)))
+        (PP (P to) (VP (V take) (NP (Det a) (Nom (N nap))))))
+      (PP (P during) (NP (Det the) (Nom (N class))))))
+  (Punc .))
+
+(S
+  (NP (Det The) (Nom (N professor)))
+  (VP
+    (V permitted)
+    (NP
+      (NP (Det the) (Nom (N students)))
+      (PP
+        (P to)
+        (VP
+          (VP (V take) (NP (Det a) (Nom (N nap))))
+          (PP (P during) (NP (Det the) (Nom (N class))))))))
+  (Punc .))
+
+(S
+  (NP (Det The) (Nom (N professor)))
+  (VP
+    (V permitted)
+    (NP
+      (NP (Det the) (Nom (N students)))
+      (PP
+        (P to)
+        (VP
+          (V take)
+          (NP
+            (NP (Det a) (Nom (N nap)))
+            (PP (P during) (NP (Det the) (Nom (N class)))))))))
+  (Punc .))
+
+(S
+  (NP (Det The) (Nom (N professor)))
+  (VP
+    (VP
+      (VP (V permitted) (NP (Det the) (Nom (N students))))
+      (PP (P to) (VP (V take) (NP (Det a) (Nom (N nap))))))
+    (PP (P during) (NP (Det the) (Nom (N class)))))
+  (Punc .))
+
+(S
+  (NP (Det The) (Nom (N professor)))
+  (VP
+    (VP
+      (V permitted)
+      (NP
+        (NP (Det the) (Nom (N students)))
+        (PP (P to) (VP (V take) (NP (Det a) (Nom (N nap)))))))
+    (PP (P during) (NP (Det the) (Nom (N class)))))
+  (Punc .))
+
+(S
+  (NP (Det The) (Nom (N professor)))
+  (VP
+    (VP (V permitted) (NP (Det the) (Nom (N students))))
+    (PP
+      (P to)
+      (VP
+        (VP (V take) (NP (Det a) (Nom (N nap))))
+        (PP (P during) (NP (Det the) (Nom (N class)))))))
+  (Punc .))
+
+(S
+  (NP (Det The) (Nom (N professor)))
+  (VP
+    (VP (V permitted) (NP (Det the) (Nom (N students))))
+    (PP
+      (P to)
+      (VP
+        (V take)
+        (NP
+          (NP (Det a) (Nom (N nap)))
+          (PP (P during) (NP (Det the) (Nom (N class))))))))
+  (Punc .))
+
