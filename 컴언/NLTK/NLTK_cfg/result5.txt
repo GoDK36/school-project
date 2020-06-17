@@ -1,0 +1,20 @@
+(S
+  (NP (Det The) (N professor))
+  (VP
+    (VP
+      (VP (V permitted) (NP (Det the) (N students)))
+      (PP (P to) (VP (V take) (NP (Det a) (N nap)))))
+    (PP (P during) (NP (Det the) (N class))))
+  (Punc .))
+
+(S
+  (NP (Det The) (N professor))
+  (VP
+    (VP (V permitted) (NP (Det the) (N students)))
+    (PP
+      (P to)
+      (VP
+        (VP (V take) (NP (Det a) (N nap)))
+        (PP (P during) (NP (Det the) (N class))))))
+  (Punc .))
+

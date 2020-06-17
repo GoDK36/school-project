@@ -16,7 +16,7 @@ sents = ["The company hired a man with sincerity.",
 ################################################################
 
 import nltk
-grammar = nltk.data.load(r"file:E:\Develop\python\school-project\컴언\NLTK\NLTK\new_grammar.cfg")
+grammar = nltk.data.load(r"file:E:\Develop\python\school-project\컴언\NLTK\NLTK\cfg 파일\new_grammar.cfg")
 parser = nltk.ChartParser(grammar)
 
 n = 1
@@ -24,7 +24,7 @@ for sent in sents:
     tokens = nltk.tokenize.word_tokenize(sent)
     trees = parser.parse(tokens)
 
-    with open(r"E:\Develop\python\school-project\컴언\NLTK\NLTK\result" + str(n) + ".txt", "w") as f1:
+    with open(r"E:\Develop\python\school-project\컴언\result" + str(n) + ".txt", "w") as f1:
         for tree in trees:
             print(tree)
             f1.write(str(tree)+"\n\n")

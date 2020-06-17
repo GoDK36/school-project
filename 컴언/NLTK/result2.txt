@@ -1,0 +1,7 @@
+(S
+  (WH-NP (Det Which) (Nom (N option)))
+  (Aux do)
+  (NP (Nom (Pron you)))
+  (VP (V want) (PP (P to) (V select)))
+  (Punc ?))
+

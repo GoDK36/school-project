@@ -1,0 +1,16 @@
+(S
+  (NP (Det The) (Nom (Nom (N shop)) (N manager)))
+  (VP
+    (VP (V wrote) (NP (Det an) (Nom (N email))))
+    (PP (P to) (NP (Det the) (Nom (N customer)))))
+  (Punc .))
+
+(S
+  (NP (Det The) (Nom (Nom (N shop)) (N manager)))
+  (VP
+    (V wrote)
+    (NP
+      (NP (Det an) (Nom (N email)))
+      (PP (P to) (NP (Det the) (Nom (N customer))))))
+  (Punc .))
+

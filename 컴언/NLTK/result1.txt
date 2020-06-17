@@ -1,0 +1,14 @@
+(S
+  (NP (Det The) (N company))
+  (VP
+    (VP (V hired) (NP (Det a) (N man)))
+    (PP (P with) (N sincerity)))
+  (Punc .))
+
+(S
+  (NP (Det The) (N company))
+  (VP
+    (V hired)
+    (NP (NP (Det a) (N man)) (PP (P with) (N sincerity))))
+  (Punc .))
+
