@@ -12,7 +12,6 @@ def OpenData(file_path):
 path = "E:\Develop\python\school-project\언프1\기말\Obama_speech.txt"
 
 data = OpenData(path)
-print(data)
 
 #############################################################################
 
@@ -37,8 +36,6 @@ def DelPunc(data):
     return(del_punc_data)
 
 del_punc_data = DelPunc(data)
-
-print(del_punc_data)
 
 #############################################################################
 

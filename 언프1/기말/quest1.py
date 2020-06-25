@@ -85,7 +85,8 @@ print("단어 리스트\n", word_list, '\n')
 
 re_data = ' '.join(word_list)
 
-print("재결합\n", re_data)
+print("재결합")
+print(re_data)
 
 print()
 print("####################################")
