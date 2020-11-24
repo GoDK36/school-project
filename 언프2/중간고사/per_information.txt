@@ -1,0 +1,15 @@
+Mike
+age: 15
+gender: male
+John
+age: 49
+gender: male
+Mary
+age 82
+gender: female
+Olivia
+age: 27
+gender: female
+Emma
+age: 28
+gender: female
